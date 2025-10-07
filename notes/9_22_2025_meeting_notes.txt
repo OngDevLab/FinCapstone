@@ -1,0 +1,128 @@
+BUSINESS OVERVIEW
+split from general mills, sell red lobster, 2023? acquisitions and focus on that is helpful, chuy's
+Segments, and list all the brands under each segment
+geo presence? every brand? map visual from the website could be good, list out the store counts for at least the big brands
+store counts are in the SEC filings and probably in some other stuff as well.
+basic financial metrics are good - revenue splits between the different segments percentage of each one, gross margin for each of the segmentsgross margin and net profit, don't need to get too focused, some qick hitters
+
+
+INDUSTRY
+Could be perfect to add a graph over time
+Need to add consumer spend for the industry slide, maybe by the real disposable income
+We have CPI and Core- with and without it
+FED recent rate cuts included
+Hit the major macro trends
+We can talk over some of these points
+
+
+SEGMENTS
+Major topics hit 
+Elaborate on competitors
+Pick some of the important metrics and compare and pool the stats- olive garden vs olive garden specific
+longhorn, and longhorn specific competitors
+Will talk later
+Future plans good to talk about
+recent earnings calls, analysts have been asking for what the future holds
+
+
+COMPANY SUMMARY
+Darden as a whole - financial overview, more in depth?
+Punt until outline is more filled out
+
+
+BEFORE OR AFTER RECENT NEWS
+swot analysis for the business?
+key summary findings and observations about the entire company and the recent news - summary side
+stock analysis
+
+RECENT NEWS
+Don't have to analyze under or overvalued etc yet. 
+Other points are good
+
+
+IN GENERAL
+categories are more or less all in; just need to flush out the presentation
+
+
+COMPETITORS
+Use this cohorts of competitors format:
+Darden
+Public peers (restaurant groups)
+-company a
+-company b
+
+Fine Dining
+-company d
+-company e
+
+Casual Dining
+-company t
+
+Fast Casual
+-company g
+
+QSR/Fast Food
+-company h
+
+each brand competes with certain people
+each segment compares with certain people
+the company as a whole compares with certain people
+
+go brand by brand and work through all the examples, and put it in the appendix
+just list who are the competitors, don't need to go full financial comparisons
+
+light financial comparisons for segments and darden vs other groups
+we will be given some examples
+
+Each brand's competitors, have that in the appendix- shake shack would be a good example of a fast-casual
+
+when comparing financials, we have to make public comparisons
+
+brinker is mostly chilis- so they would be more in the casual, but could be casual
+
+fast casual, stuff like chipotle, shake shack, etc.
+
+Yum brands may be qsr fast food because they mostly have brands mostly in qsr fast food
+
+Fine dining- not many public competitors so may need a bit more research to find.
+
+Lots of fine dining competitors are going to be private, they can be listed as competitors, but we cannot compare to them with financials
+
+comps - can compare financials
+
+Straddling financial metrics and competitors
+have the competitors from the above format,
+bold are the cohort values, compared by year, like sales growth, for each cohort- look at the average of each cohort, can compare darden to it- use the average as a proxy to compare the different segments
+rename it financial analysis
+fast casual, two larger ones we can see
+longhorn has a few more big competitors we can find.
+
+casual and fine dining- financial analysis can be used for the comparisons
+
+comparing Darden to peers is 2-3 years more recent
+
+darden vs. themselves start with 2019
+
+
+
+
+
+IMPORTANT FINANCIAL METRICS
+Sales Growth - Same Store sales growth - after a year, how it has grown on a store by store basis- tells you how your existing restaurants - each company and each segment is given from darden
+AUV - average unit volume: Revenue/total number of locations - all of darden and for each segment - used to see if there are underperforming restaurants
+we can add up the brands in fine dining, casual, etc.
+For competitors- it is pretty prevalent in the restaurant industry - auv show it for the ones we can
+Adjusted EBITDA, EPS, Adjusted EPS, easy to compare to competitors.
+debt to ebitda, some restaurants have better financial footing than others
+We don't need to do all of them, pick some good ones
+more niche metrics like franchise revenue, can go in the appendix
+For segment specific- gross margin by segment - fine dining should have more margin than fast casual - can do stuff from the earnings presentations instead of true gross margin, etc.
+If we do extra work and put it in the appendix, it can only help
+If asked-
+two ways to grow revenue - increase the number of stores, increase number of people into stores, increase prices
+is darden's revenue growth coming from new restaurants? people in the door? higher prices? be able to answer that
+earnings call transcripts, people tend to ask that- definitely something people could see asking - good to know darden as a whole and generally what all the segemnts are
+How many new restaurants opened can be an important metric as well
+maybe projections can come in to the presentation 
+
+Next meeting - iron out the presentation - get as close to a financial presentation as we can so we can clean up the final presentation to make sure we aren't missing anything big

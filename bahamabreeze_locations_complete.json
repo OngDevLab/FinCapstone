@@ -1,0 +1,4616 @@
+[
+  {
+    "restaurantNumber": 3035,
+    "restaurantName": "Seattle - Tukwila",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "2062414448",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "15700 Southcenter Pkwy",
+        "city": "Tukwila",
+        "country": "US",
+        "countryCode": "33",
+        "stateName": "Washington",
+        "zipCode": "981882827",
+        "stateCode": "WA",
+        "coordinates": {
+          "longitude": -122.261421,
+          "latitude": 47.46111
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600086",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Tukwila, Washington to experience handcrafted tropical drinks, Caribbean-inspired food, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near I-5 and Westfield Southcenter Mall. Visit the Bahama Breeze Island Grille location at 15700 Southcenter Parkway today to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2003-05-20",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "10:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "10:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=4002e6b0-6703-4134-98da-94df6db6753b"
+    },
+    "timeZone": "US/Pacific",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3009,
+    "restaurantName": "Atlanta - Kennesaw",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "6783547777",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "755 Ernest W Barrett Pkwy NW",
+        "city": "Kennesaw",
+        "country": "US",
+        "countryCode": "67",
+        "stateName": "Georgia",
+        "zipCode": "301444924",
+        "stateCode": "GA",
+        "coordinates": {
+          "longitude": -84.572705,
+          "latitude": 34.006244
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600074",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille located in Kennesaw, Georgia near Ernest W Barrett Parkway NW. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy our happy hours with specialty cocktails, half-priced appetizers, and island-themed live music or artfully curated playlists. We are conveniently located near Town Center Commons Mall. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 755 Ernest W Barrett Parkway NW today!",
+    "restaurantOpenDate": "1999-11-30",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "10:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=1d6256fb-6a76-4fe2-ab66-39d83ca61fa7"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3006,
+    "restaurantName": "Atlanta - Gwinnett",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7709356509",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "3590 Breckinridge Blvd",
+        "city": "Duluth",
+        "country": "US",
+        "countryCode": "135",
+        "stateName": "Georgia",
+        "zipCode": "300964911",
+        "stateCode": "GA",
+        "coordinates": {
+          "longitude": -84.127068,
+          "latitude": 33.949181
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600073",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille located in Duluth, Georgia near Pleasant Hill Road. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy our happy hours with specialty cocktails, half-priced appetizers, and island-themed live music or artfully curated playlists. We are conveniently located near Fairfield Inn & Suites Atlanta Gwinnett Place Hotel. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 3590 Breckinridge Boulevard today!",
+    "restaurantOpenDate": "1999-05-24",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "10:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=39a55958-bc04-4620-a6af-19f60ce09e32"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3019,
+    "restaurantName": "Detroit - Livonia",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7345420891",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "19600 Haggerty Rd",
+        "city": "Livonia",
+        "country": "US",
+        "countryCode": "163",
+        "stateName": "Michigan",
+        "zipCode": "481521077",
+        "stateCode": "MI",
+        "coordinates": {
+          "longitude": -83.432459,
+          "latitude": 42.429096
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600079",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille located in Livonia, Michigan near I-275. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy our happy hours with specialty cocktails, half-priced appetizers, and island-themed live music or artfully curated playlists. We are conveniently located near the AMC Livonia 20 Theater. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 19600 Haggerty Road today!",
+    "restaurantOpenDate": "2001-02-06",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=ac1e8c01-4f47-4f3c-932a-84cb2a43f874"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3041,
+    "restaurantName": "Pittsburgh-Robinson Township",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4127885790",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "6100 Robinson Center Drive",
+        "city": "Pittsburgh",
+        "country": "US",
+        "countryCode": "3",
+        "stateName": "Pennsylvania",
+        "zipCode": "152054860",
+        "stateCode": "PA",
+        "coordinates": {
+          "longitude": -80.159238,
+          "latitude": 40.450669
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600089",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Pittsburgh, Pennsylvania to experience happy hours with specialty handcrafted cocktails, half-priced appetizers, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near Steubenville Pike and the Red Roof Plus Pittsburgh South Hotel. Visit the Bahama Breeze Island Grille location at 6100 Robinson Center Drive today to explore island flavors in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2004-03-23",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=de97c81e-9402-48be-8340-ecefec56f73a"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3004,
+    "restaurantName": "Tampa",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8132897922",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "3045 N Rocky Point Dr. East",
+        "city": "Tampa",
+        "country": "US",
+        "countryCode": "57",
+        "stateName": "Florida",
+        "zipCode": "336075802",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -82.56264,
+          "latitude": 27.96983
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600071",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant Island atmosphere, look no further than the waterfront Bahama Breeze Island Grille located in Tampa, Florida near W Courtney Campbell Causeway. Famous for tropical cocktails, live music, Happy Hour with friends and more, the vibe at Bahama Breeze is just as good as the Caribbean-inspired food we're known for. We are located near the Westin Tampa Bay. To explore beautiful waterfront views, visit the Bahama Breeze Island Grille location at 3045 N Rocky Point Drive East today!",
+    "restaurantOpenDate": "1998-11-30",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 AM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:59 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": false,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=63cd6acf-5494-4c56-9185-80ef00f69a84"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3060,
+    "restaurantName": "Lutz - Wesley Chapel",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8139490779",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "25830 Sierra Center Blvd",
+        "city": "Lutz",
+        "country": "US",
+        "countryCode": "101",
+        "stateName": "Florida",
+        "zipCode": "335597603",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -82.39006593,
+          "latitude": 28.1955843
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "14500001",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille located in Lutz, Florida. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy our happy hours with specialty cocktails, half-priced appetizers, and island-themed live music or artfully curated playlists. We are conveniently located near the north end of where I-275 meets I-75, across from the Tampa Premium Outlets. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 25830 Sierra Center Blvd today!",
+    "restaurantOpenDate": "2018-07-16",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=d79e48f3-1fdc-4a0e-a8e8-a860cbf8ef3c"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3054,
+    "restaurantName": "Brandon - Brandon Mall",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8136810904",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "805 Brandon Town Center Drive",
+        "city": "Brandon",
+        "country": "US",
+        "countryCode": "57",
+        "stateName": "Florida",
+        "zipCode": "335114798",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -82.326921,
+          "latitude": 27.931976
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600102",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Brandon, Florida to experience handcrafted tropical drinks, Caribbean-inspired food, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near I-75 and the Westfield Brandon Mall. Visit the Bahama Breeze Island Grille location at 805 Brandon Town Center Drive today to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2012-10-01",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=388bf425-51f5-494c-8239-ba08f89b613f"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3044,
+    "restaurantName": "Jacksonville - St. Johns Town Center",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "9046461031",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "10205 River Coast Drive",
+        "city": "Jacksonville",
+        "country": "US",
+        "countryCode": "31",
+        "stateName": "Florida",
+        "zipCode": "322467407",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.52876,
+          "latitude": 30.25593
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600092",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Jacksonville, Florida to experience handcrafted tropical drinks, Caribbean-inspired food, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near E Beltway 295 and St Johns Town Center Mall. Visit the Bahama Breeze Island Grille location at 10205 River Coast Drive today to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2010-03-29",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": true,
+            "overrideMessage": "09:00 PM - CLOSE",
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": true,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=bcdeb8ea-2acc-44ed-ad30-f84bbff163a9"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3046,
+    "restaurantName": "Kissimmee - US 192 West",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4073900353",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "8160 Irlo Bronson Memorial Hwy",
+        "city": "Kissimmee",
+        "country": "US",
+        "countryCode": "97",
+        "stateName": "Florida",
+        "zipCode": "347471003",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.61403,
+          "latitude": 28.34627
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600094",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Kissimmee, Florida to experience handcrafted tropical drinks, Caribbean-inspired food, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near the FL-429 and US-192 in the Orange Lake Town Center. Visit the Bahama Breeze Island Grille location at 8160 Irlo Bronson Memorial Hwy today to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2011-05-16",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 AM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:50 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 4,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": true,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=e76347df-dfb3-4ef5-8b84-543d2e58d8b7"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3016,
+    "restaurantName": "Orlando - Lake Buena Vista",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4079389010",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "8735 Vineland Ave.",
+        "city": "Orlando",
+        "country": "US",
+        "countryCode": "95",
+        "stateName": "Florida",
+        "zipCode": "328216505",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.5033,
+          "latitude": 28.375067
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600008",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille in Orlando, Florida near Vineland Ave and Lake Buena Vista. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy our happy hours with specialty cocktails, half-priced appetizers, and island-themed live music or artfully curated playlists. We are conveniently located near the Courtyard Orlando Lake Buena Vista in the Marriott Village. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 8735 Vineland Avenue today!",
+    "restaurantOpenDate": "2000-11-27",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 4,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": true,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=bc9a3caf-d2f9-4fdf-af67-473b736b87f6"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3001,
+    "restaurantName": "Orlando - International Drive",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4072482499",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "8849 International Drive",
+        "city": "Orlando",
+        "country": "US",
+        "countryCode": "95",
+        "stateName": "Florida",
+        "zipCode": "328199320",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.471523,
+          "latitude": 28.437061
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600007",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille located in Orlando, Florida on I-Drive near I-4. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy island time with specialty cocktails and island-themed live music or artfully curated playlists. We are conveniently located near Homewood Suites Orlando International Drive Hotel. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 8849 International Drive today!",
+    "restaurantOpenDate": "1996-02-19",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "1:00 AM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:50 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:59 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 4,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=c069a8a2-b7ea-40c2-9952-d0d579576faf"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3061,
+    "restaurantName": "Orlando - Grand National",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4072269890",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "5620 W. Oak Ridge Rd",
+        "city": "Orlando",
+        "country": "US",
+        "countryCode": "95",
+        "stateName": "Florida",
+        "zipCode": "328199450",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.45373451,
+          "latitude": 28.47173639
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "14800001",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Orlando, Florida to experience handcrafted tropical drinks, Caribbean-inspired food, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near the Orlando International Premium Outlets and The Fun Spot off of I-4 & Florida's Turnpike. Visit the Bahama Breeze Island Grille location at the corner of Grand National Dr and W Oak Ridge Rd today to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2018-10-01",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 AM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "10:00 PM",
+            "endTime": "11:59 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": true,
+            "overrideMessage": "10:00 PM - CLOSE",
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": true,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:50 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:59 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 4,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": true,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=18c9dd9b-ee45-428d-9b85-ccdc6e844fc5"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3002,
+    "restaurantName": "Altamonte Springs",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4078312929",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "499 E. Altamonte Drive",
+        "city": "Altamonte Springs",
+        "country": "US",
+        "countryCode": "117",
+        "stateName": "Florida",
+        "zipCode": "327014603",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.37468,
+          "latitude": 28.66447
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600069",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille located in Altamonte Springs, Florida to experience happy hours with specialty handcrafted cocktails, half-priced appetizers, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near I-4 and Altamonte Mall. Visit the Bahama Breeze Island Grille location at 499 E. Altamonte Drive today to explore island flavors in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "1997-05-12",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "10:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 4,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": true,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=3c6f81b7-1c87-4b50-9ea5-46c4b5181128"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3059,
+    "restaurantName": "Sanford",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4073209946",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "1540 Rinehart Road",
+        "city": "Sanford",
+        "country": "US",
+        "countryCode": "117",
+        "stateName": "Florida",
+        "zipCode": "327717497",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.33177052,
+          "latitude": 28.80193026
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "13100001",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Sanford, Florida to experience handcrafted tropical drinks, Caribbean-inspired food, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near the NE corner of I-4 and the 417 by the Seminole Towne Center. Visit the Bahama Breeze Island Grille location at Reinhart Road and Garnett Lane today to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2017-11-13",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 4,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": true,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=ef4dd524-9e55-4f7f-8a35-f9e577784a73"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3057,
+    "restaurantName": "Kissimmee - Osceola Pkwy The Loop",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4073435903",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "1251 W Osceola Parkway",
+        "city": "Kissimmee",
+        "country": "US",
+        "countryCode": "97",
+        "stateName": "Florida",
+        "zipCode": "347417556",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.41772,
+          "latitude": 28.3429
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "11900001",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Kissimmee, Florida to experience handcrafted tropical drinks, Caribbean-inspired food, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near the NW corner of North John Young Parkway and West Osceola Parkway by The LOOP Shopping Plaza. Visit the Bahama Breeze Island Grille location at 1251 W. Osceola Parkway today to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2017-05-15",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "10:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 4,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": true,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=7da6687f-52c0-470b-81f8-58788a885fa5"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3064,
+    "restaurantName": "North Charleston",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8434055779",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "7811 Rivers Ave",
+        "city": "Charleston",
+        "country": "US",
+        "countryCode": "19",
+        "stateName": "South Carolina",
+        "zipCode": "294064066",
+        "stateCode": "SC",
+        "coordinates": {
+          "longitude": -80.04211511,
+          "latitude": 32.9470498
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "23400002",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in North Charleston, South Carolina to experience a vibrant island atmosphere filled with tropical drinks, Caribbean-inspired food, and live music. Music plays a major part of our restaurant's energetic island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near the Northwoods Mall off of I-26. Visit the Bahama Breeze Island Grille location at 7811 Rivers Ave. to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2021-05-24",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": true,
+            "overrideMessage": "9:00PM - CLOSE (Food only)",
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": true,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=e457eb84-7bd2-4725-b29c-2d21a3b05932"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3013,
+    "restaurantName": "Fort Myers",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "2394549234",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "14701 S. Tamiami Trail",
+        "city": "Fort Myers",
+        "country": "US",
+        "countryCode": "71",
+        "stateName": "Florida",
+        "zipCode": "339121951",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.87044,
+          "latitude": 26.529262
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600076",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille located in Fort Myers, Florida near I-75. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy our happy hours with specialty cocktails, half-priced appetizers, and island-themed live music or artfully curated playlists. We are conveniently located near the Crestwood Suites of Fort Myers Hotel. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 14701 S. Tamiami Trail today!",
+    "restaurantOpenDate": "2000-05-16",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "8:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": true,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=6348af46-6975-437d-9977-e1db1d034384"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3045,
+    "restaurantName": "Orlando - Waterford Lakes",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4076586770",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "1200 N Alafaya Trail",
+        "city": "Orlando",
+        "country": "US",
+        "countryCode": "95",
+        "stateName": "Florida",
+        "zipCode": "328285945",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.20761449,
+          "latitude": 28.5609178
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600093",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Orlando-Waterford Lakes to experience happy hours with specialty handcrafted cocktails, half-priced appetizers, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near Challenger Parkway and Waterford Lakes Town Center Mall. Visit the Bahama Breeze Island Grille location at 1200 N Alafaya Trail today to explore island flavors in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2012-02-27",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "10:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 4,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": true,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=46125f2d-bbc0-4438-b8ea-ee14c4649376"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3066,
+    "restaurantName": "Fayetteville - Cross Creek Mall",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "9107170033",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "570 Cross Creek Mall",
+        "city": "Fayetteville",
+        "country": "US",
+        "countryCode": "51",
+        "stateName": "North Carolina",
+        "zipCode": "283037246",
+        "stateCode": "NC",
+        "coordinates": {
+          "longitude": -78.96408,
+          "latitude": 35.07309
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "34600002",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Fayetteville, North Carolina to experience a vibrant island atmosphere filled with tropical drinks, Caribbean-inspired food, and live music. Music plays a major part of our restaurant's energetic island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located outside the Cross Creek Mall at the corner of Skibo Rd and Morganton Rd. Visit the Bahama Breeze Island Grille location at 570 Cross Creek Mall to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2024-02-05",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3005,
+    "restaurantName": "Raleigh",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "9198726330",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "3309 Wake Forest Dr.",
+        "street2": "...",
+        "city": "Raleigh",
+        "country": "US",
+        "countryCode": "183",
+        "stateName": "North Carolina",
+        "zipCode": "276097314",
+        "stateCode": "NC",
+        "coordinates": {
+          "longitude": -78.620665,
+          "latitude": 35.828083
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600072",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille located in Raleigh, North Carolina near I-440. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy our happy hours with specialty cocktails, half-priced appetizers, and island-themed live music or artfully curated playlists. We are conveniently located near Hyatt Place North Raleigh-Midtown Hotel. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 3309 Wake Forest Drive today!",
+    "restaurantOpenDate": "1999-05-17",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=6c339029-f9c1-4dd5-99be-292fdc2d5d43"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3051,
+    "restaurantName": "Woodbridge - Potomac Mills",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7034914736",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "2714 Potomac Mills Circle",
+        "city": "Woodbridge",
+        "country": "US",
+        "countryCode": "153",
+        "stateName": "Virginia",
+        "zipCode": "221924645",
+        "stateCode": "VA",
+        "coordinates": {
+          "longitude": -77.29618,
+          "latitude": 38.64224
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600099",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Woodbridge, Virginia to experience happy hours with specialty handcrafted cocktails, half-priced appetizers, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near I-95 and the Potomac Mills Mall. Visit the Bahama Breeze Island Grille location at 2714 Potomac Mills Circle today to explore island flavors in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2013-01-23",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": true,
+            "overrideMessage": "9:00PM - CLOSE (Food only)",
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": true,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=fa8bf299-0a17-469f-9144-7f3b0d9193ff"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3017,
+    "restaurantName": "Fort Lauderdale - Pembroke Pines",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "9544506450",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "11000 Pines Blvd",
+        "city": "Pembroke Pines",
+        "country": "US",
+        "countryCode": "11",
+        "stateName": "Florida",
+        "zipCode": "330265209",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -80.293222,
+          "latitude": 26.007133
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600078",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille located in Pembroke Pines, Florida near Florida's Turnpike. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy our happy hours with specialty cocktails, half-priced appetizers, and island-themed live music or artfully curated playlists. We are conveniently located near Pembroke Lakes Square Mall. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 11000 Pines Boulevard today!",
+    "restaurantOpenDate": "2000-12-18",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=4e91f447-75f8-41c4-b1ca-ebc7a8105c0f"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3012,
+    "restaurantName": "Miami - Kendall",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "3055984040",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "12395 SW 88th Street",
+        "city": "Miami",
+        "country": "US",
+        "countryCode": "25",
+        "stateName": "Florida",
+        "zipCode": "331861924",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -80.393502,
+          "latitude": 25.686605
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600075",
+    "restaurantDescription": "If you're looking for handcrafted tropical drinks and a vibrant island atmosphere, look no further than the Bahama Breeze Island Grille located in Miami, Florida near the Ronald Reagan Turnpike. Join us for Caribbean-inspired food with tropical tastes and innovative recipes. Enjoy our happy hours with specialty cocktails, half-priced appetizers, and island-themed live music or artfully curated playlists. We are conveniently located near Kendall Village Center Mall. To explore tasty cocktails with fresh, unique ingredients and exotic meals, visit the Bahama Breeze Island Grille location at 12395 SW 88th Street today!",
+    "restaurantOpenDate": "2000-04-04",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": true,
+            "overrideMessage": "9:00 PM to CLOSE",
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": true,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=3bb31132-5c9e-4eff-a951-8077fd95fb79"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3049,
+    "restaurantName": "Newark - Christiana Mall",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "3022667923",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "500 Center Blvd",
+        "city": "Newark",
+        "country": "US",
+        "countryCode": "3",
+        "stateName": "Delaware",
+        "zipCode": "197023224",
+        "stateCode": "DE",
+        "coordinates": {
+          "longitude": -75.650238,
+          "latitude": 39.675463
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600097",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Newark, Delaware to experience happy hours with specialty handcrafted cocktails, half-priced appetizers, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near I-95 and Christiana Mall. Visit the Bahama Breeze Island Grille location at 500 Center Boulevard today to explore island flavors in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2012-02-06",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=51ddff3e-b0ab-4177-9fbc-7cec887a4a95"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3039,
+    "restaurantName": "Philadelphia - King of Prussia",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "6104919822",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "320 Goddard Blvd",
+        "city": "King of Prussia",
+        "country": "US",
+        "countryCode": "91",
+        "stateName": "Pennsylvania",
+        "zipCode": "194062900",
+        "stateCode": "PA",
+        "coordinates": {
+          "longitude": -75.394856,
+          "latitude": 40.091609
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600088",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in King of Prussia, Pennsylvania to experience handcrafted tropical drinks, Caribbean-inspired food, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near the Pennsylvania Turnpike and Hyatt House Philadelphia/King of Prussia Hotel. Visit the Bahama Breeze Island Grille location at 320 Goddard Boulevard today to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2003-11-04",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=612fd821-b905-43c3-9dbf-0e04891288e3"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3050,
+    "restaurantName": "Virginia Beach - Pembroke Mall",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7574733264",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "4554 Virginia Beach Blvd",
+        "street2": "Suite 10",
+        "city": "Virginia Beach",
+        "country": "US",
+        "countryCode": "810",
+        "stateName": "Virginia",
+        "zipCode": "234623055",
+        "stateCode": "VA",
+        "coordinates": {
+          "longitude": -76.13342,
+          "latitude": 36.844509
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600098",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Virginia Beach, Virginia to experience handcrafted tropical drinks, Caribbean-inspired food, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near I-264 and Pembroke Mall Virginia Beach. Visit the Bahama Breeze Island Grille location at 4554 Virginia Beach Boulevard today to enjoy Caribbean dining in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2013-07-15",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "10:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": true,
+            "overrideMessage": "10:00PM - CLOSE (Food only)",
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": true,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=ce3bb605-1fcc-4492-ade1-9d4dfcd3910e"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 3036,
+    "restaurantName": "Cherry Hill - Cherry Hill Mall",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8563178317",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "2000 Route 38",
+        "street2": "Suite 1170",
+        "city": "Cherry Hill",
+        "country": "US",
+        "countryCode": "7",
+        "stateName": "New Jersey",
+        "zipCode": "080022100",
+        "stateCode": "NJ",
+        "coordinates": {
+          "longitude": -75.025805,
+          "latitude": 39.94016
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "4600087",
+    "restaurantDescription": "Visit your local Bahama Breeze Island Grille in Cherry Hill, New Jersey to experience happy hours with specialty handcrafted cocktails, half-priced appetizers, and a vibrant island atmosphere. Our bartenders make exotic and legendary cocktails with fresh juices, sugar cane, and island expertise. Music plays a major part of our restaurant's fun island-vibe. Our songs are artfully curated, and we regularly schedule live music performances for your entertainment. We are conveniently located near I-295 and Cherry Hill Mall. Visit the Bahama Breeze Island Grille location at 2000 Route 38 today to explore island flavors in a warm and welcoming atmosphere.",
+    "restaurantOpenDate": "2003-09-16",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Late Night Happy Hour",
+            "startTime": "9:00 PM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNHH"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:00 AM",
+            "endTime": "4:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 6,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restHireLink": "https://jobs.bahamabreeze.com/search/searchjobs?facilityid=20363c31-073b-4430-a17a-1d842b3c9a48"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 10065,
+    "restaurantName": "Orlando - International Airport MCO",
+    "contactDetail": {
+      "phoneDetail": [
+        {}
+      ],
+      "address": {
+        "street1": "1 Jeff Fuqua Blvd- Airside 4- Gates 70-99",
+        "city": "Orlando",
+        "country": "US",
+        "stateName": "Florida",
+        "zipCode": "32827",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": 28.4311577,
+          "latitude": -81.308083
+        }
+      }
+    },
+    "corporationNumber": "005",
+    "atgRestaurantId": "9900054",
+    "restaurantOpenDate": "2022-07-25",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": false,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": false,
+      "viewMenuEnabled": true,
+      "showHappyHour": false,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": false,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": true,
+      "showMoreRestInfoInSearch": true,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "actionButtonLinks": {
+      "restStaticMenuLink": "https://media.bahamabreeze.com/images/site/ext/orlando-airport/orlando-airport-menu.pdf"
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  }
+]

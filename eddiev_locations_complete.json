@@ -1,0 +1,4380 @@
+[
+  {
+    "restaurantNumber": 8514,
+    "restaurantName": "San Diego",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "6196150281",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "789 West Harbor Drive",
+        "street2": "Suite 158",
+        "city": "San Diego",
+        "country": "US",
+        "countryCode": "73",
+        "stateName": "California",
+        "zipCode": "921017710",
+        "stateCode": "CA",
+        "coordinates": {
+          "longitude": -117.17066135,
+          "latitude": 32.71049361
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "5100026",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than your Eddie V's Prime Seafood Restaurant in San Diego, CA. Located near Seaport Village, Embarcadero Marina Park North, Petco Park and Westfield Horton Plaza, we promise to deliver a vast array of fresh seafood, like raw oysters and Pacific Ahi Tuna, made from the freshest ingredients prepared with you in mind. To complement your meal, we feature handcrafted cocktails poured with precision and an extensive wine menu curated by our sommelier. For a comfortable yet intimate bar with exquisite drinks and appetizers, visit the V Lounge at the entrance of our 789 West Harbor Drive restaurant tonight.",
+    "restaurantOpenDate": "2014-03-06",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Pacific",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8511,
+    "restaurantName": "La Jolla",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8584595500",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "1270 Prospect St",
+        "city": "La Jolla",
+        "country": "US",
+        "countryCode": "73",
+        "stateName": "California",
+        "zipCode": "920373609",
+        "stateCode": "CA",
+        "coordinates": {
+          "longitude": -117.2710302,
+          "latitude": 32.84925078
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "5100023",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than your Eddie V's Prime Seafood Restaurant in La Jolla, CA. Located near La Jolla Bay and La Jolla Coast Walk shopping district, we promise to deliver a vast array of fresh seafood, like raw oysters and Pacific Ahi Tuna, made from the freshest ingredients prepared with you in mind. To complement your meal, we feature handcrafted cocktails poured with precision and an extensive wine menu curated by our sommelier. For a comfortable yet intimate bar with exquisite drinks and appetizers, visit the V Lounge at the entrance of our 1270 Prospect Street restaurant tonight.",
+    "restaurantOpenDate": "2011-08-22",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Pacific",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8526,
+    "restaurantName": "El Segundo, CA",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "3104140074",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "2101 Rosecrans Ave",
+        "city": "El Segundo",
+        "country": "US",
+        "countryCode": "37",
+        "stateName": "California",
+        "zipCode": "902454749",
+        "stateCode": "CA",
+        "coordinates": {
+          "longitude": -118.38829271,
+          "latitude": 33.9026
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "20800003",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit Eddie V's Prime Seafood in El Segundo, California located in The Plaza at Continental Park between highways I-405 and CA-1. We feature an abundant selection of fine wines and curated cocktails to complement exquisite steaks and seafood meals made from the highest quality ingredients. At our restaurant we strive to create a memorable experience for each guest and deliver a world-class seafood dining experience to the area. Enjoy live music trios from local artists in the V Lounge by the bar. For an unforgettable meal visit us at 2101 Rosecrans Ave tonight for dinner or happy hour.",
+    "restaurantOpenDate": "2021-06-17",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": false,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Pacific",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8525,
+    "restaurantName": "Palm Desert, CA",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7603409455",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "73040 El Paseo",
+        "city": "Palm Desert",
+        "country": "US",
+        "countryCode": "65",
+        "stateName": "California",
+        "zipCode": "922604211",
+        "stateCode": "CA",
+        "coordinates": {
+          "longitude": -116.39037426,
+          "latitude": 33.71996369
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "20500003",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than Eddie V's Prime Seafood in Palm Desert, California, located in The Shops on El Paseo near the corner of Highway 111 and Pines to Palms Highway. Dishes are artistically prepared and feature an ever-changing array of seasonal seafood, along with critically acclaimed prime steaks, hand carved and broiled to perfection. In the V Lounge, sip on imaginative handcrafted cocktails with attitude while enjoying signature appetizers. Visit us at 73040 El Paseo tonight for dinner.",
+    "restaurantOpenDate": "2019-11-22",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Pacific",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8510,
+    "restaurantName": "Scottsdale",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4807304800",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "15323 N Scottsdale Rd",
+        "city": "Scottsdale",
+        "country": "US",
+        "countryCode": "13",
+        "stateName": "Arizona",
+        "zipCode": "852542481",
+        "stateCode": "AZ",
+        "coordinates": {
+          "longitude": -111.92361859,
+          "latitude": 33.62554653
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "5100022",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit your Scottsdale, AZ Eddie V's. We feature an abundant selection of curated cocktails to complement meals made from the highest quality ingredients and prepared to perfection. At our restaurant near N Greenway Hayden Loop, we strive to create a memorable experience for each guest. We are conveniently located near Kierland Commons and Scottsdale Quarter to deliver a world-class seafood dining experience to the Scottsdale area. For an unforgettable meal, visit us at 15323 N Scottsdale Road tonight.",
+    "restaurantOpenDate": "2011-02-14",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 3,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 3,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 3,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Mountain",
+    "daylightSavingTime": "0"
+  },
+  {
+    "restaurantNumber": 8520,
+    "restaurantName": "Greenwood Village",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7208267488",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "5111 DTC Parkway",
+        "city": "Greenwood Village",
+        "country": "US",
+        "countryCode": "5",
+        "stateName": "Colorado",
+        "zipCode": "801112601",
+        "stateCode": "CO",
+        "coordinates": {
+          "longitude": -104.90004773,
+          "latitude": 39.622618
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "10900002",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit your Greenwood Village, Colorado Eddie V's Prime Seafood restaurant. Dishes are artistically prepared and feature an ever-changing array of seasonal seafood, along with critically acclaimed prime steaks, hand-carved and broiled to perfection. Our restaurant\u2019s award-wining wine list, which has been recognized by Wine Spectator, has more than 300 wines from the best growing areas in California and around the world. In The V Lounge, sip on imaginative cocktails, and enjoy signature appetizers against a backdrop of live music. We are conveniently located just off of I-25 and E Belleview Ave near the Denver Tech Center. For an unforgettable evening visit us at 5111 DTC Pkwy tonight for dinner.",
+    "restaurantOpenDate": "2020-10-15",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": false,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Mountain",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8505,
+    "restaurantName": "San Antonio,TX",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "2104931600",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "1834 N Loop 1604 W.",
+        "city": "San Antonio",
+        "country": "US",
+        "countryCode": "29",
+        "stateName": "Texas",
+        "zipCode": "782484520",
+        "stateCode": "TX",
+        "coordinates": {
+          "longitude": -98.520898,
+          "latitude": 29.607733
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "4600228",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than Eddie V's Wildfish in San Antonio, Texas. Located near The Vineyard in the Plaza Las Campanas, we promise to deliver fresh seafood dishes made with the finest ingredients prepared with you in mind. To complement your meal, we feature handcrafted cocktails with attitude and an extensive wine menu curated by our sommelier. Sit at the V Lounge and enjoy exquisite drinks and appetizers at the bar. Visit us at 1834 N Loop 1604 W. tonight for dinner.",
+    "restaurantOpenDate": "2008-03-17",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8502,
+    "restaurantName": "Austin - Arboretum",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "5123422642",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "9400 B Arboretum Blvd",
+        "city": "Austin",
+        "country": "US",
+        "countryCode": "453",
+        "stateName": "Texas",
+        "zipCode": "787596392",
+        "stateCode": "TX",
+        "coordinates": {
+          "longitude": -97.75295257,
+          "latitude": 30.38960524
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "5100018",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than your Eddie V's Prime Seafood Restaurant in Austin, TX. Located near the Arboretum shopping Center off N. Capital of Texas Highway, we promise to deliver a vast array of fresh seafood, like raw oysters and Pacific Ahi Tuna, made from the freshest ingredients prepared with you in mind. To complement your meal, we feature handcrafted cocktails poured with precision and an extensive wine menu curated by our sommelier. For a comfortable yet intimate bar with exquisite drinks and appetizers, visit the V Lounge at the entrance of our 9400 B Arboretum Boulevard restaurant tonight.",
+    "restaurantOpenDate": "2001-10-01",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8501,
+    "restaurantName": "Austin - 5th Street",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "5124721860",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "301 East 5th Street",
+        "city": "Austin",
+        "country": "US",
+        "countryCode": "453",
+        "stateName": "Texas",
+        "zipCode": "787013615",
+        "stateCode": "TX",
+        "coordinates": {
+          "longitude": -97.74062925,
+          "latitude": 30.26624875
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "4800003",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than your Eddie V's Prime Seafood Restaurant in Austin, TX. Located near the Austin Convention Center, Residence Inn Austin/Downtown and O. Henry Museum, we promise to deliver a vast array of fresh seafood, like raw oysters and Pacific Ahi Tuna, made from the freshest ingredients prepared with you in mind. To complement your meal, we feature handcrafted cocktails poured with precision and an extensive wine menu curated by our sommelier. For a comfortable yet intimate bar with exquisite drinks and appetizers, visit the V Lounge at the entrance of our 301 East 5th Street restaurant tonight.",
+    "restaurantOpenDate": "2000-12-01",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:30 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8506,
+    "restaurantName": "Fort Worth",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8173368000",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "3100 West 7th Street",
+        "city": "Fort Worth",
+        "country": "US",
+        "countryCode": "439",
+        "stateName": "Texas",
+        "zipCode": "761072795",
+        "stateCode": "TX",
+        "coordinates": {
+          "longitude": -97.36203111,
+          "latitude": 32.75136616
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "5100020",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than your Eddie V's Prime Seafood Restaurant in Fort Worth, TX. Located near West 7th Entertainment Center and Fort Worth Botanical Garden, we promise to deliver a vast array of fresh seafood, like raw oysters and Pacific Ahi Tuna, made from the freshest ingredients prepared with you in mind. To complement your meal, we feature handcrafted cocktails poured with precision and an extensive wine menu curated by our sommelier. For a comfortable yet intimate bar with exquisite drinks and appetizers, visit the V Lounge at the entrance of our 3100 West 7th Street restaurant tonight.",
+    "restaurantOpenDate": "2009-01-26",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8531,
+    "restaurantName": "Plano, TX",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4692683758",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "5300 State Highway 121",
+        "city": "Plano",
+        "country": "US",
+        "countryCode": "85",
+        "stateName": "Texas",
+        "zipCode": "750243325",
+        "stateCode": "TX",
+        "coordinates": {
+          "longitude": -96.80638505,
+          "latitude": 33.09528302
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "24400003",
+    "restaurantDescription": "Reserve a stylish fine dining experience at Eddie V's Prime Seafood restaurant in Plano, Texas. We are located off of the Sam Rayburn Tollway near the Stonebriar Mall, within the greater northwest Plano area. We feature an abundant selection of fine wines and curated cocktails to complement prime seafood and premium hand carved steaks. At our restaurant we strive to create a memorable experience for each guest and deliver world-class seafood to Plano. Enjoy live music from local artists in the V Lounge, our elegant bar. For an unforgettable meal, visit us at 5300 TX-121 for dinner or happy hour.",
+    "restaurantOpenDate": "2022-08-18",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8507,
+    "restaurantName": "Houston - CityCentre",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8322002380",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "12848 Queensbury Lane",
+        "city": "Houston",
+        "country": "US",
+        "countryCode": "201",
+        "stateName": "Texas",
+        "zipCode": "770244159",
+        "stateCode": "TX",
+        "coordinates": {
+          "longitude": -95.56079426,
+          "latitude": 29.77885292
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "5100021",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit your Houston, TX Eddie V's. We feature an abundant selection of curated cocktails to complement meals made from the highest quality ingredients and prepared to perfection. At our restaurant near I-10/Katy Freeway we strive to create a memorable experience for each guest. We are conveniently located at the City Center Plaza shopping center and Bendwood Park, delivering a world-class seafood dining experience to the Houston area. For an unforgettable meal, visit us at 12848 Queensbury Lane tonight. Valet parking is provided by CityCentre and will be available for Eddie V\u2019s guests for $5. Complimentary garage self-parking and paid premium parking are also available.",
+    "restaurantOpenDate": "2009-10-05",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "11:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8509,
+    "restaurantName": "Houston - West Ave",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7138741800",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "2800 Kirby Drive",
+        "city": "Houston",
+        "country": "US",
+        "countryCode": "201",
+        "stateName": "Texas",
+        "zipCode": "770981273",
+        "stateCode": "TX",
+        "coordinates": {
+          "longitude": -95.41896426,
+          "latitude": 29.7402907
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "4800002",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than your Eddie V's Prime Seafood Restaurant in Houston, TX. Located in the West Ave River Oaks shopping center, we promise to deliver a vast array of fresh seafood, like raw oysters and Pacific Ahi Tuna, made from the freshest ingredients prepared with you in mind. To complement your meal, we feature handcrafted cocktails poured with precision and an extensive wine menu curated by our sommelier. For a comfortable yet intimate bar with exquisite drinks and appetizers, visit the V Lounge at the entrance of our 2800 Kirby Drive restaurant tonight.",
+    "restaurantOpenDate": "2010-10-18",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8517,
+    "restaurantName": "Kansas City",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8165312537",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "700 W 47th Street",
+        "street2": "Suite 115",
+        "city": "Kansas City",
+        "country": "US",
+        "countryCode": "95",
+        "stateName": "Missouri",
+        "zipCode": "641122019",
+        "stateCode": "MO",
+        "coordinates": {
+          "longitude": -94.59534134,
+          "latitude": 39.04264617
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "9200001",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit your Kansas City Eddie V's. We feature an abundant selection of curated cocktails to complement meals made from the highest quality ingredients and prepared to perfection. At our restaurant near Broadway and Ward Pkwy, we strive to create a memorable experience for each guest. We are conveniently located near The Country Club Plaza, to deliver a world-class seafood dining experience to the Kansas City area. For an unforgettable meal, visit us at 700 West 47th Street tonight.",
+    "restaurantOpenDate": "2016-10-24",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8536,
+    "restaurantName": "Oak Brook",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "6303710002",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "3001 Butterfield Road",
+        "city": "Oak Brook",
+        "country": "US",
+        "countryCode": "43",
+        "stateName": "Illinois",
+        "zipCode": "605231107",
+        "stateCode": "IL",
+        "coordinates": {
+          "longitude": -87.992381,
+          "latitude": 41.841583
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "39900002",
+    "restaurantDescription": "Reserve a stylish fine dining experience at Eddie V's Prime Seafood restaurant in Oak Brook, Illinois. We are located on Butterfield Road within the Oak Brook Promenade shopping plaza where you can enjoy local shops. We feature an abundant selection of fine wines and curated cocktails to complement prime seafood and premium hand-carved steaks. At our restaurant we strive to create a memorable experience for each guest and deliver world-class seafood to Oak Brook. Enjoy live music from local artists in The V Lounge, our elegant bar. For an unforgettable meal visit us at 3001 Butterfield Road for dinner or happy hour.",
+    "restaurantOpenDate": "2024-11-15",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8529,
+    "restaurantName": "Nashville",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "6152382359",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "590 Broadway",
+        "city": "Nashville",
+        "country": "US",
+        "countryCode": "37",
+        "stateName": "Tennessee",
+        "zipCode": "372033969",
+        "stateCode": "TN",
+        "coordinates": {
+          "longitude": -86.77969538,
+          "latitude": 36.16014807
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "23000001",
+    "restaurantDescription": "Reserve a stylish fine dining experience at Eddie V's Prime Seafood restaurant in Nashville. Located at Fifth and Broadway, you can find us across the street from the Bridgestone Arena near the National Museum of African American Music and the Country Music Hall of Fame and Museum. We feature an abundant selection of fine wines and curated cocktails to complement prime seafood and premium hand carved steaks. At our restaurant we strive to create a memorable experience for each guest and deliver world-class seafood to downtown Nashville. Enjoy live music from local artists in the V Lounge, our elegant bar. For an unforgettable dinner, join us today. Exclusive valet service is available for dinner at the 590 Broadway entrance.",
+    "restaurantOpenDate": "2021-04-15",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": false,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Central",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8537,
+    "restaurantName": "Alpharetta",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7708701129",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "11405 Haynes Bridge Road",
+        "city": "Alpharetta",
+        "country": "US",
+        "countryCode": "121",
+        "stateName": "Georgia",
+        "zipCode": "300094819",
+        "stateCode": "GA",
+        "coordinates": {
+          "longitude": -84.28753,
+          "latitude": 34.05973
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "restaurantLabel": "Opens October 24",
+    "atgRestaurantId": "41000002",
+    "restaurantDescription": "Reserve a stylish fine dining experience at Eddie V's Prime Seafood restaurant in Alpharetta, Georgia. We are located on Haynes Bridge Rd near North Point Mall. We feature an abundant selection of fine wines and curated cocktails to complement prime seafood and premium hand-carved steaks. At our restaurant we strive to create memorable experiences for each guest and deliver world-class seafood to Alpharetta. Enjoy live music from local artists in The V Lounge, our elegant bar. For an unforgettable meal visit us at 11405 Haynes Bridge Rd for dinner or happy hour.",
+    "restaurantOpenDate": "2025-10-24",
+    "restaurantHours": [],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": false,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": true,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8519,
+    "restaurantName": "Troy, MI",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "2486497319",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "2100 W Big Beaver Road",
+        "city": "Troy",
+        "country": "US",
+        "countryCode": "125",
+        "stateName": "Michigan",
+        "zipCode": "480843406",
+        "stateCode": "MI",
+        "coordinates": {
+          "longitude": -83.1762765,
+          "latitude": 42.56203694
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "10600002",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit your Troy, Michigan Eddie V's Prime Seafood restaurant. We feature an abundant selection of fine wines and curated cocktails to complement exquisite steaks and seafood meals made from the highest quality ingredients. At our restaurant we strive to create a memorable experience for each guest and deliver a world-class seafood dining experience to the Troy area. In the V Lounge, sip on imaginative handcrafted cocktails with attitude while enjoying signature appetizers. We are conveniently located just west of I-75 near the Somerset Collection Mall. For an unforgettable meal, visit us at 2100 West Big Beaver Road tonight.",
+    "restaurantOpenDate": "2017-06-19",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8521,
+    "restaurantName": "Charlotte, NC",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7043335262",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "101 S Tryon Street",
+        "city": "Charlotte",
+        "country": "US",
+        "countryCode": "119",
+        "stateName": "North Carolina",
+        "zipCode": "282800002",
+        "stateCode": "NC",
+        "coordinates": {
+          "longitude": -80.84327612,
+          "latitude": 35.22679267
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "13200001",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than Eddie V's Prime Seafood in Charlotte, North Carolina, located Uptown in the center city at the corner of Trade and Tryon St. We are near Charlotte's Blumenthal Performing Arts Center, Bank of America Stadium, Spectrum Center, the Convention Center, NASCAR Hall of Fame and The Epicenter. We promise to deliver fresh seafood dishes made with the finest ingredients prepared with you in mind. In the V Lounge, sip on imaginative handcrafted cocktails with attitude while enjoying signature appetizers. Visit us at 101 S Tryon Street tonight for dinner.",
+    "restaurantOpenDate": "2018-05-04",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8518,
+    "restaurantName": "Pittsburgh",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4123911714",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "501 Grant Street",
+        "city": "Pittsburgh",
+        "country": "US",
+        "countryCode": "3",
+        "stateName": "Pennsylvania",
+        "zipCode": "152194406",
+        "stateCode": "PA",
+        "coordinates": {
+          "longitude": -79.99692339,
+          "latitude": 40.43956263
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "10600001",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit your Downtown Pittsburgh Eddie V's Prime Seafood Restaurant. We feature an abundant selection of curated cocktails to complement meals made from the highest quality ingredients and prepared to perfection. At our restaurant on the corner of Grant Street and Fifth Avenue, we strive to create a memorable experience for each guest. We are conveniently located in the Union Trust Building near Mellon Green to deliver a world-class seafood dining experience to the Three Rivers area. For an unforgettable meal, visit us at 501 Grant Street tonight.",
+    "restaurantOpenDate": "2017-03-06",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8512,
+    "restaurantName": "Tampa",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8138777290",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "4400 W Boy Scout Blvd",
+        "city": "Tampa",
+        "country": "US",
+        "countryCode": "57",
+        "stateName": "Florida",
+        "zipCode": "336075718",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -82.51826253,
+          "latitude": 27.96031289
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "5100024",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than your Eddie V's Prime Seafood Restaurant in Tampa, FL. Located near International Plaza and Bay Street Mall, we promise to deliver a vast array of fresh seafood, like raw oysters and a Pacific Ahi Tuna, made from the freshest ingredients prepared with you in mind. To complement your meal, we feature handcrafted cocktails poured with precision and an extensive wine menu curated by our sommelier. For a comfortable yet intimate bar with exquisite drinks and appetizers, visit the V Lounge at the entrance of our 4400 W Boy Scout Boulevard restaurant tonight.",
+    "restaurantOpenDate": "2013-04-04",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8513,
+    "restaurantName": "Orlando",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "4073553011",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "7488 West Sand Lake Rd",
+        "city": "Orlando",
+        "country": "US",
+        "countryCode": "95",
+        "stateName": "Florida",
+        "zipCode": "328195108",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -81.4835902,
+          "latitude": 28.44935918
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "5100025",
+    "restaurantDescription": "In search for delicious, expertly prepared seafood and steaks? Look no further than your Eddie V's Prime Seafood Restaurant in Orlando, FL. Located near Big Sand Lake, Little Sand Lake, Spring Lake, and Plaza Venezia, we promise to deliver a vast array of fresh seafood, like raw oysters and Pacific Ahi Tuna, made from the freshest ingredients prepared with you in mind. To complement your meal, we feature handcrafted cocktails poured with precision and an extensive wine menu curated by our sommelier. For a comfortable yet intimate bar with exquisite drinks and appetizers, visit the V Lounge at the entrance of our 7488 West Sand Lake Road restaurant tonight.",
+    "restaurantOpenDate": "2013-10-24",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8516,
+    "restaurantName": "McLean - Tysons Corner",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7034424523",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "7900 Tysons One Place",
+        "city": "McLean",
+        "country": "US",
+        "countryCode": "59",
+        "stateName": "Virginia",
+        "zipCode": "221025971",
+        "stateCode": "VA",
+        "coordinates": {
+          "longitude": -77.22008759,
+          "latitude": 38.91943154
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "4600224",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit your McLean, VA Eddie V's. We feature an abundant selection of curated cocktails to complement meals made from the highest quality ingredients and prepared to perfection. At our restaurant near I-495/Capital Beltway we strive to create a memorable experience for each guest. We are conveniently located near Tysons Corner Center and Tysons Galleria to deliver a world-class seafood dining experience to the McLean area. For an unforgettable meal, visit us at 7900 Tysons One Place tonight.",
+    "restaurantOpenDate": "2015-04-10",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "11:30 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "3:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "11:30 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          },
+          {
+            "name": "Lunch",
+            "startTime": "11:30 AM",
+            "endTime": "3:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "L"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8534,
+    "restaurantName": "Boca Raton",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "5612370067",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "201 Plaza Real",
+        "street2": "Suite 1203",
+        "city": "Boca Raton",
+        "country": "US",
+        "countryCode": "99",
+        "stateName": "Florida",
+        "zipCode": "334323959",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -80.08569,
+          "latitude": 26.35271
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "33300001",
+    "restaurantDescription": "Reserve a stylish fine dining experience at Eddie V's Prime Seafood restaurant in Boca Raton, Florida. We are located on Plaza Real in the luxurious Mizner Park shopping and entertainment district near downtown Boca Raton. We feature an abundant selection of fine wines and curated cocktails to complement prime seafood and premium hand-carved steaks. At our restaurant we strive to create a memorable experience for each guest and deliver world-class seafood to Boca Raton. Enjoy live music from local artists in The V Lounge, our elegant bar. For an unforgettable meal visit us at 201 Plaza Real for dinner or happy hour.",
+    "restaurantOpenDate": "2023-09-28",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8528,
+    "restaurantName": "Fort Lauderdale, FL",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "9544683583",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "100 E Las Olas Blvd",
+        "city": "Fort Lauderdale",
+        "country": "US",
+        "countryCode": "11",
+        "stateName": "Florida",
+        "zipCode": "333012768",
+        "stateCode": "FL",
+        "coordinates": {
+          "longitude": -80.14155198,
+          "latitude": 26.11893525
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "22800001",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated dining experience, visit Eddie V's Prime Seafood in Fort Lauderdale, Florida located on the first floor of the 100 Las Olas building at the corner of E. Las Olas Blvd. and SE 2nd Ave. At our restaurant we strive to create a memorable experience for each guest and deliver a world-class fine dining experience to the area. We feature an abundant selection of fine wines to complement artfully prepared seafood and steak dishes made from the highest quality ingredients. In the V Lounge, sip on imaginative cocktails, and enjoy signature appetizers against a backdrop of live music. For an unforgettable evening visit us at 100 E. Las Olas Blvd. tonight for dinner.",
+    "restaurantOpenDate": "2021-02-25",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": false,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8522,
+    "restaurantName": "King of Prussia, PA",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "6103377823",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "670 West DeKalb Pike",
+        "city": "King of Prussia",
+        "country": "US",
+        "countryCode": "91",
+        "stateName": "Pennsylvania",
+        "zipCode": "194062960",
+        "stateCode": "PA",
+        "coordinates": {
+          "longitude": -75.38558497,
+          "latitude": 40.08720388
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "13200002",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit your King of Prussia, Pennsylvania Eddie V's Prime Seafood restaurant. We feature an abundant selection of fine wines and curated cocktails to complement exquisite steaks and seafood made from the highest quality ingredients. At our restaurant we strive to create a memorable experience for each guest and deliver a world class seafood dining experience to the area. In the V Lounge, sip on imaginative handcrafted cocktails with attitude while enjoying signature appetizers. We are conveniently located between I-276 and I-76 near the King of Prussia Mall. For an unforgettable meal, visit us at 670 W Dekalb Pike tonight for dinner.",
+    "restaurantOpenDate": "2018-11-02",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking is available at this location.",
+        "imgURL": "valetparking_ind.jpg",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8533,
+    "restaurantName": "Cherry Hill",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "8565329562",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "2000 Route 38",
+        "street2": "Suite 1072",
+        "city": "Cherry Hill",
+        "country": "US",
+        "countryCode": "7",
+        "stateName": "New Jersey",
+        "zipCode": "080022181",
+        "stateCode": "NJ",
+        "coordinates": {
+          "longitude": -75.02507,
+          "latitude": 39.94013
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "33100001",
+    "restaurantDescription": "Reserve a stylish fine dining experience at Eddie V's Prime Seafood restaurant in Cherry Hill, New Jersey. We are located in the Cherry Hill Mall near I-295, in the eastern suburbs of Philadelphia. We feature an abundant selection of fine wines and curated cocktails to complement prime seafood and premium hand-carved steaks. At our restaurant we strive to create a memorable experience for each guest and deliver world-class seafood to Cherry Hill. Enjoy live music from local artists in The V Lounge, our elegant bar. For an unforgettable meal visit us at 2000 Route 38 for dinner or happy hour.",
+    "restaurantOpenDate": "2023-06-15",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": true,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8535,
+    "restaurantName": "Princeton",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "6094230273",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "3535 US Highway 1",
+        "street2": "Suite 100-C",
+        "city": "Princeton",
+        "country": "US",
+        "countryCode": "21",
+        "stateName": "New Jersey",
+        "zipCode": "085405970",
+        "stateCode": "NJ",
+        "coordinates": {
+          "longitude": -74.66211,
+          "latitude": 40.31431
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "37800001",
+    "restaurantDescription": "Reserve a stylish fine dining experience at Eddie V's Prime Seafood restaurant in Princeton, New Jersey. We are located on US-1 within the MarketFair shopping center where you can enjoy the best premier shopping. We feature an abundant selection of fine wines and curated cocktails to complement prime seafood and premium hand-carved steaks. At our restaurant we strive to create a memorable experience for each guest and deliver world-class seafood to Princeton. Enjoy live music from local artists in The V Lounge, our elegant bar. For an unforgettable meal visit us at 3535 US Highway 1 Suite 100-C for dinner or happy hour.",
+    "restaurantOpenDate": "2025-06-06",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": false,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8530,
+    "restaurantName": "Paramus, NJ",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "2015181558",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "1 Garden State Plaza Blvd",
+        "street2": "Suite A8A",
+        "city": "Paramus",
+        "country": "US",
+        "countryCode": "3",
+        "stateName": "New Jersey",
+        "zipCode": "076522417",
+        "stateCode": "NJ",
+        "coordinates": {
+          "longitude": -74.07507776,
+          "latitude": 40.91607037
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "23700001",
+    "restaurantDescription": "Reserve a stylish fine dining experience at Eddie V's Prime Seafood restaurant in Paramus, New Jersey. We are located at the cross streets of Plaza Way and Route 17 in the Westfield Garden State Plaza Mall with an exterior entrance between the Macy's and AMC Theaters. We feature an abundant selection of fine wines and curated cocktails to complement prime seafood and premium hand carved steaks. At our restaurant we strive to create a memorable experience for each guest and deliver world-class seafood to Paramus. Enjoy live music from local artists in the V Lounge, our elegant bar. For an unforgettable meal, visit us at One Garden State Plaza, Suite #A8A for dinner or happy hour.",
+    "restaurantOpenDate": "2022-05-19",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "5:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "10:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": false,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Patio seating available",
+        "description": "Come enjoy our outdoor deck seating.",
+        "imgURL": "patioseating_ind.jpg",
+        "altText": "Patio seating available"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  },
+  {
+    "restaurantNumber": 8524,
+    "restaurantName": "Burlington, MA",
+    "contactDetail": {
+      "phoneDetail": [
+        {
+          "phoneNumber": "7812217151",
+          "type": "Primary",
+          "country": "US"
+        }
+      ],
+      "address": {
+        "street1": "50 South Avenue",
+        "city": "Burlington",
+        "country": "US",
+        "countryCode": "17",
+        "stateName": "Massachusetts",
+        "zipCode": "018034904",
+        "stateCode": "MA",
+        "coordinates": {
+          "longitude": -71.21967324,
+          "latitude": 42.48312067
+        }
+      }
+    },
+    "corporationNumber": "017",
+    "atgRestaurantId": "16200002",
+    "restaurantDescription": "If you're looking for a stylish and sophisticated fine dining experience, visit your Burlington, Massachusetts Eddie V's Prime Seafood restaurant. We feature an abundant selection of fine wines and curated cocktails to complement exquisite steaks and seafood meals made from the highest quality ingredients. At our restaurant we strive to create a memorable experience for each guest and deliver a world-class seafood dining experience to the area. In the V Lounge, sip on imaginative handcrafted cocktails with attitude while enjoying signature appetizers. We are conveniently located just off of I-95 and the Northwest Expressway near the Burlington Mall. For an unforgettable meal, visit us at 50 South Avenue tonight for dinner.",
+    "restaurantOpenDate": "2019-08-02",
+    "restaurantHours": [
+      {
+        "day": "Monday",
+        "isRestaurantClosed": false,
+        "hoursInfo": [
+          {
+            "name": "Happy Hour",
+            "startTime": "4:00 PM",
+            "endTime": "6:30 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 7,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "HH"
+          },
+          {
+            "name": "Hours of Operations",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "OP"
+          },
+          {
+            "name": "Dinner",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 2,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "D"
+          },
+          {
+            "name": "Private Dining",
+            "startTime": "11:00 AM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "PD"
+          },
+          {
+            "name": "Lounge Hours",
+            "startTime": "4:00 PM",
+            "endTime": "9:00 PM",
+            "hasSpclHours": false,
+            "hasSpclHoursMsg": false,
+            "dayOfWeek": 1,
+            "endDayOfWeek": 5,
+            "hideRestHour": 0,
+            "showMessageOnly": false,
+            "hourCode": "LNG"
+          }
+        ]
+      }
+    ],
+    "features": {
+      "waitListEnabled": false,
+      "waitListOn": false,
+      "reservationEnabled": true,
+      "isRestaurantTogoEnabled": true,
+      "curbSideTogoEnabled": false,
+      "onlineTogoEnabled": true,
+      "viewMenuEnabled": true,
+      "showHappyHour": true,
+      "allowPreferredLocation": true,
+      "isNew": false,
+      "isComingSoon": false,
+      "allowFavoriteLocation": true,
+      "showCallToLocationMsg": true,
+      "orderAheadEnabled": false,
+      "franchiseLocation": false,
+      "showMoreRestInfoInSearch": false,
+      "locationDetailEnabled": true,
+      "externalDeliveryEnabled": false
+    },
+    "amenities": [
+      {
+        "title": "Valet Parking Available",
+        "description": "Valet parking available with a fee.",
+        "altText": "Valet Parking Available"
+      },
+      {
+        "title": "Private Dining Available",
+        "description": "Large party seating is available at this location.",
+        "imgURL": "groupseating_ind.jpg",
+        "altText": "Private Dining Available"
+      },
+      {
+        "title": "Live Entertainment",
+        "description": "Enjoy live music at this location.",
+        "altText": "Live Entertainment"
+      },
+      {
+        "title": "Free WiFi",
+        "description": "This location offers free WiFi.",
+        "imgURL": "wifi_icon.png",
+        "altText": "Free WiFi"
+      }
+    ],
+    "configs": {
+      "beerMenuConfig": {}
+    },
+    "timeZone": "US/Eastern",
+    "daylightSavingTime": "1"
+  }
+]

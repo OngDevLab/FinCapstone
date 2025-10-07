@@ -1,0 +1,2659 @@
+Scraping ALL Darden restaurant brands WORLDWIDE...
+This will take 2-3 hours to complete
+
+
+================================================================================
+Scraping OLIVEGARDEN - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ Aurora (Monterrey) - San Pedro Garza García, NL, Mexico
+  ✓ Anahuac - Nuevo León, NL, Mexico
+  ✓ Brownsville - Brownsville, TX, US
+  ✓ Weslaco - Valley Crossing - Weslaco, TX, US
+  ✓ San Juan - San Juan, TX, US
+  ✓ South McAllen - Expressway 83 - McAllen, TX, US
+  ✓ Harlingen - Valle Vista Mall - Harlingen, TX, US
+  ✓ Mission TX - Bryan Road & I-2 - Mission, TX, US
+  ✓ North McAllen - North 10th and Trenton - McAllen, TX, US
+  ✓ Naples - Naples, FL, US
+  ✓ Coconut Point Mall - Estero, FL, US
+  ✓ Gulf Coast Town Center - Fort Myers, FL, US
+  ✓ Fort Myers - Fort Myers, FL, US
+  ✓ Cape Coral - Coral Walk Shopping Center - Cape Coral, FL, US
+  ✓ Port Charlotte - Town Center Mall - Port Charlotte, FL, US
+  ✓ Sarasota Landings Shopping Plaza - Sarasota, FL, US
+  ✓ Homestead Pavillion - Homestead, FL, US
+  ✓ Cutler Bay - Cutler Bay, FL, US
+  ✓ Miami - Kendall - Miami, FL, US
+  ✓ Miami - Flagler - Miami, FL, US
+  ✓ Hialeah - Hialeah, FL, US
+  ✓ Aventura - Aventura, FL, US
+  ✓ Pembroke Lakes Mall - Pembroke Pines, FL, US
+  ✓ Plantation - The Fountains - Plantation, FL, US
+  ✓ Sunrise FL - Sawgrass Mills Mall - Sunrise, FL, US
+  ✓ Fort Lauderdale - Fort Lauderdale, FL, US
+  ✓ Coral Springs - Coral Springs, FL, US
+  ✓ Boca Raton - Palms Plaza - Boca Raton, FL, US
+  ✓ Boynton Beach - Promenade Shops - Boynton Beach, FL, US
+  ✓ Greenacres - Lake Worth, FL, US
+  ✓ Wellington Mall - Wellington, FL, US
+  ✓ Palm Beach Gardens - West Palm Beach, FL, US
+  ✓ Jensen Beach - Jensen Beach, FL, US
+  ✓ Port Saint Lucie - Tradition - Port Saint Lucie, FL, US
+  ✓ Laredo - Mall Del Norte - Laredo, TX, US
+  ✓ Laredo TX - Near TAMIU - Laredo, TX, US
+  ✓ Portland TX - US 181 - Portland, TX, US
+  ✓ Corpus Christi - La Palmera Mall - Corpus Christi, TX, US
+  ✓ Victoria - Victoria, TX, US
+  ✓ San Antonio - Military Drive - San Antonio, TX, US
+  ✓ San Antonio - Zarzamora and IH35 - San Antonio, TX, US
+  ✓ San Antonio - Windcrest - San Antonio, TX, US
+  ✓ San Antonio - Dove Creek - San Antonio, TX, US
+  ✓ San Antonio - Ingram Park Mall - San Antonio, TX, US
+  ✓ San Antonio TX - San Pedro Crossing - San Antonio, TX, US
+  ✓ Live Oak Town Center - Live Oak, TX, US
+  ✓ San Antonio - Culebra and W. Loop 1604 - San Antonio, TX, US
+  ✓ San Antonio - Bitters Rd-Hwy 281N - San Antonio, TX, US
+  ✓ San Antonio TX - Silverado Station - San Antonio, TX, US
+  ✓ San Antonio - IH10 and W. Loop 1604 - San Antonio, TX, US
+  ✓ San Antonio - Stone Oak and Hwy 281 - San Antonio, TX, US
+  ✓ New Braunfels - New Braunfels, TX, US
+  ✓ San Marcos - San Marcos, TX, US
+  ✓ Austin - South Lamar Blvd - Austin, TX, US
+  ✓ Lake Jackson - Brazos Mall - Lake Jackson, TX, US
+  ✓ Texas City - Mall of the Mainland - Texas City, TX, US
+  ✓ Alvin Hwy 6 Bypass - Alvin, TX, US
+  ✓ Friendswood - Baybrook Mall - Friendswood, TX, US
+  ✓ Pearland - Pearland, TX, US
+  ✓ Missouri City TX - Fort Bend Town Center - Missouri City, TX, US
+  ✓ Houston - Almeda Mall - Houston, TX, US
+  ✓ Pasadena - Pasadena, TX, US
+  ✓ Rosenberg - Rosenberg, TX, US
+  ✓ Sugar Land - Sugar Land, TX, US
+  ✓ Houston - Gulfgate Center - Houston, TX, US
+  ✓ Houston - NRG Stadium off Old Spanish Trl & Kirby - Houston, TX, US
+  ✓ Houston - SW Freeway near Gessner Blvd - Houston, TX, US
+  ✓ Richmond TX - The Grand at Aliana - Richmond, TX, US
+  ✓ Houston - 59 between Kirby and Buffalo Speedway - Houston, TX, US
+  ✓ Baytown - Baytown, TX, US
+  ✓ Wallisville Road - Houston, TX, US
+  ✓ Houston - West Oaks Mall - Houston, TX, US
+  ✓ Houston - Bunkerhill - Houston, TX, US
+  ✓ Houston - Freeway 290 - Houston, TX, US
+  ✓ Katy - Katy, TX, US
+  ✓ Houston - Generation Park - Houston, TX, US
+  ✓ Humble - Deer Brook Mall - Humble, TX, US
+  ✓ Houston - Willowbrook Mall - Houston, TX, US
+  ✓ Houston - Richey Rd. - Houston, TX, US
+  ✓ Cypress TX - Fairfield Marketplace - Cypress, TX, US
+  ✓ Spring, Texas - Grand Parkway Marketplace - Spring, TX, US
+  ✓ New Caney - New Caney, TX, US
+  ✓ Spring Texas - Woodlands Mall - Spring, TX, US
+  ✓ Beaumont - Beaumont, TX, US
+  ✓ Houma - Houma, LA, US
+  ✓ Lafayette LA - Acadiana Mall - Lafayette, LA, US
+  ✓ Kenner - Kenner, LA, US
+  ✓ Panama City - SR 77 - Panama City, FL, US
+  ✓ Panama City Beach - Panama City Beach, FL, US
+  ✓ Largo Mall - Largo, FL, US
+  ✓ Clearwater - Country Side - Clearwater, FL, US
+  ✓ Pinellas Park - Pinellas Park, FL, US
+  ✓ Tampa - Citrus Park Mall - Tampa, FL, US
+  ✓ Port Richey - Port Richey, FL, US
+  ✓ Tampa - Airport - Westshore - Tampa, FL, US
+  ✓ Tampa - Busch Gardens - Tampa, FL, US
+  ✓ Tampa Palms - Tampa, FL, US
+  ✓ Brandon Mall - Brandon, FL, US
+  ✓ Bradenton - Bradenton, FL, US
+  ✓ Brooksville FL - Cortez Blvd - Brooksville, FL, US
+  ✓ Lakeside Village - Harden Blvd - Lakeland, FL, US
+  ✓ Lakeland Mall - US Highway 98 - Lakeland, FL, US
+  ✓ Inverness - Inverness, FL, US
+  ✓ Winter Haven - Winter Haven, FL, US
+  ✓ Clermont - Clermont, FL, US
+  ✓ Davenport - ChampionsGate - Davenport, FL, US
+  ✓ The Villages - The Villages, FL, US
+  ✓ West Kissimmee - near Margaritaville Resort - Kissimmee, FL, US
+  ✓ Leesburg - Leesburg, FL, US
+  ✓ Ocala - Paddock mall - Ocala, FL, US
+  ✓ Orlando - Lake Buena Vista - Orlando, FL, US
+  ✓ East Kissimmee - near Old Town - Kissimmee, FL, US
+  ✓ Orlando - International Drive - Orlando, FL, US
+  ✓ Kissimmee - The Loop at Hunters Creek - Kissimmee, FL, US
+  ✓ Sebring - Sebring, FL, US
+  ✓ Orlando - West Colonial Near Ocoee - Orlando, FL, US
+  ✓ Orlando - Millenia Mall - Orlando, FL, US
+  ✓ Orlando - Florida Mall - Orlando, FL, US
+  ✓ Altamonte Springs - Altamonte Springs, FL, US
+  ✓ Winter Park Village - Winter Park, FL, US
+  ✓ Orlando - Fashion Square - Orlando, FL, US
+  ✓ Orlando - Lake Nona - Orlando, FL, US
+  ✓ Sanford Town Center - Sanford, FL, US
+  ✓ Orlando - Waterford Lakes Near UCF - Orlando, FL, US
+  ✓ Gainesville - Florida - Gainesville, FL, US
+  ✓ Orange City - Orange City, FL, US
+  ✓ Port Orange - The Pavillion - Port Orange, FL, US
+  ✓ Merritt Island - Merritt Island, FL, US
+  ✓ West Melbourne - West Melbourne, FL, US
+  ✓ Daytona Beach - Daytona Beach, FL, US
+  ✓ Palm Coast - Palm Coast, FL, US
+  ✓ Lake City - Lake City, FL, US
+  ✓ Vero Beach - Vero Beach, FL, US
+  ✓ Chula Vista Center - Chula Vista, CA, US
+  ✓ San Diego - Sports Arena - San Diego, CA, US
+  ✓ El Centro - El Centro, CA, US
+  ✓ La Mesa - La Mesa, CA, US
+  ✓ Santee Trolley Square - Santee, CA, US
+  ✓ Yuma - Yuma, AZ, US
+  ✓ San Diego - Carmel Mountain - San Diego, CA, US
+  ✓ Escondido - Escondido, CA, US
+  ✓ Tucson - Irvington - Tucson, AZ, US
+  ✓ Tucson Mall - Tucson, AZ, US
+  ✓ Tucson - Broadway - Tucson, AZ, US
+  ✓ Casa Grande - Casa Grande, AZ, US
+  ✓ Oro Valley Marketplace - Oro Valley, AZ, US
+  ✓ Sierra Vista - Sierra Vista, AZ, US
+  ✓ El Paso - Sunland Mall - El Paso, TX, US
+  ✓ El Paso - Gateway Blvd - El Paso, TX, US
+  ✓ El Paso - Joe Battle Blvd - El Paso, TX, US
+  ✓ El Paso North - El Paso, TX, US
+  ✓ Las Cruces - Las Cruces, NM, US
+  ✓ Odessa - Odessa, TX, US
+  ✓ Midland Park Mall - Midland, TX, US
+  ✓ San Angelo - San Angelo, TX, US
+  ✓ Abilene - Abilene, TX, US
+  ✓ Killeen - Killeen, TX, US
+  ✓ Georgetown - Wolf Crossing - Georgetown, TX, US
+  ✓ Temple - Temple, TX, US
+  ✓ Austin - Lakeline Mall - Austin, TX, US
+  ✓ Round Rock - La Frontera Shopping Center - Round Rock, TX, US
+  ✓ Austin - Burnet Rd - Austin, TX, US
+  ✓ Waco - Richland Mall - Waco, TX, US
+  ✓ Cleburne TX - US 67 - Cleburne, TX, US
+  ✓ College Station - College Station, TX, US
+  ✓ Burleson Town Center - Burleson, TX, US
+  ✓ Waxahachie - Waxahachie, TX, US
+  ✓ Weatherford - Weatherford, TX, US
+  ✓ Mansfield Town Center - Mansfield, TX, US
+  ✓ Fort Worth - Hulen - Fort Worth, TX, US
+  ✓ Fort Worth - Ridgmar Mall - Fort Worth, TX, US
+  ✓ South Arlington - Cooper & I-20 - Arlington, TX, US
+  ✓ Red Oak TX - Near I-35E - Red Oak, TX, US
+  ✓ Grand Prairie - Grand Prairie, TX, US
+  ✓ Duncanville - Duncanville, TX, US
+  ✓ North Arlington by Six Flags - Arlington, TX, US
+  ✓ North Richland Hills - Northeast Mall - North Richland Hills, TX, US
+  ✓ Fort Worth - Alliance Town Center - Fort Worth, TX, US
+  ✓ Dallas - I-30 and Westmoreland Rd - Dallas, TX, US
+  ✓ Irving Mall - Irving, TX, US
+  ✓ Grapevine - Grapevine, TX, US
+  ✓ Dallas - Northwest Highway - Dallas, TX, US
+  ✓ Fort Worth - Tanger Outlets - Fort Worth, TX, US
+  ✓ Huntsville - Texas - Huntsville, TX, US
+  ✓ Mesquite - Mesquite, TX, US
+  ✓ Garland - LBJ Fwy - Garland, TX, US
+  ✓ Addison - Addison, TX, US
+  ✓ Lewisville - Vista Ridge Mall - Lewisville, TX, US
+  ✓ Dallas - Greenville Ave - Dallas, TX, US
+  ✓ Terrell - Terrell, TX, US
+  ✓ Conroe - Conroe, TX, US
+  ✓ Garland - Firewheel - Garland, TX, US
+  ✓ Plano - Collin Creek Mall - Plano, TX, US
+  ✓ Plaza at Rockwall - Rockwall, TX, US
+  ✓ Denton - Golden Triangle Mall - Denton, TX, US
+  ✓ Lufkin - Garden District - Lufkin, TX, US
+  ✓ Tyler - Broadway Crossing - Tyler, TX, US
+  ✓ Longview - Longview, TX, US
+  ✓ Lake Charles - Lake Charles, LA, US
+  ✓ Shreveport - Youree Drive - Shreveport, LA, US
+  ✓ Bossier City - Bossier City, LA, US
+  ✓ Alexandria LA - MacArthur Drive - Alexandria, LA, US
+  ✓ Greenville TX - Frontage Road - Greenville, TX, US
+  ✓ Baton Rouge - Baton Rouge, LA, US
+  ✓ Gonzales - I-10 & Hwy 30 - Gonzales, LA, US
+  ✓ Hammond - Hammond, LA, US
+  ✓ Monroe, LA - Monroe, LA, US
+  ✓ Covington - Covington, LA, US
+  ✓ Slidell - Slidell, LA, US
+  ✓ Jackson near I-55 N - Jackson, MS, US
+  ✓ Hattiesburg - Hattiesburg, MS, US
+  ✓ D'Iberville - D'Iberville, MS, US
+  ✓ Mobile - Mobile, AL, US
+  ✓ Spanish Fort - Spanish Fort, AL, US
+  ✓ Meridian MS - S Frontage Rd - Meridian, MS, US
+  ✓ Pensacola - Pensacola, FL, US
+  ✓ Ft Walton Beach - Fort Walton Beach, FL, US
+  ✓ Destin - Destin, FL, US
+  ✓ Dothan - Dothan, AL, US
+  ✓ Montgomery - Montgomery, AL, US
+  ✓ Prattville - Prattville, AL, US
+  ✓ Tallahassee - Tallahassee, FL, US
+  ✓ Albany - Albany, GA, US
+  ✓ Opelika - Tiger Town Shopping Center - Opelika, AL, US
+  ✓ Columbus - Georgia - Columbus, GA, US
+  ✓ Tifton - Tifton, GA, US
+  ✓ Valdosta - Valdosta, GA, US
+  ✓ Waycross - Memorial Drive - Waycross, GA, US
+  ✓ Jacksonville - River City Market Place - Jacksonville, FL, US
+  ✓ Brunswick - Brunswick, GA, US
+  ✓ Jacksonville - Orange Park - Jacksonville, FL, US
+  ✓ Jacksonville at Regency - Jacksonville, FL, US
+  ✓ Jacksonville - Avenues Mall - Jacksonville, FL, US
+  ✓ Jacksonville FL - Windsor Commons - Jacksonville, FL, US
+  ✓ Warner Robins - Warner Robins, GA, US
+  ✓ Statesboro - Statesboro, GA, US
+  ✓ Savannah - Abercorn Street - Savannah, GA, US
+  ✓ Pooler Parkway - Pooler, GA, US
+  ✓ Macon - Macon, GA, US
+  ✓ Bluffton - Bluffton, SC, US
+  ✓ North Charleston - Northwoods Mall - North Charleston, SC, US
+  ✓ Santa Maria - Santa Maria, CA, US
+  ✓ San Luis Obispo - San Luis Obispo, CA, US
+  ✓ Thousand Oaks - Thousand Oaks, CA, US
+  ✓ Oxnard - Oxnard, CA, US
+  ✓ Fallbrook Center - West Hills, CA, US
+  ✓ Chatsworth - Northridge Galleria - Chatsworth, CA, US
+  ✓ Culver City, Westfield Mall - Culver City, CA, US
+  ✓ Manhattan Beach - Manhattan Beach, CA, US
+  ✓ Los Angeles - Midtown - Los Angeles, CA, US
+  ✓ Santa Clarita - Santa Clarita, CA, US
+  ✓ Torrance - Torrance, CA, US
+  ✓ Burbank Empire Shopping Center - Burbank, CA, US
+  ✓ Carson CA - SouthBay Pavilion - Carson, CA, US
+  ✓ Glendale - Galleria - Glendale, CA, US
+  ✓ Downey - Stonewood Mall - Downey, CA, US
+  ✓ Montebello - Montebello, CA, US
+  ✓ Cerritos CA - Los Cerritos Center - Cerritos, CA, US
+  ✓ Whittier - The Quad - Whittier, CA, US
+  ✓ Arcadia - Arcadia, CA, US
+  ✓ Cypress CA - Katella Ave - Cypress, CA, US
+  ✓ Buena Park Downtown Shopping Mall - Buena Park, CA, US
+  ✓ Huntington Beach - Huntington Beach, CA, US
+  ✓ City of Industry - Puente Hills Mall - City Of Industry, CA, US
+  ✓ Palmdale - Antelope Valley Mall - Palmdale, CA, US
+  ✓ Brea Mall - Brea, CA, US
+  ✓ Santa Ana - Santa Ana, CA, US
+  ✓ San Dimas - San Dimas, CA, US
+  ✓ Orange - Village at Orange - Orange, CA, US
+  ✓ Irvine - Irvine, CA, US
+  ✓ Chino Spectrum Towne Center - Chino, CA, US
+  ✓ Monclair Plaza - Montclair, CA, US
+  ✓ Laguna Woods - Laguna Woods, CA, US
+  ✓ Ontario Mills Mall - Ontario, CA, US
+  ✓ Eastvale - The Station - Eastvale, CA, US
+  ✓ Riverside - Tyler Mall - Riverside, CA, US
+  ✓ Rialto - Rialto, CA, US
+  ✓ Bakersfield - Bakersfield, CA, US
+  ✓ San Bernardino - Hospitality Lane - San Bernardino, CA, US
+  ✓ Moreno Valley Mall - Moreno Valley, CA, US
+  ✓ Victor Valley Mall - Victorville, CA, US
+  ✓ Menifee Town Center - Menifee, CA, US
+  ✓ Temecula Promenade Town Center - Temecula, CA, US
+  ✓ Carlsbad - Camino Real Mall - Carlsbad, CA, US
+  ✓ Palm Desert - Las Sombras Center - Palm Desert, CA, US
+  ✓ Visalia - Packwood Creek - Visalia, CA, US
+  ✓ Visalia - Packwood Creek - Hanford, CA, US
+  ✓ Henderson NV - Lake Mead - Henderson, NV, US
+  ✓ Henderson - Henderson, NV, US
+  ✓ Las Vegas - Showcase Mall - Las Vegas, NV, US
+  ✓ Summerlin - W Charleston Blvd & I-215 - Las Vegas, NV, US
+  ✓ Las Vegas - Flamingo Road - Las Vegas, NV, US
+  ✓ Las Vegas - Decatur - Las Vegas, NV, US
+  ✓ Las Vegas - Nellis Blvd - Las Vegas, NV, US
+  ✓ Las Vegas - Cheyenne Ave - Las Vegas, NV, US
+  ✓ Surprise - Surprise, AZ, US
+  ✓ Prescott - Prescott, AZ, US
+  ✓ Peoria - Arrowhead Towne Center - Peoria, AZ, US
+  ✓ Goodyear - Centerpointe Mall - Goodyear, AZ, US
+  ✓ Glendale - Westgate Entertainment District - Glendale, AZ, US
+  ✓ Phoenix - Happy Valley Town Center - Phoenix, AZ, US
+  ✓ Phoenix - Desert Sky - Phoenix, AZ, US
+  ✓ Phoenix - Metro Center - Phoenix, AZ, US
+  ✓ Phoenix - Christown Spectrum - Phoenix, AZ, US
+  ✓ Scottsdale - E Cactus Rd - Scottsdale, AZ, US
+  ✓ Tempe - W. Elliot Rd - Tempe, AZ, US
+  ✓ Southern Fiesta Mall - West Mesa Alma School Rd - Mesa, AZ, US
+  ✓ Chandler Fashion Mall - Chandler, AZ, US
+  ✓ Chandler - Gilbert - Crossroad Towne Center - Chandler, AZ, US
+  ✓ Superstition Springs Mall - East Mesa Southern - Mesa, AZ, US
+  ✓ Queen Creek Market Place - Queen Creek, AZ, US
+  ✓ Flagstaff - Flagstaff, AZ, US
+  ✓ Albuquerque - Juan Tabo Blvd - Albuquerque, NM, US
+  ✓ Albuquerque NM - Coors Blvd Bypass - Albuquerque, NM, US
+  ✓ Albuquerque - San Mateo Blvd - Albuquerque, NM, US
+  ✓ Albuquerque - Coors Blvd Bypass - Albuquerque, NM, US
+  ✓ Santa Fe - Santa Fe, NM, US
+  ✓ Lubbock - South Plains Mall - Lubbock, TX, US
+  ✓ Amarillo - Amarillo, TX, US
+  ✓ Wichita Square - Wichita Falls, TX, US
+  ✓ Lawton - Lawton, OK, US
+  ✓ Sherman Town Center - Sherman, TX, US
+  ✓ Prosper - Prosper, TX, US
+  ✓ Norman - Norman, OK, US
+  ✓ Frisco - Stonebriar Mall - Frisco, TX, US
+  ✓ McKinney - McKinney, TX, US
+  ✓ Allen - The Village - Allen, TX, US
+  ✓ OKC South - Oklahoma City, OK, US
+  ✓ Westgate Marketplace - Oklahoma City, OK, US
+  ✓ Midwest City - Warren Theater - Oklahoma City, OK, US
+  ✓ OKC - Penn Square - Oklahoma City, OK, US
+  ✓ OKC - Quail Springs - Oklahoma City, OK, US
+  ✓ Stillwater - Stillwater, OK, US
+  ✓ Texarkana - Central Mall - Texarkana, TX, US
+  ✓ Fort Smith - Fort Smith, AR, US
+  ✓ Hot Springs - Hot Springs, AR, US
+  ✓ Muskogee OK - N 32nd Street - Muskogee, OK, US
+  ✓ Russellville AR - Main St - Russellville, AR, US
+  ✓ Benton - Benton, AR, US
+  ✓ Broken Arrow - Broken Arrow, OK, US
+  ✓ Tulsa - Memorial - Tulsa, OK, US
+  ✓ Siloam Springs AR - Hwy 412 - Siloam Springs, AR, US
+  ✓ Fayetteville AR - Mall Ave - Fayetteville, AR, US
+  ✓ Catoosa Hills - Catoosa, OK, US
+  ✓ Tulsa - Utica Square - Tulsa, OK, US
+  ✓ Little Rock - Rodney Parham Rd. - Little Rock, AR, US
+  ✓ Sand Springs OK - Wilson Ave - Sand Springs, OK, US
+  ✓ North Little Rock - North Little Rock, AR, US
+  ✓ Cabot AR - US 67 and W Main St - Cabot, AR, US
+  ✓ Conway - Museum Rd - Conway, AR, US
+  ✓ Southaven - Airways - Southaven, MS, US
+  ✓ Memphis - Poplar Ave - Memphis, TN, US
+  ✓ Memphis - Winchester Rd - Memphis, TN, US
+  ✓ Jonesboro - Jonesboro, AR, US
+  ✓ Memphis - Wolfchase Mall - Memphis, TN, US
+  ✓ Tupelo - Tupelo, MS, US
+  ✓ Florence - Alabama - Florence, AL, US
+  ✓ Tuscaloosa - Tuscaloosa, AL, US
+  ✓ Jackson - Columns - Jackson, TN, US
+  ✓ Decatur - Decatur, AL, US
+  ✓ Gardendale - Fieldstown Rd - Gardendale, AL, US
+  ✓ Hoover - Riverchase - Hoover, AL, US
+  ✓ Alabaster - Alabaster, AL, US
+  ✓ Birmingham - Trussville - Birmingham, AL, US
+  ✓ Huntsville - Alabama - Huntsville, AL, US
+  ✓ Gadsden AL - Rainbow Dr - Gadsden, AL, US
+  ✓ Oxford - Oxford, AL, US
+  ✓ Rome - Rome, GA, US
+  ✓ Carrollton Crossroads - Carrollton, GA, US
+  ✓ Cartersville GA - Main Street Shopping Center - Cartersville, GA, US
+  ✓ Douglasville - Arbor Place Mall - Douglasville, GA, US
+  ✓ Dalton - W Walnut Ave - Dalton, GA, US
+  ✓ Austell GA - Heritage Hills - Austell, GA, US
+  ✓ Kennesaw - Kennesaw, GA, US
+  ✓ Newnan - Ashley Park Shopping Centre - Newnan, GA, US
+  ✓ Chattanooga - Hamilton Place Mall - Chattanooga, TN, US
+  ✓ Smyrna - Cobb Parkway - Smyrna, GA, US
+  ✓ East Point - Camp Creek - East Point, GA, US
+  ✓ Hixson - Hixson, TN, US
+  ✓ Canton - Georgia - Canton, GA, US
+  ✓ Roswell - Roswell, GA, US
+  ✓ Dunwoody - Perimeter Village Shopping Center - Dunwoody, GA, US
+  ✓ Fayetteville GA - Hwy 85 - Fayetteville, GA, US
+  ✓ Morrow - Southlake Mall - Morrow, GA, US
+  ✓ Cleveland, TN - Cleveland, TN, US
+  ✓ Duluth - Gwinnett Place Mall - Duluth, GA, US
+  ✓ McDonough - McDonough, GA, US
+  ✓ Lithonia - Stonecrest Mall - Lithonia, GA, US
+  ✓ Dawsonville - Dawsonville, GA, US
+  ✓ Snellville - Scenic Hwy - Snellville, GA, US
+  ✓ Buford - The Mall of Georgia - Buford, GA, US
+  ✓ Gainesville - Dawsonville Hwy - Gainesville, GA, US
+  ✓ Covington GA - Near Covington Crossings - Covington, GA, US
+  ✓ Murfreesboro - Murfreesboro, TN, US
+  ✓ Spring Hill - Spring Hill, TN, US
+  ✓ Franklin - Franklin, TN, US
+  ✓ Athens - Georgia Square Mall - Athens, GA, US
+  ✓ Antioch - Bell Road - Antioch, TN, US
+  ✓ Cookeville - Cookeville, TN, US
+  ✓ Mount Juliet - Providence - Mount Juliet, TN, US
+  ✓ Nashville - Opry Mills - Nashville, TN, US
+  ✓ Anderson - Clemson Boulevard - Anderson, SC, US
+  ✓ Augusta GA - River Watch Parkway - Augusta, GA, US
+  ✓ Greenville - Laurens Road - Greenville, SC, US
+  ✓ Greenville - Cherrydale - Greenville, SC, US
+  ✓ Aiken - Whiskey Rd - Aiken, SC, US
+  ✓ Spartanburg - Spartanburg, SC, US
+  ✓ Arden - Arden, NC, US
+  ✓ Columbia SC - Harbison - Columbia, SC, US
+  ✓ Asheville - Asheville, NC, US
+  ✓ Columbia SC - Sandhills - Columbia, SC, US
+  ✓ Sevierville - Sevierville, TN, US
+  ✓ Rock Hill - Dave Lyle Boulevard - Rock Hill, SC, US
+  ✓ Alcoa - Alcoa, TN, US
+  ✓ Gastonia - The Shops at Gastonia - Gastonia, NC, US
+  ✓ Charlotte - Premium Outlets - Charlotte, NC, US
+  ✓ Morganton NC - Sterling Street - Morganton, NC, US
+  ✓ Pineville - Carolina Place Mall - Pineville, NC, US
+  ✓ Knoxville - West Town Mall - Knoxville, TN, US
+  ✓ Knoxville - Turkey Creek - Knoxville, TN, US
+  ✓ Hickory - Valley Crossing Shopping Center - Hickory, NC, US
+  ✓ Northlake Commons - Charlotte, NC, US
+  ✓ Monroe - The Park at Monroe - Monroe, NC, US
+  ✓ Morristown - Morristown, TN, US
+  ✓ Concord Mills Outlet - Concord, NC, US
+  ✓ Florence - Magnolia Mall - Florence, SC, US
+  ✓ Myrtle Beach near Carolina Forest and Conway - Myrtle Beach, SC, US
+  ✓ Myrtle Beach - Downtown - Myrtle Beach, SC, US
+  ✓ North Myrtle Beach - Barefoot Landing - North Myrtle Beach, SC, US
+  ✓ Southern Pines - Southern Pines, NC, US
+  ✓ Fayetteville NC - Near Fort Bragg - Fayetteville, NC, US
+  ✓ Salisbury - Wallace Commons - Salisbury, NC, US
+  ✓ Mooresville - Mooresville, NC, US
+  ✓ Wilmington - Wilmington, NC, US
+  ✓ Holly Springs Towne Center - Holly Springs, NC, US
+  ✓ Statesville NC - Crossroads Shopping Center - Statesville, NC, US
+  ✓ High Point - High Point, NC, US
+  ✓ Cary - Cary, NC, US
+  ✓ Greensboro - Greensboro, NC, US
+  ✓ Winston Salem - Hanes Mall - Winston-Salem, NC, US
+  ✓ Burlington - North Carolina - Burlington, NC, US
+  ✓ Raleigh - Brier Creek - Raleigh, NC, US
+  ✓ Berkeley Mall - Goldsboro, NC, US
+  ✓ Raleigh - Raleigh, NC, US
+  ✓ Jacksonville - North Carolina - Jacksonville, NC, US
+  ✓ Wake Forest - Wake Forest, NC, US
+  ✓ Morehead City - Morehead City, NC, US
+  ✓ Greenville - North Carolina - Greenville, NC, US
+  ✓ Wilson - Wilson, NC, US
+  ✓ Rocky Mount - Rocky Mount, NC, US
+  ✓ Rohnert Park - Rohnert Park, CA, US
+  ✓ Capitola Mall - Capitola, CA, US
+  ✓ San Jose - San Jose, CA, US
+  ✓ Eastridge Mall - San Jose, CA, US
+  ✓ Salinas - Salinas, CA, US
+  ✓ Milpitas - Great Mall - Milpitas, CA, US
+  ✓ Fremont - Fremont, CA, US
+  ✓ Hayward - Hayward, CA, US
+  ✓ Tracy - West Valley Mall - Tracy, CA, US
+  ✓ Pittsburg - Pittsburg, CA, US
+  ✓ Modesto - Modesto, CA, US
+  ✓ Turlock - Countryside Plaza - Turlock, CA, US
+  ✓ Stockton - Stockton, CA, US
+  ✓ Vallejo - Vallejo, CA, US
+  ✓ Merced - Merced, CA, US
+  ✓ Vacaville - Vacaville, CA, US
+  ✓ Elk Grove - Elk Grove, CA, US
+  ✓ Sacramento - Arden Mall - Sacramento, CA, US
+  ✓ Fresno - The Marketplace at El Paseo - Fresno, CA, US
+  ✓ Natomas Sacramento - The Promenade Shopping Mall - Sacramento, CA, US
+  ✓ Citrus Heights - Citrus Heights, CA, US
+  ✓ Folsom - Folsom, CA, US
+  ✓ Clovis - Sierra Vista Mall - Clovis, CA, US
+  ✓ Roseville - Across from Galleria Mall - Roseville, CA, US
+  ✓ Yuba City - Yuba City, CA, US
+  ✓ Carson City NV - S Carson St - Carson City, NV, US
+  ✓ Centennial Hills - Las Vegas, NV, US
+  ✓ North Las Vegas - Craig Rd. - North Las Vegas, NV, US
+  ✓ St. George - Saint George, UT, US
+  ✓ Farmington - Farmington, NM, US
+  ✓ Pueblo - Pueblo, CO, US
+  ✓ South Colorado Springs - Citadel Crossing Mall - Colorado Springs, CO, US
+  ✓ North Colorado Springs - Chapel Hills Mall - Colorado Springs, CO, US
+  ✓ Derby - Derby, KS, US
+  ✓ W. Wichita - New Market Square - Wichita, KS, US
+  ✓ Wichita - Town East Mall - Wichita, KS, US
+  ✓ Hutchinson - Hutchinson, KS, US
+  ✓ Salina - Salina, KS, US
+  ✓ Owasso - Owasso, OK, US
+  ✓ Joplin - Joplin, MO, US
+  ✓ Rogers - Rogers, AR, US
+  ✓ Springfield MO - Sunshine Street - Springfield, MO, US
+  ✓ Springfield MO - S Glenstone Ave - Springfield, MO, US
+  ✓ Branson - Branson, MO, US
+  ✓ Olathe Point - Olathe, KS, US
+  ✓ Overland Park - Metcalf South Mall - Overland Park, KS, US
+  ✓ Lee's Summit - Lees Summit, MO, US
+  ✓ Independence - Independence, MO, US
+  ✓ Blue Springs - Blue Springs, MO, US
+  ✓ Topeka - West Ridge Mall - Topeka, KS, US
+  ✓ KC - Speedway Plaza - Kansas City, KS, US
+  ✓ Kansas City - North Barry Road - Kansas City, MO, US
+  ✓ Liberty - Liberty, MO, US
+  ✓ Fenton - Gravois Bluff - Fenton, MO, US
+  ✓ Cape Girardeau - Cape Girardeau, MO, US
+  ✓ Columbia MO - Columbia, MO, US
+  ✓ Affton - South County - Affton, MO, US
+  ✓ Chesterfield - St Louis MO - Chesterfield, MO, US
+  ✓ Wentzville Crossing South - Wentzville, MO, US
+  ✓ St Peters - Mid Rivers - Saint Peters, MO, US
+  ✓ Bridgeton - Rock Rd - Bridgeton, MO, US
+  ✓ Fairview Heights - St Clair Mall - Fairview Heights, IL, US
+  ✓ Paducah - Kentucky Oaks Mall - Paducah, KY, US
+  ✓ Marion - W Deyoung St - Marion, IL, US
+  ✓ Clarksville - Wilma Rudolph Blvd - Clarksville, TN, US
+  ✓ Evansville IN - W Lloyd Expy - Evansville, IN, US
+  ✓ Evansville - Eastland Mall - Evansville, IN, US
+  ✓ Owensboro - Owensboro, KY, US
+  ✓ Edwardsville - Orchard Town Center - Edwardsville, IL, US
+  ✓ Madison - Rivergate - Madison, TN, US
+  ✓ Bowling Green - Bowling Green, KY, US
+  ✓ Elizabethtown - Elizabethtown, KY, US
+  ✓ Louisville - Jefferson Mall - Louisville, KY, US
+  ✓ Louisville - Hurstbourne Parkway - Louisville, KY, US
+  ✓ Clarksville - Veterans Pkwy - Clarksville, IN, US
+  ✓ Louisville - Old Brownsboro Crossing - Louisville, KY, US
+  ✓ Richmond Centre - Richmond, KY, US
+  ✓ Lexington Fayette Mall - Lexington, KY, US
+  ✓ Lexington - Man O War - Lexington, KY, US
+  ✓ Bloomington - Whitehall Crossing - Bloomington, IN, US
+  ✓ Florence Mall - Florence, KY, US
+  ✓ Kingsport - Kingsport, TN, US
+  ✓ Bristol - Bristol, VA, US
+  ✓ Johnson City Mall - Johnson City, TN, US
+  ✓ Ashland - Ashland, KY, US
+  ✓ Barboursville - Huntington Mall - Barboursville, WV, US
+  ✓ Beckley - Beckley, WV, US
+  ✓ Charleston - South Ridge - Charleston, WV, US
+  ✓ Wilkesboro - US Highway 421N - Wilkesboro, NC, US
+  ✓ Christiansburg - New River Mall - Christiansburg, VA, US
+  ✓ Cincinnati - Beechmont Avenue - Cincinnati, OH, US
+  ✓ Roanoke - Valley View Mall - Roanoke, VA, US
+  ✓ Danville - Piedmont Mall - Danville, VA, US
+  ✓ Lynchburg - Wards Rd - Lynchburg, VA, US
+  ✓ Harrisonburg - Harrisonburg, VA, US
+  ✓ Richmond - Midlothian Tpk - Richmond, VA, US
+  ✓ Short Pump - Richmond, VA, US
+  ✓ Richmond - Glenside Drive - Richmond, VA, US
+  ✓ Colonial Heights Mall - Colonial Heights, VA, US
+  ✓ Richmond - White Oak Village - Henrico, VA, US
+  ✓ Clarksburg - New Point Plaza - Clarksburg, WV, US
+  ✓ Williamsburg - Williamsburg, VA, US
+  ✓ Newport News - Newport News, VA, US
+  ✓ Hampton - Hampton, VA, US
+  ✓ Chesapeake Square Mall - Chesapeake, VA, US
+  ✓ Norfolk - JANAF Shopping Center - Norfolk, VA, US
+  ✓ Chesapeake - Greenbrier Mall - Chesapeake, VA, US
+  ✓ Virginia Beach - Lynnhaven Mall - Virginia Beach, VA, US
+  ✓ California MD - Lexington Park - California, MD, US
+  ✓ Fredericksburg - Fredericksburg, VA, US
+  ✓ Waldorf - St. Charles Mall - Waldorf, MD, US
+  ✓ Woodbridge - Virginia - Woodbridge, VA, US
+  ✓ Salisbury - Maryland - Salisbury, MD, US
+  ✓ Manassas - Manassas, VA, US
+  ✓ Falls Church - Falls Church, VA, US
+  ✓ Capitol Heights - Capitol Heights, MD, US
+  ✓ Fairfax - Fairfax, VA, US
+  ✓ Vienna - Vienna, VA, US
+  ✓ Easton - Maryland - Easton, MD, US
+  ✓ Bowie Town Center - Bowie, MD, US
+  ✓ Hyattsville - Prince George Plaza - Hyattsville, MD, US
+  ✓ Sterling - Sterling, VA, US
+  ✓ Laurel Mall - Laurel, MD, US
+  ✓ Hanover MD - Arundel Mills - Hanover, MD, US
+  ✓ Columbia MD - Columbia, MD, US
+  ✓ Redding - Redding, CA, US
+  ✓ Across from Chico Mall - Chico, CA, US
+  ✓ Reno - Reno, NV, US
+  ✓ Sparks - Legends Mall - Sparks, NV, US
+  ✓ Saratoga Springs - Saratoga Springs, UT, US
+  ✓ South Jordan - South Jordan, UT, US
+  ✓ American Fork - American Fork, UT, US
+  ✓ Sandy - South Towne Mall - Sandy, UT, US
+  ✓ Spanish Fork - Spanish Fork, UT, US
+  ✓ Provo - Provo, UT, US
+  ✓ West Valley - Valley Fair Mall - West Valley, UT, US
+  ✓ Murray - Fashion Place Mall - Murray, UT, US
+  ✓ Salt Lake City - Sugarhouse - Salt Lake City, UT, US
+  ✓ West Bountiful - West Bountiful, UT, US
+  ✓ Layton Hills Mall - Layton, UT, US
+  ✓ Riverdale Road - Riverdale, UT, US
+  ✓ Logan - Cache Valley Mall - Logan, UT, US
+  ✓ Grand Junction - Mesa Mall - Grand Junction, CO, US
+  ✓ Denver West - Lakewood, CO, US
+  ✓ Westminster CO - Downtown - Westminster, CO, US
+  ✓ Belmar - Lakewood, CO, US
+  ✓ Littleton - Southwest Plaza Mall - Littleton, CO, US
+  ✓ Fort Collins - Fort Collins, CO, US
+  ✓ Thornton - Thornton, CO, US
+  ✓ Highlands Ranch - Highlands Ranch, CO, US
+  ✓ DENVER - THE SHOPS AT NORTHFIELD - Denver, CO, US
+  ✓ Aurora - S Havana St - Aurora, CO, US
+  ✓ Brighton CO - Prarie Center - Brighton, CO, US
+  ✓ Greeley Mall - Greeley, CO, US
+  ✓ Aurora - Southlands Pkwy - Aurora, CO, US
+  ✓ Cheyenne - Frontier Mall - Cheyenne, WY, US
+  ✓ Grand Island - Grand Island, NE, US
+  ✓ Lincoln - Gateway Mall - Lincoln, NE, US
+  ✓ Manhattan Town Center - Manhattan, KS, US
+  ✓ Omaha Lakeside - Omaha, NE, US
+  ✓ Papillion - Shadow Lake Towne Center - Papillion, NE, US
+  ✓ Omaha - Dodge St - Omaha, NE, US
+  ✓ Council Bluffs - Metro Crossing - Council Bluffs, IA, US
+  ✓ Saint Joseph - The Shoppes at North Village - Saint Joseph, MO, US
+  ✓ West Des Moines - Westown Parkway - West Des Moines, IA, US
+  ✓ Des Moines IA - SE 14th Street - Des Moines, IA, US
+  ✓ Ankeny - Oralabor Road - Ankeny, IA, US
+  ✓ Coralville Ridge Mall - Coralville, IA, US
+  ✓ Springfield IL - White Oaks Plaza - Springfield, IL, US
+  ✓ Moline - Moline, IL, US
+  ✓ Davenport - North Park Mall - Davenport, IA, US
+  ✓ Peoria - Willow Knolls Court - Peoria, IL, US
+  ✓ Cedar Rapids - Collins Road - Cedar Rapids, IA, US
+  ✓ Decatur - Mound Center - Decatur, IL, US
+  ✓ Bloomington - Eastland Mall - Bloomington, IL, US
+  ✓ Champaign - Champaign, IL, US
+  ✓ Terre Haute - Town South Plaza - Terre Haute, IN, US
+  ✓ Peru Market Place - Peru, IL, US
+  ✓ Bradley-Bourbonnais - Bourbonnais, IL, US
+  ✓ Joliet - Plainfield IL - Lincoln Hwy - Plainfield, IL, US
+  ✓ Lafayette IN - South St - Lafayette, IN, US
+  ✓ Matteson Center - Matteson, IL, US
+  ✓ Oswego - Prairie Market Mall - Oswego, IL, US
+  ✓ Bolingbrook - Country Aire Plaza - Bolingbrook, IL, US
+  ✓ Orland Square Mall - Orland Park, IL, US
+  ✓ Naperville - Fox Valley Mall - Naperville, IL, US
+  ✓ Highland - Grove Shopping Center - Highland, IN, US
+  ✓ Lansing - Lansing, IL, US
+  ✓ Merrillville - Westfield South Lake Mall - Merrillville, IN, US
+  ✓ Lombard - Yorktown Center - Lombard, IL, US
+  ✓ Burbank - Ford City Mall - Burbank, IL, US
+  ✓ St. Charles - Charlestown Mall - Saint Charles, IL, US
+  ✓ Bloomingdale - Stratford Square Mall - Bloomingdale, IL, US
+  ✓ North Riverside - Riverside Mall - North Riverside, IL, US
+  ✓ Avon Commons - Avon, IN, US
+  ✓ Melrose Park - Melrose Park, IL, US
+  ✓ Carmel - North Michigan Road - Carmel, IN, US
+  ✓ Addison - Chicago, IL - Chicago, IL, US
+  ✓ West Dundee - Spring Hill Mall - West Dundee, IL, US
+  ✓ Schaumburg - Woodfield Mall - Schaumburg, IL, US
+  ✓ Lincolnwood Town Center Mall - Lincolnwood, IL, US
+  ✓ Kokomo - Lafountain - Kokomo, IN, US
+  ✓ Arlington Heights - Arlington Heights, IL, US
+  ✓ Greenwood Park Mall - Greenwood, IN, US
+  ✓ Indianapolis - Castleton Square Mall - Indianapolis, IN, US
+  ✓ Rockford - State Street - Rockford, IL, US
+  ✓ Michigan City - Franklin Street - Michigan City, IN, US
+  ✓ Indianapolis - East Washington Street - Indianapolis, IN, US
+  ✓ Noblesville - Hamilton Town Center - Noblesville, IN, US
+  ✓ Greenfield IN -  N State Street - Greenfield, IN, US
+  ✓ Anderson - Scatterfield Road - Anderson, IN, US
+  ✓ Muncie - McGalliard Road - Muncie, IN, US
+  ✓ Richmond - Indiana - Richmond, IN, US
+  ✓ Fort Wayne - Glenbrook Mall - Fort Wayne, IN, US
+  ✓ Cincinnati - Stone Creek Center - Cincinnati, OH, US
+  ✓ Fairfield - Fairfield, OH, US
+  ✓ Piqua OH - Ash Street - Piqua, OH, US
+  ✓ Middletown - Ohio - Middletown, OH, US
+  ✓ Dayton North - Miller Lane - Dayton, OH, US
+  ✓ Dayton Mall - Dayton, OH, US
+  ✓ Cincinnati-Oakley - Cincinnati, OH, US
+  ✓ Cincinnati - Mason - Cincinnati, OH, US
+  ✓ Fairborn - Beavercreek, OH, US
+  ✓ Lima - Lima, OH, US
+  ✓ Springfield OH - N Bechtle Ave - Springfield, OH, US
+  ✓ Mishawaka - University Park Mall - Mishawaka, IN, US
+  ✓ Elkhart - Elkhart, IN, US
+  ✓ Findlay - Findlay, OH, US
+  ✓ Hilliard - Columbus, OH, US
+  ✓ Columbus - Sawmill Rd - Columbus, OH, US
+  ✓ Portage - Crossroads Mall - Portage, MI, US
+  ✓ Grove City - Grove City, OH, US
+  ✓ Columbus - Polaris Mall - Columbus, OH, US
+  ✓ Columbus - N Hamilton Rd - Columbus, OH, US
+  ✓ Reynoldsburg - Reynoldsburg, OH, US
+  ✓ Lancaster - River Valley Mall - Lancaster, OH, US
+  ✓ Heath - Heath, OH, US
+  ✓ Chillicothe - Chillicothe, OH, US
+  ✓ Zanesville - Zanesville, OH, US
+  ✓ Mansfield - Ontario - Mansfield, OH, US
+  ✓ Parkersburg Mall - Vienna, WV, US
+  ✓ Sandusky - Sandusky, OH, US
+  ✓ Canton - Ohio - Canton, OH, US
+  ✓ Akron - Montrose Hwy 18 - Akron, OH, US
+  ✓ Elyria - Midway Mall - Elyria, OH, US
+  ✓ Cuyahoga Falls - Cuyahoga Falls, OH, US
+  ✓ Middleburg Heights - Middleburg Heights, OH, US
+  ✓ North Olmsted - Great Northern Mall - North Olmsted, OH, US
+  ✓ Parma Town Mall - Parma, OH, US
+  ✓ Toledo - S Reynolds Rd - Toledo, OH, US
+  ✓ Toledo - Monroe St - Toledo, OH, US
+  ✓ Warrensville Heights - Beachwood - Beachwood, OH, US
+  ✓ Triadelphia - Triadelphia, WV, US
+  ✓ Boardman - Poland Rd - Boardman Township, OH, US
+  ✓ Mentor - Great Lakes Mall - Mentor, OH, US
+  ✓ Niles - Eastwood Mall - Niles, OH, US
+  ✓ Washington - Washington, PA, US
+  ✓ Southgate - Southgate, MI, US
+  ✓ Pittsburgh - Robinson Town Center - Pittsburgh, PA, US
+  ✓ Bethel Park - Village Square Shopping Center - Bethel Park, PA, US
+  ✓ Pittsburgh - Greentree - Pittsburgh, PA, US
+  ✓ Ann Arbor - Briarwood Mall - Ann Arbor, MI, US
+  ✓ Cranberry Township - Cranberry Township, PA, US
+  ✓ Uniontown - Uniontown, PA, US
+  ✓ Pleasant Hills - Southland Center - Pleasant Hills, PA, US
+  ✓ Morgantown - Morgantown, WV, US
+  ✓ Monroeville Mall - Monroeville, PA, US
+  ✓ Greensburg - Westmoreland Mall - Greensburg, PA, US
+  ✓ McIntyre Square Shopping Center - Pittsburgh, PA, US
+  ✓ Tarentum - Pittsburgh Mills Mall - Tarentum, PA, US
+  ✓ Altoona - Altoona, PA, US
+  ✓ Martinsburg - Martinsburg, WV, US
+  ✓ Winchester - Winchester, VA, US
+  ✓ Hagerstown - Hagerstown, MD, US
+  ✓ State College - State College, PA, US
+  ✓ Chambersburg - Walker Road - Chambersburg, PA, US
+  ✓ Erie - Mill Creek Mall - Erie, PA, US
+  ✓ Frederick - Frederick, MD, US
+  ✓ Lakewood - New York - Lakewood, NY, US
+  ✓ Mechanicsburg - Silver Spring Commons - Mechanicsburg, PA, US
+  ✓ Hanover PA - Hanover, PA, US
+  ✓ York - York, PA, US
+  ✓ Harrisburg - Colonial Commons - Harrisburg, PA, US
+  ✓ Westminster MD - Gorsuch Rd - Rt 140 - Westminster, MD, US
+  ✓ Lancaster - Park City Mall - Lancaster, PA, US
+  ✓ Lancaster - Rockvale Outlets - Lancaster, PA, US
+  ✓ Baltimore MD - White Marsh - Nottingham, MD, US
+  ✓ Bel Air MD - James Run - Bel Air, MD, US
+  ✓ Wyomissing - Wyomissing, PA, US
+  ✓ Elkton - Elkton, MD, US
+  ✓ Downingtown - Quarry Crossings - Downingtown, PA, US
+  ✓ Christiana - Newark, DE, US
+  ✓ Bloomsburg - Bloomsburg, PA, US
+  ✓ Talleyville - Talleyville, DE, US
+  ✓ Collegeville - Providence Town Center - Collegeville, PA, US
+  ✓ Williamsport - Williamsport, PA, US
+  ✓ Springfield PA - Baltimore Pike - Springfield, PA, US
+  ✓ Whitehall - Whitehall, PA, US
+  ✓ Bala Cynwyd - Bala Cynwyd, PA, US
+  ✓ North Wales - Gwynedd Crossing - North Wales, PA, US
+  ✓ Dover - Dover, DE, US
+  ✓ Willow Grove - Easton Rd - Willow Grove, PA, US
+  ✓ Court of Deptford Plaza - Deptford, NJ, US
+  ✓ Easton - Pennsylvania - Easton, PA, US
+  ✓ Philadelphia - E Roosevelt Blvd - Philadelphia, PA, US
+  ✓ Wilkes Barre - Wilkes Barre, PA, US
+  ✓ Cherry Hill - Cherry Hill, NJ, US
+  ✓ Voorhees - Voorhees, NJ, US
+  ✓ Vineland - Vineland, NJ, US
+  ✓ Langhorne - Oxford Valley Mall - Langhorne, PA, US
+  ✓ Stroudsburg - Stroudsburg, PA, US
+  ✓ Scranton - Scranton, PA, US
+  ✓ Lawrenceville - Mercer Mall - Trenton, NJ, US
+  ✓ Bridgewater Town Centre - Bridgewater, NJ, US
+  ✓ Mays Landing - Hamilton Mall - Mays Landing, NJ, US
+  ✓ Piscataway - Centenial Square - Piscataway, NJ, US
+  ✓ Brunswick Square Mall - East Brunswick, NJ, US
+  ✓ Rockaway Mall - Rockaway, NJ, US
+  ✓ Freehold Marketplace Plaza - Freehold, NJ, US
+  ✓ Manahawkin - Stafford Plaza - Manahawkin, NJ, US
+  ✓ Woodbridge Center - Woodbridge, NJ, US
+  ✓ Springfield NJ - Route 22 - Springfield, NJ, US
+  ✓ Horseheads - Horseheads, NY, US
+  ✓ Tom's River - Toms River, NJ, US
+  ✓ Vestal - Vestal, NY, US
+  ✓ Wayne Town Center - Wayne, NJ, US
+  ✓ Eatontown - Eatontown, NJ, US
+  ✓ Brooklyn - Caesar's Bay - Brooklyn, NY, US
+  ✓ Brooklyn - Gateway Shopping Plaza - Brooklyn, NY, US
+  ✓ Valley Stream - Valley Stream, NY, US
+  ✓ Elmhurst - Elmhurst, NY, US
+  ✓ NYC - Times Square - New York, NY, US
+  ✓ Secaucus - Millcreek Mall - Secaucus, NJ, US
+  ✓ Westbury Plaza - Westbury, NY, US
+  ✓ Bronx - Bronx, NY, US
+  ✓ Bergen Town Center - Paramus, NJ, US
+  ✓ Bay Shore - Bay Shore, NY, US
+  ✓ Yonkers, NY - Yonkers, NY, US
+  ✓ Centereach Mall - Centereach, NY, US
+  ✓ Danbury - Danbury, CT, US
+  ✓ Orange - Connecticut - Orange, CT, US
+  ✓ Middletown - New York - Middletown, NY, US
+  ✓ North Haven - North Haven, CT, US
+  ✓ Poughkeepsie - Poughkeepsie, NY, US
+  ✓ Waterford - Crystal Mall - Waterford, CT, US
+  ✓ West Hartford - West Hartford, CT, US
+  ✓ Manchester CT - Buckland Hills - Manchester, CT, US
+  ✓ Enfield - Enfield, CT, US
+  ✓ Dartmouth Mall - North Dartmouth, MA, US
+  ✓ Warwick - Warwick, RI, US
+  ✓ Hyannis - Hyannis, MA, US
+  ✓ South Attleboro - South Attleboro, MA, US
+  ✓ Plymouth - Colony Place - Plymouth, MA, US
+  ✓ Foxboro - Gillette Stadium - Foxboro, MA, US
+  ✓ Stoughton - Stoughton, MA, US
+  ✓ Worcester - Worcester, MA, US
+  ✓ Framingham - Shoppers World Plaza - Framingham, MA, US
+  ✓ Dorchester - South Bay Plaza - Dorchester, MA, US
+  ✓ Medford - Medford, OR, US
+  ✓ Eugene - Valley River Center Mall - Eugene, OR, US
+  ✓ Bend - Cascade Village - Bend, OR, US
+  ✓ Salem - Lancaster Mall - Salem, OR, US
+  ✓ Nampa - Market Place Drive - Nampa, ID, US
+  ✓ Meridian ID - Orchard Park - Meridian, ID, US
+  ✓ Boise Town Square Mall - Boise, ID, US
+  ✓ Twin Falls - Magic Valley Mall - Twin Falls, ID, US
+  ✓ Chubbuck - Pine Ridge Mall - Chubbuck, ID, US
+  ✓ Idaho Falls - Idaho Falls, ID, US
+  ✓ Casper - Casper, WY, US
+  ✓ Rapid City - Rushmore Mall - Rapid City, SD, US
+  ✓ Sioux Falls - Sioux Falls, SD, US
+  ✓ Sioux City - Lakeport Commons - Sioux City, IA, US
+  ✓ Mankato - River Hills Mall - Mankato, MN, US
+  ✓ Waterloo - Cross Roads Mall - Waterloo, IA, US
+  ✓ Rochester MN - Hwy 52 N - Rochester, MN, US
+  ✓ Burnsville - Burnsville, MN, US
+  ✓ Bloomington - Bloomington, MN, US
+  ✓ Central Park Commons - Eagan, MN, US
+  ✓ Minnetonka - Minnetonka, MN, US
+  ✓ Onalaska - Valley View Mall - Onalaska, WI, US
+  ✓ Dubuque - Dodge Street - Dubuque, IA, US
+  ✓ Eau Claire - Eau Claire, WI, US
+  ✓ Madison - West Towne Mall - Madison, WI, US
+  ✓ Madison - East Towne Mall - Madison, WI, US
+  ✓ Oakdale - Oakdale, MN, US
+  ✓ Maplewood - Maplewood, MN, US
+  ✓ Roseville - Snelling and County Road C - Roseville, MN, US
+  ✓ Janesville - Janesville, WI, US
+  ✓ Coon Rapids - Coon Rapids, MN, US
+  ✓ Delafield - Delafield, WI, US
+  ✓ Brookfield Square - Brookfield, WI, US
+  ✓ Menomonee Falls - Menomonee Falls, WI, US
+  ✓ Greenfield - Southridge Mall - Greenfield, WI, US
+  ✓ McHenry - McHenry, IL, US
+  ✓ Racine - Regency Mall - Racine, WI, US
+  ✓ Pleasant Prairie - St Catherines - Pleasant Prairie, WI, US
+  ✓ Gurnee - Great America - Gurnee, IL, US
+  ✓ Oshkosh - Oshkosh, WI, US
+  ✓ Vernon Hills - Hawthorn Mall - Vernon Hills, IL, US
+  ✓ Sheboygan - US-42 - Sheboygan, WI, US
+  ✓ Appleton - Fox River Mall - Appleton, WI, US
+  ✓ Appleton - East - Appleton, WI, US
+  ✓ Green Bay - Green Bay, WI, US
+  ✓ Wausau - Wausau, WI, US
+  ✓ Muskegon - Lakes Mall - Muskegon, MI, US
+  ✓ Holland - Shops at Westshore - Holland, MI, US
+  ✓ Grandville - River Town Crossings Mall - Grandville, MI, US
+  ✓ Grand Rapids - Walker - Grand Rapids, MI, US
+  ✓ Grand Rapids - 28th Street - Grand Rapids, MI, US
+  ✓ Battle Creek - Lakeview Square Mall - Battle Creek, MI, US
+  ✓ Lansing MI - W Saginaw Hwy M-43 - Lansing, MI, US
+  ✓ Mt. Pleasant - Mount Pleasant, MI, US
+  ✓ Okemos MI - Meridian Mall - Okemos, MI, US
+  ✓ Jackson - Near Jackson Airport - Jackson, MI, US
+  ✓ Eastman - Midland, MI, US
+  ✓ Saginaw MI - Bay Road M-84 - Saginaw, MI, US
+  ✓ Flint - Miller Road - Flint, MI, US
+  ✓ Brighton - Green Oak Village Place - Brighton, MI, US
+  ✓ Traverse City - Traverse City, MI, US
+  ✓ Novi Town Center - Novi, MI, US
+  ✓ Auburn Hills - Auburn Hills, MI, US
+  ✓ Livonia - Livonia, MI, US
+  ✓ Rochester Hills MI - Emagine Movie Theater - Rochester Hills, MI, US
+  ✓ Dearborn - Dearborn, MI, US
+  ✓ Warren - Warren, MI, US
+  ✓ Sterling Heights - Lakeside Circle - Sterling Heights, MI, US
+  ✓ Eastpointe - Eastpointe, MI, US
+  ✓ Chesterfield - Detroit MI - Chesterfield, MI, US
+  ✓ Fort Gratiot - Port Huron - Fort Gratiot, MI, US
+  ✓ Niagara Falls - Niagara Falls, NY, US
+  ✓ Amherst - Amherst, NY, US
+  ✓ Blasdell - Buffalo - Blasdell, NY, US
+  ✓ Cheektowaga - Cheektowaga, NY, US
+  ✓ Williamsville - Williamsville, NY, US
+  ✓ Rochester - Greece NY - Paddy Creek Circle - Rochester, NY, US
+  ✓ Rochester - Henrietta NY - Jefferson Rd - Rochester, NY, US
+  ✓ Victor - Victor, NY, US
+  ✓ Clay - Clay, NY, US
+  ✓ Dewitt - Syracuse, NY, US
+  ✓ Watertown - Watertown, NY, US
+  ✓ New Hartford - New Hartford, NY, US
+  ✓ Clifton Park - Clifton Park, NY, US
+  ✓ Colonie - Colonie, NY, US
+  ✓ Queensbury - Queensbury, NY, US
+  ✓ West Springfield MA - Riverdale Shops - West Springfield, MA, US
+  ✓ Burlington - Vermont - South Burlington, VT, US
+  ✓ Leominster - Leominster, MA, US
+  ✓ Concord - New Hampshire - Concord, NH, US
+  ✓ Marlborough - Solomon Pond Mall - Marlborough, MA, US
+  ✓ Manchester NH - S Willow St - Manchester, NH, US
+  ✓ Tyngsboro - Pheasant Lane Mall - Tyngsboro, MA, US
+  ✓ Methuen - Methuen, MA, US
+  ✓ Danvers - Danvers, MA, US
+  ✓ Newington - Newington, NH, US
+  ✓ South Portland - South Portland, ME, US
+  ✓ Auburn ME - Turner St - Auburn, ME, US
+  ✓ Augusta ME - Augusta, ME, US
+  ✓ Bangor - Bangor, ME, US
+  ✓ Beaverton Town Center - Beaverton, OR, US
+  ✓ Lake Oswego - Lake Oswego, OR, US
+  ✓ Vancouver Mall - Vancouver, WA, US
+  ✓ Olympia - Olympia, WA, US
+  ✓ Portland - Mall 205 - Portland, OR, US
+  ✓ Vancouver - Columbia Tech Center - Vancouver, WA, US
+  ✓ Clackamas Promenade - Clackamas, OR, US
+  ✓ Gresham Village - Gresham, OR, US
+  ✓ Tacoma - Tacoma, WA, US
+  ✓ Puyallup - South Hill Mall - Puyallup, WA, US
+  ✓ Federal Way - Federal Way, WA, US
+  ✓ Silverdale - Silverdale, WA, US
+  ✓ Yakima - Yakima, WA, US
+  ✓ Tukwila - Southcenter Mall - Tukwila, WA, US
+  ✓ Kirkland - Totem Lake - Kirkland, WA, US
+  ✓ East Wenatchee - East Wenatchee, WA, US
+  ✓ Lynnwood - Lynnwood, WA, US
+  ✓ Everett Mall - Everett, WA, US
+  ✓ Kennewick - Kennewick, WA, US
+  ✓ Tulalip - Tulalip, WA, US
+  ✓ Spokane - North Point Plaza - Spokane, WA, US
+  ✓ Spokane Valley - Spokane Valley, WA, US
+  ✓ Coeur D'Alene - Coeur D'Alene, ID, US
+  ✓ Bozeman - Bozeman, MT, US
+  ✓ Billings - Billings, MT, US
+  ✓ Bismarck - Bismarck, ND, US
+  ✓ Dakota Square Mall - Minot, ND, US
+  ✓ Fargo - West Acres Mall - Fargo, ND, US
+  ✓ Grand Forks ND - Columbia Mall - Grand Forks, ND, US
+  ✓ Waite Park - Waite Park, MN, US
+  ✓ Maple Grove - Maple Grove, MN, US
+  ✓ Duluth - Miller Hill Mall - Duluth, MN, US
+  ✓ Langley - Rio Can Centre - Langley, BC, CA
+  ✓ Bellingham - Bellingham, WA, US
+  ✓ Burlington, Washington - Burlington, WA, US
+  ✓ Calgary - Northgate Plaza - Calgary, AB, CA
+  ✓ Regina - Regina, SK, CA
+  ✓ Winnipeg - Polo Park - Winnipeg, MB, CA
+  ✓ Winnipeg - Lagimodiere - Winnipeg, MB, CA
+
+Searching alaska...
+  ✓ Dimond Mall - Anchorage, AK, US
+  ✓ Tikatnu Commons - Anchorage, AK, US
+
+Searching hawaii...
+  ✓ Kapolei - Kapolei, HI, US
+  ✓ Ala Moana - Honolulu, HI, US
+
+Searching canada...
+  ✓ Edmonton - Stony Plain Rd - Edmonton, AB, CA
+  ✓ Edmonton - Gateway - Edmonton, AB, CA
+  ✓ Saskatoon - Saskatoon, SK, CA
+
+Searching mexico...
+  ✓ La Gran Via (San Salvador) - San Salvador, SS, EL SALVADOR
+  ✓ Veracruz - Boca del Río Veracruz., VER, Mexico
+  ✓ Gran Plaza (Guadalajara) - Zapopan, GDL, Mexico
+  ✓ Leon - León, GTO, Mexico
+  ✓ Querétaro - Santiago de Querétaro, QTRO, Mexico
+  ✓ Paseo Interlomas - Naucalpan de Juárez, MC, Mexico
+  ✓ Toreo - Naucalpan de Juárez, MXS, Mexico
+  ✓ Santa Fe - Santa Fe, CDMX, Mexico
+  ✓ Parque Delta - Benito Juarez, CDMX, Mexico
+  ✓ Universidad - Del. Benito Juárez, CDMX, Mexico
+  ✓ Oasis Coyoacan - Coyoacán, CDMX, Mexico
+  ✓ Plaza Malecón Américas - Cancún - Cancún, QR, MEXICO
+
+Searching caribbean...
+  ✓ Terrazas Lindora - San Jose, SJ, COSTA RICA
+  ✓ Escazu Village - San Jose, SJ, COSTA RICA
+  ✓ Multiplaza Panama City - Panama City, PC, PANAMA
+  ✓ Santa Isabel - Santa Isabel, PR, PUERTO RICO
+  ✓ Barceloneta - Barceloneta, PR, US
+  ✓ Bayamón - Bayamon, PR, US
+  ✓ San Juan Convention Center - San Juan, PR, US
+  ✓ San Patricio - Guaynabo, PR, US
+  ✓ Plaza las Americas - San Juan, PR, US
+  ✓ Montehiedra - San Juan, SJ, PR
+  ✓ Parque Escorial Shopping Village - Carolina, PR, US
+
+Searching central_america...
+
+Searching south_america...
+  ✓ Morumbi - Vila Gertrudes, SP, BRAZIL
+  ✓ Aricanduva - Vila Matilde, SP, BRAZIL
+  ✓ Center Norte - Vila Guilherme, SP, BRAZIL
+  ✓ Aeroporto Internactional de Guarulhos, Terminal 2 - Guarulhos, SP, BRAZIL
+  ✓ Aeroporto Internactional de Guarulhos, Terminal 3 - Guarulhos, SP, BRAZIL
+  ✓ Parque Dom Pedro - Campinas, SP, BRAZIL
+  ✓ Guayaquil – Riocentro Ceibos - Guayaquil , GYE, ECUADOR
+
+Searching middle_east...
+  ✓ Dubai Parks - Dubai, DB, UAE
+
+Searching asia...
+
+✓ olivegarden: 985 total locations
+  By country:
+    BRAZIL: 6
+    CA: 8
+    COSTA RICA: 2
+    ECUADOR: 1
+    EL SALVADOR: 1
+    MEXICO: 1
+    Mexico: 12
+    PANAMA: 1
+    PR: 1
+    PUERTO RICO: 1
+    UAE: 1
+    US: 950
+
+================================================================================
+Scraping LONGHORNSTEAKHOUSE - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ Temecula - Temecula, CA, US
+  ✓ La Quinta - La Quinta, CA, US
+  ✓ Rancho Cucamonga - Rancho Cucamonga, CA, US
+  ✓ Northridge - Fashion Center - Northridge, CA, US
+  ✓ Tucson - Broadway - Tucson, AZ, US
+  ✓ Tucson - Tucson, AZ, US
+  ✓ Chandler - Chandler, AZ, US
+  ✓ Phoenix - Desert Sky - Phoenix, AZ, US
+  ✓ Mesa - Fiesta Mall - Mesa, AZ, US
+  ✓ Surprise AZ - Surprise, AZ, US
+  ✓ Phoenix - Metro Center - Phoenix, AZ, US
+  ✓ Phoenix - Paradise Valley - Phoenix, AZ, US
+  ✓ Laredo - Mall del Norte - Laredo, TX, US
+  ✓ McAllen South - Palms Crossing - McAllen, TX, US
+  ✓ Odessa - Odessa, TX, US
+  ✓ McAllen North - 10th and Trenton - McAllen, TX, US
+  ✓ Midland - Midland, TX, US
+  ✓ Weslaco - Weslaco, TX, US
+  ✓ Harlingen - Harlingen, TX, US
+  ✓ San Angelo - San Angelo, TX, US
+  ✓ San Antonio - Culebra - San Antonio, TX, US
+  ✓ San Antonio - Zarzamora - San Antonio, TX, US
+  ✓ Brownsville - Brownsville, TX, US
+  ✓ San Antonio - La Cantera - San Antonio, TX, US
+  ✓ San Antonio - Park North - San Antonio, TX, US
+  ✓ San Antonio - Stone Oak - San Antonio, TX, US
+  ✓ San Antonio - Live Oak - Live Oak, TX, US
+  ✓ Corpus Christi - La Palamera Mall - Corpus Christi, TX, US
+  ✓ New Braunfels - New Braunfels, TX, US
+  ✓ Victoria - Victoria Mall - Victoria, TX, US
+  ✓ Austin - Southpark Meadows - Austin, TX, US
+  ✓ Sunset Valley - Hwy 290 - Sunset Valley, TX, US
+  ✓ Cedar Park TX - Cedar Park, TX, US
+  ✓ Round Rock - La Frontera - Round Rock, TX, US
+  ✓ Georgetown - Wolf Ranch Town Center - Georgetown, TX, US
+  ✓ Temple - Temple, TX, US
+  ✓ Sugar Land - Sugar Land, TX, US
+  ✓ Katy - Katy, TX, US
+  ✓ Lubbock - Lubbock, TX, US
+  ✓ Cypress - Houston Premium Outlets - Cypress, TX, US
+  ✓ Waco - Waco, TX, US
+  ✓ Pearland - Pearland, TX, US
+  ✓ Houston - Memorial City - Houston, TX, US
+  ✓ Webster - Webster, TX, US
+  ✓ Spring - Woodlands - Spring, TX, US
+  ✓ Houston - Wallisville - Houston, TX, US
+  ✓ Humble - Deerbrook Mall - Humble, TX, US
+  ✓ Baytown - Baytown, TX, US
+  ✓ Beaumont - Beaumont, TX, US
+  ✓ Burleson - Fort Worth - Burleson, TX, US
+  ✓ Weatherford - Weatherford, TX, US
+  ✓ Grand Prairie TX - Grand Prairie, TX, US
+  ✓ Alliance - Fort Worth - Fort Worth, TX, US
+  ✓ Mesquite - Marketplace At Towne Centre - Mesquite, TX, US
+  ✓ Tyler TX - Tyler, TX, US
+  ✓ Tyler - Broadway Square Mall - Tyler, TX, US
+  ✓ Denton - Denton, TX, US
+  ✓ Plano - Plano, TX, US
+  ✓ Lafayette - Louisiana - Lafayette, LA, US
+  ✓ Baton Rouge - Baton Rouge, LA, US
+  ✓ Denham Springs - Denham Springs, LA, US
+  ✓ Shreveport - Shreveport, LA, US
+  ✓ Slidell - The Summit - Slidell, LA, US
+  ✓ Monroe LA - Pecanland Mall - Monroe, LA, US
+  ✓ Texarkana - Texarkana, TX, US
+  ✓ Gulfport - Gulfport, MS, US
+  ✓ Hattiesburg - Hattiesburg, MS, US
+  ✓ Mobile - Mobile, AL, US
+  ✓ Gulf Shores - Gulf Shores, AL, US
+  ✓ Daphne - Daphne, AL, US
+  ✓ Flowood - Flowood, MS, US
+  ✓ Madison MS - Madison, MS, US
+  ✓ Pensacola - Pensacola, FL, US
+  ✓ Pace - Pace, FL, US
+  ✓ Fort Walton Beach - Fort Walton Beach, FL, US
+  ✓ Destin - Destin, FL, US
+  ✓ Panama City Beach - Panama City Beach, FL, US
+  ✓ Panama City - Panama City, FL, US
+  ✓ Dothan - Dothan, AL, US
+  ✓ Tallahassee - Tallahassee, FL, US
+  ✓ St. Petersburg - Saint Petersburg, FL, US
+  ✓ Largo FL - Clearwater, FL, US
+  ✓ Bradenton - Bradenton, FL, US
+  ✓ Sarasota - Gulf Gate - Sarasota, FL, US
+  ✓ Palm Harbor - Palm Harbor, FL, US
+  ✓ Sarasota - Fruitville - Sarasota, FL, US
+  ✓ Montgomery - Montgomery, AL, US
+  ✓ Bradenton - Marketplace at Heritage Harbour - Bradenton, FL, US
+  ✓ Port Richey - Port Richey, FL, US
+  ✓ Prattville - Prattville, AL, US
+  ✓ Tampa - Citrus Park - Tampa, FL, US
+  ✓ Tampa - West Shore - Tampa, FL, US
+  ✓ Tampa - University of South Florida - Tampa, FL, US
+  ✓ Riverview FL - Riverview, FL, US
+  ✓ Port Charlotte - Port Charlotte, FL, US
+  ✓ Tuscaloosa - Midtown Village - Tuscaloosa, AL, US
+  ✓ Columbus MS - Columbus, MS, US
+  ✓ Brandon - Brandon, FL, US
+  ✓ Spring Hill FL - Brooksville - Brooksville, FL, US
+  ✓ Lutz - Wesley Chapel - Lutz, FL, US
+  ✓ Thomasville - Thomasville, GA, US
+  ✓ Cape Coral - Cape Coral, FL, US
+  ✓ Fort Myers - Market Square - Fort Myers, FL, US
+  ✓ Naples - Naples, FL, US
+  ✓ Zephyrhills - Zephyrhills, FL, US
+  ✓ Fort Myers - Gulf Coast Town Center - Fort Myers, FL, US
+  ✓ Alabaster - Alabaster, AL, US
+  ✓ Lakeland - Southside - Lakeland, FL, US
+  ✓ Lakeland - North Lakeland - Lakeland, FL, US
+  ✓ Winter Haven - Winter Haven, FL, US
+  ✓ ChampionsGate - Davenport, FL, US
+  ✓ Clermont - Clermont, FL, US
+  ✓ Ocala - Ocala, FL, US
+  ✓ West Kissimmee - near Margaritaville Resort - Kissimmee, FL, US
+  ✓ Lady Lake - Lady Lake, FL, US
+  ✓ Gainesville FL - Gainesville, FL, US
+  ✓ East Kissimmee - near Old Town - Kissimmee, FL, US
+  ✓ Winter Garden - Winter Garden, FL, US
+  ✓ Orlando - Lake Buena Vista - Orlando, FL, US
+  ✓ Orlando - International Drive - Orlando, FL, US
+  ✓ Mount Dora - Mount Dora, FL, US
+  ✓ Orlando - Southchase - Orlando, FL, US
+  ✓ Orlando - Grand National - Orlando, FL, US
+  ✓ Lake City - Lake City, FL, US
+  ✓ Orlando - Airport - Gateway - Orlando, FL, US
+  ✓ Orlando - Fashion Square Mall - Orlando, FL, US
+  ✓ Valdosta - Valdosta, GA, US
+  ✓ Altamonte Springs - Altamonte Springs, FL, US
+  ✓ Orlando - Lake Nona - Orlando, FL, US
+  ✓ East Moultrie - East Moultrie, GA, US
+  ✓ Orlando - Waterford Lakes - Orlando, FL, US
+  ✓ Sanford - Sanford, FL, US
+  ✓ Homestead - Homestead, FL, US
+  ✓ Miami - Kendall - Miami, FL, US
+  ✓ Albany - Albany, GA, US
+  ✓ Oviedo - Oviedo, FL, US
+  ✓ Orange City - Orange City, FL, US
+  ✓ Miami - The Falls - Miami, FL, US
+  ✓ Miami - Doral - Miami, FL, US
+  ✓ Hialeah - Hialeah, FL, US
+  ✓ Pembroke Pines - Pembroke Pines, FL, US
+  ✓ Palatka - Palatka, FL, US
+  ✓ Davie - Davie, FL, US
+  ✓ Port St. Lucie - Tradition - Port Saint Lucie, FL, US
+  ✓ Tifton - Tifton, GA, US
+  ✓ West Melbourne - Palm Bay - West Melbourne, FL, US
+  ✓ Viera - Melbourne - Melbourne, FL, US
+  ✓ Hollywood - Hollywood, FL, US
+  ✓ Fort Lauderdale - Fort Lauderdale, FL, US
+  ✓ West Palm Beach - West Palm Beach, FL, US
+  ✓ Delray Beach - Delray Beach, FL, US
+  ✓ Boynton Beach - Boynton Beach, FL, US
+  ✓ Jensen Beach - Jensen Beach, FL, US
+  ✓ Palm Beach Gardens - Alton Town Center - Palm Beach Gardens, FL, US
+  ✓ Merritt Island - Merritt Island, FL, US
+  ✓ Daytona Beach - Daytona Beach, FL, US
+  ✓ Palm Coast - Palm Coast, FL, US
+  ✓ Fleming Island - Fleming Island, FL, US
+  ✓ Saint Augustine - Saint Augustine, FL, US
+  ✓ Argyle Forest - Jacksonville, FL, US
+  ✓ Jacksonville - Roosevelt Square - Jacksonville, FL, US
+  ✓ Jacksonville - Avenues Mall Southside Square - Jacksonville, FL, US
+  ✓ Jacksonville - Regency - Jacksonville, FL, US
+  ✓ Jacksonville - Atlantic & Kernan - Jacksonville, FL, US
+  ✓ Jacksonville Beach - Jacksonville Beach, FL, US
+  ✓ Jacksonville - Jacksonville Airport - Jacksonville, FL, US
+  ✓ Kingsland - Kingsland, GA, US
+  ✓ Douglas - Coffee County - Douglas, GA, US
+  ✓ Brunswick - Brunswick, GA, US
+  ✓ Hinesville - Hinesville, GA, US
+  ✓ Savannah - Savannah, GA, US
+  ✓ Pooler - Pooler, GA, US
+  ✓ Bluffton - Bluffton, SC, US
+  ✓ Dublin GA - Dublin, GA, US
+  ✓ Beaufort SC - Beaufort, SC, US
+  ✓ Statesboro - Statesboro, GA, US
+  ✓ Mt. Pleasant - Towne Center - Mt Pleasant, SC, US
+  ✓ North Charleston - North Charleston, SC, US
+  ✓ Perry - Perry, GA, US
+  ✓ Myrtle Beach - Coastal Grand Mall - Myrtle Beach, SC, US
+  ✓ North Myrtle Beach - Barefoot Landing - North Myrtle Beach, SC, US
+  ✓ Orangeburg - Orangeburg, SC, US
+  ✓ Wilmington - Wilmington, NC, US
+  ✓ Mayaguez Guanajibo - Mayaguez, PR, US
+  ✓ Manati - Manati, PR, US
+  ✓ San Juan Convention Center - San Juan, PR, US
+  ✓ Bayamon - Bayamon, PR, US
+  ✓ San Patricio - Guaynabo, PR, US
+  ✓ Plaza Las Americas - Hato Rey, PR, Puerto Rico
+  ✓ Escorial - Carolina, PR, US
+  ✓ Ponce - Ponce, PR, US
+  ✓ Caguas Baiora - Caguas, PR, US
+  ✓ Bakersfield - Bakersfield, CA, US
+  ✓ Henderson - Galleria at Sunset - Henderson, NV, US
+  ✓ Saint George - St. George, UT, US
+  ✓ Albuquerque-Coronado - Albuquerque, NM, US
+  ✓ Albuquerque - Cottonwood - Albuquerque, NM, US
+  ✓ Amarillo - Amarillo, TX, US
+  ✓ Norman - Norman, OK, US
+  ✓ Yukon - Yukon, OK, US
+  ✓ Oklahoma City - Oklahoma City, OK, US
+  ✓ Tulsa - Tulsa, OK, US
+  ✓ Fort Smith - Fort Smith, AR, US
+  ✓ Hot Springs - Hot Springs, AR, US
+  ✓ Little Rock - Shackleford Crossings - Little Rock, AR, US
+  ✓ North Little Rock - McCain Mall - North Little Rock, AR, US
+  ✓ Fayetteville - Fayetteville, AR, US
+  ✓ Rogers - Rogers, AR, US
+  ✓ Southaven - Southaven, MS, US
+  ✓ Tupelo - Tupelo, MS, US
+  ✓ Collierville - Collierville, TN, US
+  ✓ Bartlett - Bartlett, TN, US
+  ✓ Millington - Forked River Commons - Millington, TN, US
+  ✓ Jonesboro - Jonesboro, AR, US
+  ✓ Hoover - Stadium Trace Village - Hoover, AL, US
+  ✓ Branson - Branson, MO, US
+  ✓ Inverness - Hoover, AL, US
+  ✓ Gardendale - Gardendale, AL, US
+  ✓ Trussville - Birmingham, AL, US
+  ✓ Joplin - Joplin, MO, US
+  ✓ Florence AL - Florence, AL, US
+  ✓ Jackson - Jackson, TN, US
+  ✓ Springfield MO - Springfield, MO, US
+  ✓ Opelika - Tiger Pride - Opelika, AL, US
+  ✓ Columbus - Macon Road - Columbus, GA, US
+  ✓ Columbus - Park Crossing - Columbus, GA, US
+  ✓ Oxford - Oxford, AL, US
+  ✓ LaGrange - LaGrange, GA, US
+  ✓ Decatur - Decatur, AL, US
+  ✓ Gadsden - Gadsden, AL, US
+  ✓ Albertville - Albertville, AL, US
+  ✓ Huntsville - University - Huntsville, AL, US
+  ✓ Huntsville - Jones Valley - Huntsville, AL, US
+  ✓ Thomaston - Thomaston, GA, US
+  ✓ Warner Robins - Warner Robins, GA, US
+  ✓ Newnan - Newnan, GA, US
+  ✓ Carrollton - Carrollton, GA, US
+  ✓ Peachtree City - Peachtree City, GA, US
+  ✓ Griffin - Griffin, GA, US
+  ✓ Macon - Macon-Bibb, GA, US
+  ✓ Florence SC - near Florence Center - Florence, SC, US
+  ✓ Morehead City - Morehead City, NC, US
+  ✓ Aiken - Aiken, SC, US
+  ✓ Jacksonville NC - Jacksonville, NC, US
+  ✓ Goldsboro - Goldsboro, NC, US
+  ✓ Greenville NC - Greenville, NC, US
+  ✓ Fayetteville NC - Cross Creek Mall - Fayetteville, NC, US
+  ✓ Columbia - Decker Blvd - Columbia, SC, US
+  ✓ Columbia - The Vista - Columbia, SC, US
+  ✓ Southern Pines - Southern Pines, NC, US
+  ✓ Spanish Fork - Spanish Fork, UT, US
+  ✓ Colorado Springs - Colorado Springs, CO, US
+  ✓ Centennial - Centennial, CO, US
+  ✓ Littleton - Littleton, CO, US
+  ✓ Thornton - Northglenn - Northglenn, CO, US
+  ✓ West Wichita – Central Park Plaza - Wichita, KS, US
+  ✓ East Wichita - Towne East Square - Wichita, KS, US
+  ✓ Salina - Salina, KS, US
+  ✓ Manhattan KS - near Manhattan Town Center - Manhattan, KS, US
+  ✓ Topeka - Topeka, KS, US
+  ✓ Olathe - Olathe, KS, US
+  ✓ Belton - BELTON, MO, US
+  ✓ Overland Park - Metcalf South Mall - Overland Park, KS, US
+  ✓ Lee's Summit - Lee's Summit, MO, US
+  ✓ Kansas City - Speedway - Kansas City, KS, US
+  ✓ Rolla - Rolla, MO, US
+  ✓ Independence MO - Independence, MO, US
+  ✓ Kansas City - Tiffany Springs - Kansas City, MO, US
+  ✓ Kansas City - Liberty - Kansas City, MO, US
+  ✓ Jefferson City - Jefferson City, MO, US
+  ✓ Spring Hill TN - Spring Hill, TN, US
+  ✓ Rome GA - Rome, GA, US
+  ✓ Rockmart - Rockmart, GA, US
+  ✓ Douglasville - Douglasville, GA, US
+  ✓ Fayetteville GA - Fayetteville, GA, US
+  ✓ Hiram - Hiram, GA, US
+  ✓ East Point - Camp Creek - East Point, GA, US
+  ✓ Hartsfield Jackson Atlanta Airport  - Atlanta, GA, US
+  ✓ Austell - Austell, GA, US
+  ✓ Morrow - Southlake - Morrow, GA, US
+  ✓ Marietta - West Cobb - Marietta, GA, US
+  ✓ McDonough - McDonough, GA, US
+  ✓ Acworth - Lakeside Mall - Acworth, GA, US
+  ✓ Cartersville - Cartersville, GA, US
+  ✓ Kennesaw - near Town Center - Kennesaw, GA, US
+  ✓ Atlanta - near Cumberland Mall - Atlanta, GA, US
+  ✓ Atlanta - Toco Hills - Atlanta, GA, US
+  ✓ Woodstock - Woodstock, GA, US
+  ✓ Marietta - East Cobb - Marietta, GA, US
+  ✓ Calhoun - Calhoun, GA, US
+  ✓ Tucker - Tucker, GA, US
+  ✓ Roswell - Hwy 9 & Mansell Road - Roswell, GA, US
+  ✓ Conyers - Conyers, GA, US
+  ✓ Canton - Canton, GA, US
+  ✓ Snellville - Snellville, GA, US
+  ✓ Dalton - Dalton, GA, US
+  ✓ Covington - Covington, GA, US
+  ✓ Johns Creek - Johns Creek, GA, US
+  ✓ Alpharetta - GA 400 & McFarland Pkwy - Alpharetta, GA, US
+  ✓ The Shoppes at Webb Gin - Snellville, GA, US
+  ✓ Lawrenceville - Lawrenceville, GA, US
+  ✓ Chattanooga - Chattanooga, TN, US
+  ✓ Cumming - Cumming, GA, US
+  ✓ Hixson - Hixson, TN, US
+  ✓ Milledgeville - Milledgeville, GA, US
+  ✓ Monroe GA - Monroe, GA, US
+  ✓ Greensboro - Greensboro, GA, US
+  ✓ Buford - Mall of Georgia - Buford, GA, US
+  ✓ Bethlehem - Winder - Bethlehem, GA, US
+  ✓ Braselton - Braselton, GA, US
+  ✓ Athens GA - Athens, GA, US
+  ✓ Dawsonville - Dawsonville, GA, US
+  ✓ Gainesville GA - Gainesville, GA, US
+  ✓ Grovetown GA - Grovetown, GA, US
+  ✓ Augusta GA - Augusta, GA, US
+  ✓ Columbia - Harbison Road - Columbia, SC, US
+  ✓ Rock Hill - Rock Hill, SC, US
+  ✓ Monroe NC - Monroe Crossing - Monroe, NC, US
+  ✓ Pineville - Pineville, NC, US
+  ✓ Matthews - Matthews, NC, US
+  ✓ Anderson - Anderson, SC, US
+  ✓ Garner - Garner, NC, US
+  ✓ Apex NC - near US Hwy 64 - Apex, NC, US
+  ✓ Raleigh NC - near Glenwood Ave - Raleigh, NC, US
+  ✓ Steele Creek - Charlotte, NC, US
+  ✓ University - Charlotte - Charlotte, NC, US
+  ✓ Concord NC - near Carolina Mall - Concord, NC, US
+  ✓ Salisbury NC - Salisbury, NC, US
+  ✓ Gastonia - Gastonia, NC, US
+  ✓ Huntersville - Lake Norman - Huntersville, NC, US
+  ✓ Burlington - Burlington, NC, US
+  ✓ High Point - High Point, NC, US
+  ✓ Mooresville - Mooresville, NC, US
+  ✓ Greensboro - Wendover - Greensboro, NC, US
+  ✓ Greensboro - Battle Ave - Greensboro, NC, US
+  ✓ Virginia Beach - Virginia Beach, VA, US
+  ✓ Portsmouth - Chesapeake, VA, US
+  ✓ Hampton - Hampton, VA, US
+  ✓ Newport News - Newport News, VA, US
+  ✓ Williamsburg - Williamsburg, VA, US
+  ✓ Colonial Heights - Colonial Heights, VA, US
+  ✓ Chesterfield - Hull Street - Chesterfield, VA, US
+  ✓ Richmond - Laburnum Avenue - Richmond, VA, US
+  ✓ Winston-Salem - Hanes Mall Rd - Winston-Salem, NC, US
+  ✓ Glen Allen - Short Pump - Glen Allen, VA, US
+  ✓ Salisbury MD - The Centre at Salisbury - Salisbury, MD, US
+  ✓ California MD - California, MD, US
+  ✓ Fredericksburg - Fredericksburg, VA, US
+  ✓ Dover - Dover, DE, US
+  ✓ Mays Landing - Mays Landing, NJ, US
+  ✓ Waldorf - Waldorf, MD, US
+  ✓ Millville - Millville, NJ, US
+  ✓ Lynchburg - Lynchburg, VA, US
+  ✓ Woodbridge - Smoketown Station - Woodbridge, VA, US
+  ✓ Bowie - Bowie Town Center - Bowie, MD, US
+  ✓ Largo MD - Largo, MD, US
+  ✓ Falls Church - Falls Church, VA, US
+  ✓ Glen Burnie - Glen Burnie, MD, US
+  ✓ Manassas - Manassas, VA, US
+  ✓ Laurel - Laurel, MD, US
+  ✓ Hanover MD - Arundel Mills - Hanover, MD, US
+  ✓ South Jordan - At the District - South Jordan, UT, US
+  ✓ Midvale - Midvale, UT, US
+  ✓ Ogden - Newgate Mall - Ogden, UT, US
+  ✓ Fort Collins CO - Fort Collins, CO, US
+  ✓ Omaha - Oak View - Omaha, NE, US
+  ✓ Omaha - Dodge Road - Omaha, NE, US
+  ✓ Council Bluffs - Council Bluffs, IA, US
+  ✓ Columbia - East Columbia - Columbia, MO, US
+  ✓ O'Fallon - O Fallon, MO, US
+  ✓ Sunset Hills-Watson Road - Sunset Hills, MO, US
+  ✓ Saint Peters - Cave Springs - Saint Peters, MO, US
+  ✓ Florissant - Florissant, MO, US
+  ✓ Fairview Heights - Fairview Heights, IL, US
+  ✓ Paducah - Paducah, KY, US
+  ✓ Clarksville TN - near Governors Square Mall - Clarksville, TN, US
+  ✓ West Nashville - Nashville, TN, US
+  ✓ Brentwood - Brentwood, TN, US
+  ✓ Nashville - Airport - Murfreesboro Pike - Nashville, TN, US
+  ✓ Smyrna - Smyrna, TN, US
+  ✓ Madison TN - Rivergate - Madison, TN, US
+  ✓ Murfreesboro - Medical Pkwy - Murfreesboro, TN, US
+  ✓ Mt. Juliet - Mount Juliet, TN, US
+  ✓ Gallatin - off Nashville Pike - Gallatin, TN, US
+  ✓ Evansville - Evansville, IN, US
+  ✓ Bowling Green - Bowling Green, KY, US
+  ✓ Owensboro - Owensboro, KY, US
+  ✓ Cookeville - Cookeville, TN, US
+  ✓ Cleveland TN - Cleveland, TN, US
+  ✓ East Ellijay - East Ellijay, GA, US
+  ✓ Blairsville GA - Blairsville, GA, US
+  ✓ Cornelia - Cornelia, GA, US
+  ✓ Commerce - Commerce, GA, US
+  ✓ Farragut - Turkey Creek - Farragut, TN, US
+  ✓ Lavonia - Lavonia, GA, US
+  ✓ Knoxville - West Town - Knoxville, TN, US
+  ✓ Clemson - Seneca, SC, US
+  ✓ Sevierville - Sevierville, TN, US
+  ✓ Easley - Easley, SC, US
+  ✓ Morristown - College Square - Morristown, TN, US
+  ✓ Greenville SC - Woodruff Road - Greenville, SC, US
+  ✓ Spartanburg - Spartanburg, SC, US
+  ✓ Fletcher NC - Fletcher, NC, US
+  ✓ Asheville - Asheville, NC, US
+  ✓ Shelby - Shelby, NC, US
+  ✓ Morganton NC - Morganton, NC, US
+  ✓ Hickory - Hickory, NC, US
+  ✓ Lenoir - Lenoir, NC, US
+  ✓ Johnson City - Johnson City, TN, US
+  ✓ Kingsport - E. Stone Dr - Kingsport, TN, US
+  ✓ Roanoke - Valley View - Roanoke, VA, US
+  ✓ Harrisonburg - Harrisonburg, VA, US
+  ✓ Warrenton - Warrenton, VA, US
+  ✓ Chantilly - Chantilly, VA, US
+  ✓ Germantown - Germantown, MD, US
+  ✓ Columbia - Columbia Crossing - Columbia, MD, US
+  ✓ Winchester - Pleasant Valley Ave - Winchester, VA, US
+  ✓ Rosedale - Golden Ring - Rosedale, MD, US
+  ✓ Bel Air - Bel Air, MD, US
+  ✓ Bear - Bear, DE, US
+  ✓ Deptford - Deptford, NJ, US
+  ✓ Wilmington DE - Wilmington, DE, US
+  ✓ Philadelphia - South Philadelphia - Philadelphia, PA, US
+  ✓ Cherry Hill - Cherry Hill, NJ, US
+  ✓ Frederick - Frederick, MD, US
+  ✓ Springfield PA - Springfield, PA, US
+  ✓ Lakewood - Lakewood, NJ, US
+  ✓ Bala Cynwyd - Bala Cynwyd, PA, US
+  ✓ Philadelphia - Whitman Square - Philadelphia, PA, US
+  ✓ Howell - Howell, NJ, US
+  ✓ Exton PA - Exton, PA, US
+  ✓ Jenkintown - Jenkintown, PA, US
+  ✓ Bensalem - Neshaminy Mall - Bensalem, PA, US
+  ✓ Hamilton - Hamilton Marketplace - Hamilton, NJ, US
+  ✓ Norristown - West Norriton - Norristown, PA, US
+  ✓ Freehold - Freehold, NJ, US
+  ✓ Lancaster East - near the outlets - Lancaster, PA, US
+  ✓ Hanover PA - Hanover, PA, US
+  ✓ Warrington PA - Warrington, PA, US
+  ✓ Hagerstown - Hagerstown, MD, US
+  ✓ York - York, PA, US
+  ✓ Lancaster - Park City Mall - Lancaster, PA, US
+  ✓ Pottstown - Pottstown, PA, US
+  ✓ Farmingdale - Farmingdale, NY, US
+  ✓ North Brunswick - Commerce Park - North Brunswick, NJ, US
+  ✓ Woodbridge - Woodbridge, NJ, US
+  ✓ Piscataway - Piscataway, NJ, US
+  ✓ Bayonne - Bayonne Crossings - Bayonne, NJ, US
+  ✓ Elmhurst - Elmhurst, NY, US
+  ✓ Springfield NJ - Springfield, NJ, US
+  ✓ Flemington - Flemington, NJ, US
+  ✓ Yonkers - Yonkers, NY, US
+  ✓ Rochelle Park - Rochelle Park, NJ, US
+  ✓ Parsippany - Parsippany, NJ, US
+  ✓ Wyomissing PA - Reading, PA, US
+  ✓ Waterford - Waterford, CT, US
+  ✓ Mount Olive - Flanders, NJ, US
+  ✓ Shelton - Shelton, CT, US
+  ✓ Whitehall - Whitehall, PA, US
+  ✓ Easton - Lower Nazareth - Easton, PA, US
+  ✓ North Haven - North Haven, CT, US
+  ✓ Lebanon - Lebanon, PA, US
+  ✓ Danbury - Danbury, CT, US
+  ✓ Bartonsville - Bartonsville, PA, US
+  ✓ Harrisburg - Colonial Park Mall - Harrisburg, PA, US
+  ✓ Warwick - Warwick, RI, US
+  ✓ Southington - Southington, CT, US
+  ✓ Wareham - Wareham Crossing - Wareham, MA, US
+  ✓ Seekonk - Seekonk, MA, US
+  ✓ Raynham - Raynham, MA, US
+  ✓ North Attleboro - North Attleboro, MA, US
+  ✓ Pembroke - Pembroke, MA, US
+  ✓ Mansfield - Mansfield, MA, US
+  ✓ Rocky Hill - Rocky Hill, CT, US
+  ✓ Franklin MA - Franklin Village - Franklin, MA, US
+  ✓ Manchester CT - Buckland Hills Mall - Manchester, CT, US
+  ✓ Millbury - Millbury, MA, US
+  ✓ Enfield - Enfield, CT, US
+  ✓ Marlborough - Marlborough, MA, US
+  ✓ Newburgh - Newburgh, NY, US
+  ✓ Reading MA - Reading, MA, US
+  ✓ West Springfield - West Springfield, MA, US
+  ✓ Tewksbury - Tewksbury, MA, US
+  ✓ Leominster - Leominster, MA, US
+  ✓ Boise - Boise, ID, US
+  ✓ Idaho Falls - Idaho Falls, ID, US
+  ✓ Rapid City - Rapid City, SD, US
+  ✓ Waterloo - Waterloo, IA, US
+  ✓ Coralville - Coralville, IA, US
+  ✓ Springfield IL - White Oaks Mall - Springfield, IL, US
+  ✓ Peoria - Peoria, IL, US
+  ✓ Champaign - Champaign, IL, US
+  ✓ Terre Haute - Terre Haute, IN, US
+  ✓ Oswego - Oswego, IL, US
+  ✓ Rockford - Rockford, IL, US
+  ✓ Bloomington - Bloomington, IN, US
+  ✓ Bolingbrook - Bolingbrook, IL, US
+  ✓ Orland Park - Orland Park, IL, US
+  ✓ Lafayette - Indiana - Lafayette, IN, US
+  ✓ Algonquin - Algonquin, IL, US
+  ✓ Elizabethtown - Elizabethtown, KY, US
+  ✓ Clarksville IN - Veterans Pkwy - Clarksville, IN, US
+  ✓ Louisville - Outer Loop - Louisville, KY, US
+  ✓ Avon IN - Avon, IN, US
+  ✓ Louisville - Hurstbourne - Louisville, KY, US
+  ✓ Louisville - Brownsboro - Louisville, KY, US
+  ✓ Indianapolis - Trader's Point - Indianapolis, IN, US
+  ✓ Indianapolis - Southport Road - Indianapolis, IN, US
+  ✓ Indianapolis - East Indianapolis - Indianapolis, IN, US
+  ✓ Castleton - Indianapolis, IN, US
+  ✓ Noblesville - Hamilton Town Center - Noblesville, IN, US
+  ✓ Schererville - Schererville, IN, US
+  ✓ Frankfort KY - Frankfort, KY, US
+  ✓ Somerset - Somerset, KY, US
+  ✓ Lexington - Harrodsburg Rd - Lexington, KY, US
+  ✓ Florence KY - Turfway - Florence, KY, US
+  ✓ Cincinnati - Westside - Harrison Ave. - Cincinnati, OH, US
+  ✓ Cold Spring - Cold Spring, KY, US
+  ✓ Cincinnati - Northgate Mall - Cincinnati, OH, US
+  ✓ Cincinnati - Rookwood Pavilion - Cincinnati, OH, US
+  ✓ Cincinnati - Eastgate - Cincinnati, OH, US
+  ✓ West Chester - West Chester, OH, US
+  ✓ Cincinnati – Mason and Loveland - Cincinnati, OH, US
+  ✓ Moraine - Moraine, OH, US
+  ✓ Merrillville - Merrillville, IN, US
+  ✓ Ashland - Ashland, KY, US
+  ✓ Beavercreek - The Mall at Fairfield Commons - Beavercreek, OH, US
+  ✓ Dayton - Miller Lane - Dayton, OH, US
+  ✓ Barboursville - Barboursville, WV, US
+  ✓ Chillicothe - Chillicothe, OH, US
+  ✓ Charleston - South Charleston - Charleston, WV, US
+  ✓ Vienna - Grand Central Mall - Vienna, WV, US
+  ✓ Grove City - Grove City, OH, US
+  ✓ Pickerington - Picktown - Pickerington, OH, US
+  ✓ Heath - Heath, OH, US
+  ✓ Gahanna - Gahanna, OH, US
+  ✓ Columbus - Graceland Shopping Center - Columbus, OH, US
+  ✓ Dublin OH - Tuttle Crossing - Dublin, OH, US
+  ✓ Zanesville - Zanesville, OH, US
+  ✓ Clarksburg - Bridgeport, WV, US
+  ✓ Morgantown WV - Morgantown, WV, US
+  ✓ Triadelphia - Triadelphia, WV, US
+  ✓ Saint Clairsville - Ohio Valley Mall - Saint Clairsville, OH, US
+  ✓ Washington - Washington, PA, US
+  ✓ Greensburg - Greensburg, PA, US
+  ✓ West Homestead - Waterfront - West Homestead, PA, US
+  ✓ Pittsburgh - Robinson - Pittsburgh, PA, US
+  ✓ Chambersburg - Chambersburg, PA, US
+  ✓ Pittsburgh - McCandless Township - Pittsburgh, PA, US
+  ✓ Tarentum - Pittsburgh Mills - Tarentum, PA, US
+  ✓ Mechanicsburg - Carlisle Pike - Mechanicsburg, PA, US
+  ✓ Altoona - Altoona, PA, US
+  ✓ Selinsgrove - Selinsgrove, PA, US
+  ✓ Wilkes Barre - Wilkes Barre, PA, US
+  ✓ Moosic - Montage Mountain - Moosic, PA, US
+  ✓ Haverhill - Haverhill, MA, US
+  ✓ Nashua - South Nashua - Nashua, NH, US
+  ✓ Amherst - Amherst, NH, US
+  ✓ Newington - Newington, NH, US
+  ✓ Manchester - Mall of New Hampshire - Manchester, NH, US
+  ✓ Keene - Keene, NH, US
+  ✓ Concord NH - near Steeplegate Mall - Concord, NH, US
+  ✓ Biddeford - Biddeford Crossing - Biddeford, ME, US
+  ✓ South Portland - Maine Mall - South Portland, ME, US
+  ✓ Albany - Colonie NY - Albany, NY, US
+  ✓ Auburn - Auburn, ME, US
+  ✓ Augusta - University of Maine - Augusta, ME, US
+  ✓ Bismarck ND - Bismarck, ND, US
+  ✓ Minot - Minot, ND, US
+  ✓ Fargo - Fargo, ND, US
+  ✓ Madison WI - West Towne Mall - Madison, WI, US
+  ✓ Schaumburg - Woodfield Mall - Schaumburg, IL, US
+  ✓ Des Plaines - Des Plaines, IL, US
+  ✓ Berwyn - Berwyn, IL, US
+  ✓ Norridge - Norridge, IL, US
+  ✓ Kenosha - Bristol - Kenosha, WI, US
+  ✓ Oak Lawn IL - Oak Lawn, IL, US
+  ✓ Greendale - Greendale, WI, US
+  ✓ Skokie - Lincolnwood - Skokie, IL, US
+  ✓ Portage - Portage, IN, US
+  ✓ Green Bay - Green Bay, WI, US
+  ✓ Mishawaka - Mishawaka, IN, US
+  ✓ Ft. Wayne - Fort Wayne, IN, US
+  ✓ Grand Rapids - Grand Rapids, MI, US
+  ✓ Lansing - Lansing, MI, US
+  ✓ Maumee - Maumee, OH, US
+  ✓ Toledo - Franklin Park - Toledo, OH, US
+  ✓ Detroit Airport  - Romulus, MI, US
+  ✓ Wixom - Wixom, MI, US
+  ✓ Westland - Westland, MI, US
+  ✓ Sandusky - Sandusky, OH, US
+  ✓ Allen Park - Allen Park, MI, US
+  ✓ Wooster - Wooster, OH, US
+  ✓ Troy - Oakland Mall - Troy, MI, US
+  ✓ Medina - Medina, OH, US
+  ✓ Avon OH - Avon, OH, US
+  ✓ Lake Orion - Auburn Hills - Lake Orion, MI, US
+  ✓ Strongsville - Strongsville, OH, US
+  ✓ Rocky River - Rocky River, OH, US
+  ✓ Clinton Township - Clinton Township, MI, US
+  ✓ Copley - Fairlawn - Copley, OH, US
+  ✓ Independence OH - Rockside Road - Independence, OH, US
+  ✓ Chesterfield - Chesterfield, MI, US
+  ✓ North Canton - Canton on the Strip - North Canton, OH, US
+  ✓ Cuyahoga Falls - Cuyahoga Falls, OH, US
+  ✓ Solon - Solon, OH, US
+  ✓ Mentor - Mentor, OH, US
+  ✓ Boardman - Boardman, OH, US
+  ✓ Warren - Warren, OH, US
+  ✓ Cranberry Township - Cranberry Township, PA, US
+  ✓ Erie - Erie, PA, US
+  ✓ Orchard Park - Orchard Park - Orchard Park, NY, US
+  ✓ Cheektowaga - Cheektowaga, NY, US
+  ✓ Niagara Falls - Niagara Falls, NY, US
+  ✓ Victor - Victor, NY, US
+  ✓ Camillus - Camillus, NY, US
+  ✓ Henrietta - Rochester, NY, US
+  ✓ Williston - Williston, VT, US
+  ✓ Liverpool - Liverpool, NY, US
+  ✓ Bangor - Bangor, ME, US
+  ✓ Watertown - Watertown, NY, US
+  ✓ Greece NY - Greece, NY, US
+
+Searching alaska...
+
+Searching hawaii...
+
+Searching canada...
+
+Searching mexico...
+
+Searching caribbean...
+
+Searching central_america...
+
+Searching south_america...
+
+Searching middle_east...
+
+Searching asia...
+
+✓ longhornsteakhouse: 622 total locations
+  By country:
+    Puerto Rico: 1
+    US: 621
+
+================================================================================
+Scraping CHEDDARS - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ Goodyear - Goodyear, AZ, US
+  ✓ Glendale - Arrowhead Marketplace - Glendale, AZ, US
+  ✓ Chandler - Chandler, AZ, US
+  ✓ Tucson - Tucson, AZ, US
+  ✓ El Paso Northwest - El Paso, TX, US
+  ✓ El Paso Southeast - El Paso, TX, US
+  ✓ Albuquerque - Albuquerque, NM, US
+  ✓ Riverdale - Riverdale, UT, US
+  ✓ Odessa - Odessa, TX, US
+  ✓ Colorado Springs, CO - Colorado Springs, CO, US
+  ✓ Lubbock - Lubbock, TX, US
+  ✓ Aurora, CO - Aurora, CO, US
+  ✓ Thornton, CO - Thornton, CO, US
+  ✓ Amarillo - Amarillo, TX, US
+  ✓ San Angelo - San Angelo, TX, US
+  ✓ Abilene - Abilene, TX, US
+  ✓ Laredo - Laredo, TX, US
+  ✓ San Antonio - San Antonio, TX, US
+  ✓ San Antonio - North - San Antonio, TX, US
+  ✓ San Antonio - North Star - San Antonio, TX, US
+  ✓ San Antonio - Military Drive - San Antonio, TX, US
+  ✓ Selma - Selma, TX, US
+  ✓ McAllen - McAllen, TX, US
+  ✓ North McAllen - McAllen, TX, US
+  ✓ Wichita Falls - Wichita Falls, TX, US
+  ✓ San Marcos - San Marcos, TX, US
+  ✓ Austin - Arbor Trails - Austin, TX, US
+  ✓ Donna - Donna, TX, US
+  ✓ Austin - Hwy. 183 - Austin, TX, US
+  ✓ Pflugerville - Pflugerville, TX, US
+  ✓ Harker Heights - Harker Heights, TX, US
+  ✓ Harlingen - Harlingen, TX, US
+  ✓ Hudson Oaks - Hudson Oaks, TX, US
+  ✓ Corpus Christi - Corpus Christi, TX, US
+  ✓ Brownsville - Brownsville, TX, US
+  ✓ Fort Worth - Lake Worth - Fort Worth, TX, US
+  ✓ Burleson - Fort Worth, TX, US
+  ✓ Waco - Waco, TX, US
+  ✓ Fort Worth - Texas Sage Trail - Fort Worth, TX, US
+  ✓ Arlington - Little Rd. - Arlington, TX, US
+  ✓ Denton - Denton, TX, US
+  ✓ Yukon - Yukon, OK, US
+  ✓ Grand Prairie - Grand Prairie, TX, US
+  ✓ Irving - MacArthur Blvd. - Irving, TX, US
+  ✓ Norman - Norman, OK, US
+  ✓ Dallas - LBJ Freeway - Dallas, TX, US
+  ✓ Oklahoma City - Quail Springs Mall - Oklahoma City, OK, US
+  ✓ The Colony - The Colony, TX, US
+  ✓ Midwest City - Midwest City, OK, US
+  ✓ Mesquite - Mesquite, TX, US
+  ✓ Garland - Garland, TX, US
+  ✓ Allen - Allen, TX, US
+  ✓ College Station - College Station, TX, US
+  ✓ Sherman - Sherman, TX, US
+  ✓ Wichita - S. Ridge Rd. Circle - Wichita, KS, US
+  ✓ Katy - Katy, TX, US
+  ✓ Cypress - Cypress, TX, US
+  ✓ Sugar Land - Sugar Land, TX, US
+  ✓ Houston - Westpark Dr. - Houston, TX, US
+  ✓ Conroe - Conroe, TX, US
+  ✓ Spring - Spring, TX, US
+  ✓ Humble - Humble, TX, US
+  ✓ Pasadena - Pasadena, TX, US
+  ✓ Webster - Webster, TX, US
+  ✓ Tyler - Tyler, TX, US
+  ✓ Baytown - Baytown, TX, US
+  ✓ Wichita - Wichita, KS, US
+  ✓ Lufkin - Lufkin, TX, US
+  ✓ Tulsa - Tulsa, OK, US
+  ✓ Longview - Longview, TX, US
+  ✓ Beaumont - Beaumont, TX, US
+  ✓ Port Arthur - Port Arthur, TX, US
+  ✓ Fort Smith - Fort Smith, AR, US
+  ✓ Joplin - Joplin, MO, US
+  ✓ Lincoln - Lincoln, NE, US
+  ✓ Branson - Branson, MO, US
+  ✓ Overland Park - Overland Park, KS, US
+  ✓ Little Rock - Little Rock, AR, US
+  ✓ Springfield - Springfield, MO, US
+  ✓ Independence - Independence, MO, US
+  ✓ St. Joseph - Saint Joseph, MO, US
+  ✓ Omaha - Village Pointe - Omaha, NE, US
+  ✓ Omaha – L Street - Omaha, NE, US
+  ✓ Columbia - Columbia, MO, US
+  ✓ Jonesboro - Jonesboro, AR, US
+  ✓ Slidell - Slidell, LA, US
+  ✓ Cordova - Germantown Pkwy. - Cordova, TN, US
+  ✓ Jackson - Jackson, TN, US
+  ✓ Pensacola - Pensacola, FL, US
+  ✓ Coralville - Coralville, IA, US
+  ✓ Huntsville - Huntsville, AL, US
+  ✓ Clarksville - Clarksville, TN, US
+  ✓ Brentwood - Brentwood, TN, US
+  ✓ Cedar Rapids - Cedar Rapids, IA, US
+  ✓ Dothan - Dothan, AL, US
+  ✓ Smyrna - Smyrna, TN, US
+  ✓ Murfreesboro - Murfreesboro, TN, US
+  ✓ Evansville - Evansville, IN, US
+  ✓ Hendersonville - Hendersonville, TN, US
+  ✓ Mt. Juliet - Mount Juliet, TN, US
+  ✓ Columbus - Columbus, GA, US
+  ✓ Albany - Albany, GA, US
+  ✓ Valdosta - Valdosta, GA, US
+  ✓ McDonough - McDonough, GA, US
+  ✓ Chattanooga - Chattanooga, TN, US
+  ✓ Largo - Clearwater, FL, US
+  ✓ Pinellas Park - Pinellas Park, FL, US
+  ✓ Tampa - Carrollwood - Tampa, FL, US
+  ✓ Brooksville - Brooksville, FL, US
+  ✓ Lutz - Wesley Chapel - Lutz, FL, US
+  ✓ Riverview - Riverview, FL, US
+  ✓ Warner Robins - Warner Robins, GA, US
+  ✓ Port Charlotte - Port Charlotte, FL, US
+  ✓ Ocala - Ocala, FL, US
+  ✓ Lakeland - Lakeland, FL, US
+  ✓ Naples - Naples, FL, US
+  ✓ Fort Myers - Fort Myers, FL, US
+  ✓ West Kissimmee - Kissimmee, FL, US
+  ✓ Orlando - I-Drive - Orlando, FL, US
+  ✓ Kissimmee East - The Loop - Kissimmee, FL, US
+  ✓ Orlando - Semoran Blvd - Orlando, FL, US
+  ✓ Sanford - Sanford, FL, US
+  ✓ Orlando - E Colonial Dr - Orlando, FL, US
+  ✓ Jacksonville FL - Town Center Pkwy - Jacksonville, FL, US
+  ✓ Kendall - Miami, FL, US
+  ✓ Daytona Beach - Daytona Beach, FL, US
+  ✓ West Melbourne - West Melbourne, FL, US
+  ✓ Pembroke Pines - Pembroke Pines, FL, US
+  ✓ Port St. Lucie - Port Saint Lucie, FL, US
+  ✓ Brunswick - Brunswick, GA, US
+  ✓ Athens - Athens, GA, US
+  ✓ Gainesville - Gainesville, GA, US
+  ✓ Pooler - Pooler, GA, US
+  ✓ Augusta - Augusta, GA, US
+  ✓ Cleveland - Cleveland, TN, US
+  ✓ Greenville - Greenville, SC, US
+  ✓ Cookeville - Cookeville, TN, US
+  ✓ Alcoa - Alcoa, TN, US
+  ✓ Asheville - Asheville, NC, US
+  ✓ Pigeon Forge - Pigeon Forge, TN, US
+  ✓ Gastonia - Gastonia, NC, US
+  ✓ Knoxville - Kingston Pike - Knoxville, TN, US
+  ✓ Knoxville - Clinton Hwy. - Knoxville, TN, US
+  ✓ Charlotte - Charlotte, NC, US
+  ✓ Morristown - Morristown, TN, US
+  ✓ Fayetteville - Fayetteville, NC, US
+  ✓ Johnson City - Johnson City, TN, US
+  ✓ Kingsport - Kingsport, TN, US
+  ✓ Bowling Green - Bowling Green, KY, US
+  ✓ Jacksonville NC - Western Blvd - Jacksonville, NC, US
+  ✓ Greenville - Greenville, NC, US
+  ✓ Bristol - Bristol, VA, US
+  ✓ London - London, KY, US
+  ✓ Roanoke - Roanoke, VA, US
+  ✓ Danville - Danville, KY, US
+  ✓ Beckley - Beckley, WV, US
+  ✓ Elizabethtown - Elizabethtown, KY, US
+  ✓ Lexington - Tates Creek - Lexington, KY, US
+  ✓ Owensboro - Owensboro, KY, US
+  ✓ Newport News - Newport News, VA, US
+  ✓ Louisville - Outer Loop - Louisville, KY, US
+  ✓ Louisville - Westport Rd - Louisville, KY, US
+  ✓ Ashland - Ashland, KY, US
+  ✓ Clarksville - Clarksville, IN, US
+  ✓ Fredericksburg - Fredericksburg, VA, US
+  ✓ Brandywine - Brandywine, MD, US
+  ✓ Parkersburg - Vienna - Vienna, WV, US
+  ✓ Florence - Florence, KY, US
+  ✓ Camden - Camden, DE, US
+  ✓ Morgantown - Morgantown, WV, US
+  ✓ Christiana - Center Pointe Plaza - Newark, DE, US
+  ✓ York - York, PA, US
+  ✓ Triadelphia - Wheeling - Triadelphia, WV, US
+  ✓ Cincinnati - Northgate - Cincinnati, OH, US
+  ✓ Centerville - Centerville, OH, US
+  ✓ Bloomington - Bloomington, IN, US
+  ✓ Indianapolis - Greenwood - Indianapolis, IN, US
+  ✓ Avon - Avon, IN, US
+  ✓ Findlay - Findlay, OH, US
+  ✓ Erie - Erie, PA, US
+  ✓ Terre Haute - Terre Haute, IN, US
+  ✓ Fort Wayne - Fort Wayne, IN, US
+  ✓ Lafayette - Lafayette, IN, US
+  ✓ Mishawaka - Mishawaka, IN, US
+  ✓ Lansing - Lansing, MI, US
+  ✓ Pleasant Prairie - Pleasant Prairie, WI, US
+  ✓ Appleton - Appleton, WI, US
+
+Searching alaska...
+
+Searching hawaii...
+
+Searching canada...
+
+Searching mexico...
+
+Searching caribbean...
+
+Searching central_america...
+
+Searching south_america...
+
+Searching middle_east...
+
+Searching asia...
+
+✓ cheddars: 187 total locations
+  By country:
+    US: 187
+
+================================================================================
+Scraping CHUYS - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ Midland TX - Midland, TX, US
+  ✓ Colorado Springs CO - Colorado Springs, CO, US
+  ✓ Lubbock TX - Lubbock, TX, US
+  ✓ Greenwood Village CO - Denver Tech - Greenwood Village, CO, US
+  ✓ Westminster CO - Westminster, CO, US
+  ✓ Amarillo TX - Amarillo, TX, US
+  ✓ Abilene TX - Abilene, TX, US
+  ✓ San Antonio TX - Hwy 151 - San Antonio, TX, US
+  ✓ San Antonio TX - I10 - San Antonio, TX, US
+  ✓ San Antonio TX - Hwy 281 - San Antonio, TX, US
+  ✓ Selma TX - Selma, TX, US
+  ✓ New Braunfels TX - New Braunfels, TX, US
+  ✓ San Marcos TX - San Marcos, TX, US
+  ✓ Austin TX - Arbor Trails - Austin, TX, US
+  ✓ Cedar Park TX - Cedar Park, TX, US
+  ✓ Oaks at Slaughter - Austin, TX - Austin, TX, US
+  ✓ Austin TX - Barton Springs - Austin, TX, US
+  ✓ Austin TX - Hwy 183 - Austin, TX, US
+  ✓ Austin TX - Mueller - Austin, TX, US
+  ✓ Austin TX - North Lamar - Austin, TX, US
+  ✓ Round Rock TX - Round Rock, TX, US
+  ✓ Harker Heights TX - Harker Heights, TX, US
+  ✓ Hutto TX - Hutto, TX, US
+  ✓ Hudson Oaks TX - Hudson Oaks, TX, US
+  ✓ Corpus Christi TX - Corpus Christi, TX, US
+  ✓ Fort Worth TX - South 7th - Fort Worth, TX, US
+  ✓ Waco TX - Waco, TX, US
+  ✓ North Fort Worth TX - Fort Worth, TX, US
+  ✓ Arlington TX - Arlington, TX, US
+  ✓ Southlake TX - Southlake, TX, US
+  ✓ Denton TX - Denton, TX, US
+  ✓ Norman OK - Norman, OK, US
+  ✓ Oklahoma City OK - Oklahoma City, OK, US
+  ✓ Addison TX - Addison, TX, US
+  ✓ West Plano TX - Dallas Parkway - Plano, TX, US
+  ✓ Greenville Ave - Dallas, TX - Dallas, TX, US
+  ✓ Frisco TX - Frisco, TX, US
+  ✓ Plano TX - Hwy 75 - Plano, TX, US
+  ✓ College Station TX - College Station, TX, US
+  ✓ Terrell TX - Terrell, TX, US
+  ✓ Katy TX - Katy, TX, US
+  ✓ Sugarland TX - Sugar Land, TX, US
+  ✓ Houston TX - Hwy 290 - Houston, TX, US
+  ✓ Houston TX - Vintage Park - Houston, TX, US
+  ✓ Houston TX - Bunker Hill - Houston, TX, US
+  ✓ Shenandoah TX - Shenandoah, TX, US
+  ✓ Houston TX - River Oaks - Houston, TX, US
+  ✓ Humble TX - Humble, TX, US
+  ✓ New Caney TX - New Caney, TX, US
+  ✓ Pasadena TX - Pasadena, TX, US
+  ✓ Webster TX - Webster, TX, US
+  ✓ Tyler TX - Tyler, TX, US
+  ✓ Tulsa OK - The Walk - Tulsa, OK, US
+  ✓ Tulsa OK - Tulsa, OK, US
+  ✓ Longview TX - Longview, TX, US
+  ✓ Fort Smith AR - Fort Smith, AR, US
+  ✓ Fayetteville AR - Fayetteville, AR, US
+  ✓ Rogers AR - Rogers, AR, US
+  ✓ Lafayette LA - Lafayette, LA, US
+  ✓ Little Rock AR - Little Rock, AR, US
+  ✓ Conway, AR - Conway, AR, US
+  ✓ North Little Rock AR - North Little Rock, AR, US
+  ✓ Birmingham AL - The Summit - Birmingham, AL, US
+  ✓ Huntsville AL - Huntsville, AL, US
+  ✓ Cool Springs TN - Franklin, TN, US
+  ✓ Nashville TN - White Bridge - Nashville, TN, US
+  ✓ Brentwood TN - Brentwood, TN, US
+  ✓ Nashville TN - Nashville, TN, US
+  ✓ Nashville TN - Opry Mills - Nashville, TN, US
+  ✓ Murfreesboro TN - Murfreesboro, TN, US
+  ✓ Evansville, IN - Evansville, IN, US
+  ✓ Bowling Green KY - Bowling Green, KY, US
+  ✓ Chattanooga TN - Chattanooga, TN, US
+  ✓ Kennesaw GA - Atlanta - Kennesaw, GA, US
+  ✓ Atlanta GA - Perimeter - Atlanta, GA, US
+  ✓ Clarksville IN - Veterans Pkwy - Clarksville, IN, US
+  ✓ Louisville KY - Louisville, KY, US
+  ✓ Knoxville TN - Knoxville, TN, US
+  ✓ Lafayette IN - Purdue - Lafayette, IN, US
+  ✓ Indianapolis IN - Southport - Indianapolis, IN, US
+  ✓ Carmel IN - North Michigan Road - Carmel, IN, US
+  ✓ Gainesville FL - Gainesville, FL, US
+  ✓ Lutz FL - Wesley Chapel - Lutz, FL, US
+  ✓ Lexington KY - Lexington, KY, US
+  ✓ Noblesville IN - Hamilton Town Center - Noblesville, IN, US
+  ✓ Lexington KY - Hamburg - Lexington, KY, US
+  ✓ Florence KY - Florence, KY, US
+  ✓ Greenville SC - Greenville, SC, US
+  ✓ Madeira OH - Madeira, OH, US
+  ✓ West Chester OH - West Chester, OH, US
+  ✓ Kissimmee FL - Near Margaritaville Resort - Kissimmee, FL, US
+  ✓ Jacksonville FL - Town Center Pkwy - Jacksonville, FL, US
+  ✓ Orlando FL  - International Drive - Orlando, FL, US
+  ✓ Winter Park FL - Winter Park, FL, US
+  ✓ Miamisburg OH - Dayton South - Miamisburg, OH, US
+  ✓ Orlando FL - Semoran - Orlando, FL, US
+  ✓ Beavercreek OH - Fairfield Commons - Beavercreek, OH, US
+  ✓ Pembroke Pines FL - Pembroke Pines, FL, US
+  ✓ Charlotte NC - Waverly - Charlotte, NC, US
+  ✓ Columbus OH - Easton Gateway - Columbus, OH, US
+  ✓ Cary NC - Cary, NC, US
+  ✓ Raleigh NC - North Hills - Raleigh, NC, US
+  ✓ Columbus OH - Polaris - Columbus, OH, US
+  ✓ Midlothian VA - Midlothian, VA, US
+  ✓ Richmond VA - Glen Allen, VA, US
+  ✓ Woodbridge VA - Woodbridge, VA, US
+  ✓ Springfield VA - Springfield, VA, US
+  ✓ Fairfax VA - Fairfax, VA, US
+  ✓ Sterling VA - Sterling, VA, US
+
+Searching alaska...
+
+Searching hawaii...
+
+Searching canada...
+
+Searching mexico...
+
+Searching caribbean...
+
+Searching central_america...
+
+Searching south_america...
+
+Searching middle_east...
+
+Searching asia...
+
+✓ chuys: 109 total locations
+  By country:
+    US: 109
+
+================================================================================
+Scraping YARDHOUSE - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ Chula Vista - Otay Ranch - Chula Vista, CA, US
+  ✓ San Diego - Mission Valley Mall - San Diego, CA, US
+  ✓ Carlsbad - The Shoppes at Carlsbad - Carlsbad, CA, US
+  ✓ Oxnard - The Collection at Riverpark - Oxnard, CA, US
+  ✓ Long Beach - Shoreline Village - Long Beach, CA, US
+  ✓ Costa Mesa - The Triangle - Costa Mesa, CA, US
+  ✓ Marina del Rey - Marina Marketplace - Marina Del Rey, CA, US
+  ✓ Irvine - Irvine Spectrum Center - Irvine, CA, US
+  ✓ Los Angeles - LA Live - Los Angeles, CA, US
+  ✓ Northridge - Fashion Center - Northridge, CA, US
+  ✓ Brea - Downtown - Brea, CA, US
+  ✓ Burbank - Downtown Burbank - Burbank, CA, US
+  ✓ Temecula - The Promenade - Temecula, CA, US
+  ✓ Pasadena - Paseo Colorado - Pasadena, CA, US
+  ✓ Chino Hills - The Shoppes at Chino Hills - Chino Hills, CA, US
+  ✓ Riverside - Galleria at Tyler - Riverside, CA, US
+  ✓ Rancho Cucamonga - Victoria Gardens - Rancho Cucamonga, CA, US
+  ✓ Palmdale - Antelope Valley Mall - Palmdale, CA, US
+  ✓ Rancho Mirage - The River - Rancho Mirage, CA, US
+  ✓ Bakersfield - The Shops at River Walk - Bakersfield, CA, US
+  ✓ San Jose - Santana Row - San Jose, CA, US
+  ✓ Fresno - River Park - Fresno, CA, US
+  ✓ Concord - The Veranda - Concord, CA, US
+  ✓ Las Vegas - Red Rock Resort - Las Vegas, NV, US
+  ✓ Las Vegas - Town Square - Las Vegas, NV, US
+  ✓ Glendale - Westgate Entertainment District - Glendale, AZ, US
+  ✓ Las Vegas - The LINQ - Las Vegas, NV, US
+  ✓ Henderson - Sunset Station - Henderson, NV, US
+  ✓ Sacramento - Downtown Commons - Sacramento, CA, US
+  ✓ Phoenix - Desert Ridge - Phoenix, AZ, US
+  ✓ Tucson - Park Place Mall - Tucson, AZ, US
+  ✓ Roseville - The Fountains - Roseville, CA, US
+  ✓ Boise - Village at Meridian - Meridian, ID, US
+  ✓ Lakewood - Colorado Mills - Lakewood, CO, US
+  ✓ Lone Tree - Park Meadows Mall - Lone Tree, CO, US
+  ✓ Denver - Sheraton Downtown - Denver, CO, US
+  ✓ Seattle - 4th and Pike - Seattle, WA, US
+  ✓ San Antonio - The Shops at La Cantera - San Antonio, TX, US
+  ✓ San Antonio - River Walk - San Antonio, TX, US
+  ✓ McAllen - La Plaza Mall - McAllen, TX, US
+  ✓ Austin - Domain Northside - Austin, TX, US
+  ✓ Las Colinas - Toyota Music Factory - Irving, TX, US
+  ✓ Addison - Village on the Parkway - Addison, TX, US
+  ✓ Houston - CityCentre - Houston, TX, US
+  ✓ The Woodlands - The Woodlands, TX, US
+  ✓ Houston – Hobby Airport - Houston, TX, US
+  ✓ Friendswood - Baybrook Mall - Friendswood, TX, US
+  ✓ Kansas City - Legends Outlets - Kansas City, KS, US
+  ✓ Kansas City - Downtown P&L District - Kansas City, MO, US
+  ✓ Atlanta - The Battery Atlanta - Atlanta, GA, US
+  ✓ Atlanta - Atlantic Station - Atlanta, GA, US
+  ✓ St. Louis Park - The Shops at West End - Saint Louis Park, MN, US
+  ✓ Indianapolis - Circle Centre - Indianapolis, IN, US
+  ✓ Tampa - Water Street - Tampa, FL, US
+  ✓ Sarasota - University Town Center - Sarasota, FL, US
+  ✓ Lombard - Fountain Square - Lombard, IL, US
+  ✓ Glenview - Glen Town Center - Glenview, IL, US
+  ✓ Vernon Hills - Hawthorn Mall - Vernon Hills, IL, US
+  ✓ Cincinnati - The Banks - Cincinnati, OH, US
+  ✓ Greenville - Magnolia Park - Greenville, SC, US
+  ✓ Naples - Park Shore Plaza - Naples, FL, US
+  ✓ Orlando - ICON Park - Orlando, FL, US
+  ✓ Sunrise - Sawgrass Mills - Sunrise, FL, US
+  ✓ Coral Gables - Merrick Park - Coral Gables, FL, US
+  ✓ Palm Beach - Downtown at the Gardens - Palm Beach Gardens, FL, US
+  ✓ Hallandale Beach - Gulfstream Park - Hallandale Beach, FL, US
+  ✓ Boca Raton - Mizner Park - Boca Raton, FL, US
+  ✓ Raleigh - North Hills - Raleigh, NC, US
+  ✓ Westlake - Crocker Park - Westlake, OH, US
+  ✓ Troy - City Center Shoppes - Troy, MI, US
+  ✓ Portsmouth - Rivers Casino - Portsmouth, VA, US
+  ✓ Springfield - Town Center - Springfield, VA, US
+  ✓ McLean - Tysons Galleria - McLean, VA, US
+  ✓ Virginia Beach - Town Center - Virginia Beach, VA, US
+  ✓ Gaithersburg - Rio Washingtonian - Gaithersburg, MD, US
+  ✓ Washington, D.C. - Chinatown - Washington, DC, US
+  ✓ Hanover - Arundel Mills - Hanover, MD, US
+  ✓ King of Prussia - King of Prussia Mall - King of Prussia, PA, US
+  ✓ Willow Grove - Willow Grove Park Mall - Willow Grove, PA, US
+  ✓ Moorestown - Moorestown Mall - Moorestown, NJ, US
+  ✓ Wayne - Willowbrook Mall - Wayne, NJ, US
+  ✓ East Rutherford - American Dream Mall - East Rutherford, NJ, US
+  ✓ New York City - Times Square - New York, NY, US
+  ✓ Yonkers - Westchester's Ridge Hill - Yonkers, NY, US
+  ✓ West Nyack - Palisades Center - West Nyack, NY, US
+  ✓ Dedham - Legacy Place - Dedham, MA, US
+  ✓ Boston-Fenway - Fenway Triangle - Boston, MA, US
+  ✓ Boston - Marriott Copley - Boston, MA, US
+  ✓ Burlington - Middlesex Turnpike - Burlington, MA, US
+  ✓ Lynnfield - MarketStreet Lynnfield - Lynnfield, MA, US
+
+Searching alaska...
+
+Searching hawaii...
+  ✓ Waikiki - Waikiki Beach Walk - Honolulu, HI, US
+
+Searching canada...
+
+Searching mexico...
+
+Searching caribbean...
+
+Searching central_america...
+
+Searching south_america...
+
+Searching middle_east...
+
+Searching asia...
+
+✓ yardhouse: 91 total locations
+  By country:
+    US: 91
+
+================================================================================
+Scraping RUTHSCHRIS - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ San Diego - San Diego, CA, US
+  ✓ Middleton - Middleton, WI, US
+  ✓ Del Mar - San Diego, CA, US
+  ✓ Long Beach - Long Beach, CA, US
+  ✓ Marina Del Rey - Marina Del Rey, CA, US
+  ✓ Irvine - Irvine, CA, US
+  ✓ Anaheim - Anaheim, CA, US
+  ✓ Woodland Hills - Woodland Hills, CA, US
+  ✓ Pasadena - Pasadena, CA, US
+  ✓ Palm Desert - Palm Desert, CA, US
+  ✓ Fresno - Fresno, CA, US
+  ✓ Walnut Creek - Walnut Creek, CA, US
+  ✓ Las Vegas - Las Vegas, NV, US
+  ✓ Scottsdale - Scottsdale, AZ, US
+  ✓ Sacramento - Sacramento, CA, US
+  ✓ Roseville - Roseville, CA, US
+  ✓ Reno - Reno, NV, US
+  ✓ El Paso - EL Paso, TX, US
+  ✓ Albuquerque - Albuquerque, NM, US
+  ✓ Salt Lake City - Salt Lake City, UT, US
+  ✓ Park City - Park City, UT, US
+  ✓ Boise - Boise, ID, US
+  ✓ Portland - Portland, OR, US
+  ✓ Denver Tech - Denver, CO, US
+  ✓ Denver - Downtown - Denver, CO, US
+  ✓ Seattle - Seattle, WA, US
+  ✓ San Antonio - La Cantera Terrace - San Antonio, TX, US
+  ✓ San Antonio - Jones Maltsberger - San Antonio, TX, US
+  ✓ San Antonio - River Walk - San Antonio, TX, US
+  ✓ Austin - Austin, TX, US
+  ✓ Fort Worth - Fort Worth, TX, US
+  ✓ Dallas - Dallas, TX, US
+  ✓ Tulsa - Tulsa, OK, US
+  ✓ Houston - Houston, TX, US
+  ✓ Calgary - Calgary, AB, CA
+  ✓ Rogers - Rogers, AR, US
+  ✓ West Des Moines - West Des Moines, IA, US
+  ✓ Lafayette - Lafayette, LA, US
+  ✓ Edmonton - Edmonton, AB, CA
+  ✓ Baton Rouge - Baton Rouge, LA, US
+  ✓ Wailea - Kihei, HI, US
+  ✓ Minneapolis - Minneapolis, MN, US
+  ✓ Rochester - Rochester, MN, US
+  ✓ Chesterfield - Chesterfield, MO, US
+  ✓ St. Louis - Downtown - St. Louis, MO, US
+  ✓ Memphis - Memphis, TN, US
+  ✓ Metairie - Metairie, LA, US
+  ✓ New Orleans - New Orleans, LA, US
+  ✓ Waikiki - Waikiki, HI, US
+  ✓ Honolulu - Honolulu, HI, US
+  ✓ Biloxi - Biloxi, MS, US
+  ✓ South Barrington - South Barrington, IL, US
+  ✓ Mobile - Mobile, AL, US
+  ✓ Northbrook - Northbrook, IL, US
+  ✓ Nashville - Nashville, TN, US
+  ✓ Birmingham - Birmingham, AL, US
+  ✓ Huntsville - Huntsville, AL, US
+  ✓ Indianapolis - Downtown - Indianapolis, IN, US
+  ✓ Indianapolis - Northside - Indianapolis, IN, US
+  ✓ South Bend - Granger, IN, US
+  ✓ Louisville - Louisville, KY, US
+  ✓ Destin - Destin, FL, US
+  ✓ Grand Rapids - Grand Rapids, MI, US
+  ✓ Fort Wayne - Fort Wayne, IN, US
+  ✓ Chattanooga - Chattanooga, TN, US
+  ✓ Cincinnati - Cincinnati, OH, US
+  ✓ Mount Pleasant - Mount Pleasant, MI, US
+  ✓ Kennesaw - Kennesaw, GA, US
+  ✓ Atlanta - Downtown - Atlanta, GA, US
+  ✓ Atlanta - Buckhead - Atlanta, GA, US
+  ✓ Alpharetta - Alpharetta, GA, US
+  ✓ Knoxville - Knoxville, TN, US
+  ✓ Ann Arbor - Ann Arbor, MI, US
+  ✓ Troy - Troy, MI, US
+  ✓ Columbus - Columbus, OH, US
+  ✓ Cherokee - Cherokee, NC, US
+  ✓ Cancún - Cancún, Quintana Roo, MEX, MX
+  ✓ Asheville - Asheville, NC, US
+  ✓ Greenville - Downtown - Greenville, SC, US
+  ✓ Greenville - Greenville, SC, US
+  ✓ Charlotte - Uptown - Charlotte, NC, US
+  ✓ Charlotte - SouthPark - Charlotte, NC, US
+  ✓ Columbia - Columbia, SC, US
+  ✓ Pittsburgh - Pittsburgh, PA, US
+  ✓ St. Petersburg - Saint Petersburg, FL, US
+  ✓ Tampa - Tampa, FL, US
+  ✓ Toronto - Dixon Rd - Toronto, ON, CA
+  ✓ Jacksonville - Jacksonville, FL, US
+  ✓ Sarasota - Sarasota, FL, US
+  ✓ Savannah - Savannah, GA, US
+  ✓ Sarasota - Lakewood Ranch - Sarasota, FL, US
+  ✓ Toronto Downtown - Toronto, ON, CA
+  ✓ Markham - Markham, ON, CA
+  ✓ Ponte Vedra Beach - Ponte Vedra, FL, US
+  ✓ Niagara Falls - Niagara Falls, ON, CA
+  ✓ Greensboro - Greensboro, NC, US
+  ✓ Orlando - Orlando, FL, US
+  ✓ Lake Mary - Lake Mary, FL, US
+  ✓ Winter Park - Winter Park, FL, US
+  ✓ Bonita Springs - Estero, FL, US
+  ✓ Durham - Durham, NC, US
+  ✓ Cary - Cary, NC, US
+  ✓ Raleigh - Raleigh, NC, US
+  ✓ Jupiter - Jupiter, FL, US
+  ✓ Myrtle Beach - Myrtle Beach, SC, US
+  ✓ West Palm Beach - West Palm Beach, FL, US
+  ✓ Coral Gables - Coral Gables, FL, US
+  ✓ Ft. Lauderdale - Fort Lauderdale, FL, US
+  ✓ Aventura - Aventura, FL, US
+  ✓ Wilmington - Wilmington, NC, US
+  ✓ Richmond - Midlothian - Midlothian, VA, US
+  ✓ Virginia Beach - Virginia Beach, VA, US
+  ✓ Fairfax - Fairfax, VA, US
+  ✓ Reston - Reston, VA, US
+  ✓ Tysons Corner - Vienna, VA, US
+  ✓ Arlington - Arlington, VA, US
+  ✓ Washington - DC - Washington, DC, US
+  ✓ Gaithersburg - Gaithersburg, MD, US
+  ✓ Odenton - Odenton, MD, US
+  ✓ Annapolis - Annapolis, MD, US
+  ✓ Pikesville - Pikesville, MD, US
+  ✓ Baltimore - Baltimore, MD, US
+  ✓ Berlin - Berlin, MD, US
+  ✓ Newtown Square - Newtown Square, PA, US
+  ✓ Philadelphia - Philadelphia, PA, US
+  ✓ Atlantic City - Atlantic City, NJ, US
+  ✓ Princeton - Princeton, NJ, US
+  ✓ Wilkes-Barre - Wilkes-Barre, PA, US
+  ✓ Short Hills - Short Hills, NJ, US
+  ✓ Parsippany - Parsippany, NJ, US
+  ✓ Jersey City - Jersey City, NJ, US
+  ✓ Weehawken - Weehawken, NJ, US
+  ✓ Paramus - Maywood, NJ, US
+  ✓ Garden City - Garden City, NY, US
+  ✓ Melville - Melville, NY, US
+  ✓ Westchester - Tarrytown, NY, US
+  ✓ Lake Grove - Lake Grove, NY, US
+  ✓ San Juan - Local J7, Guaynabo, PRI, 
+  ✓ Aruba - Palm Beach, Aruba, ABW, AW
+  ✓ Newington - Newington, CT, US
+  ✓ Worcester - Worcester, MA, US
+  ✓ Albany - Albany, NY, US
+  ✓ Boston - Boston, MA, US
+  ✓ Waltham - Waltham, MA, US
+  ✓ Somerville - Somerville, MA, US
+
+Searching alaska...
+
+Searching hawaii...
+
+Searching canada...
+
+Searching mexico...
+
+Searching caribbean...
+
+Searching central_america...
+
+Searching south_america...
+
+Searching middle_east...
+  ✓ Chengdu - Jinjiang, Chengdu, Sichuan, CHN, CN
+  ✓ Changsha - Changsha, Hunan, CHN, CN
+  ✓ Chongqing - Chongqing, CHN, CN
+  ✓ Singapore - Singapore, SGP, 
+  ✓ Nanjing - Nanjing, Jiangsu, CHN, 
+  ✓ Jakarta - Jakarta Selatan, IDN, ID
+  ✓ Kowloon - Kowloon, HKG, HK
+  ✓ Hong Kong - Hong Kong Island, HKG, HK
+  ✓ Manila - Bonifacio Global City, Taguig, PHL, PH
+  ✓ Shanghai - Shanghai, CHN, 
+  ✓ Taichung - Taichung, TWN, TW
+  ✓ Kaohsiung - Kaohsiung City , TWN, TW
+  ✓ Taipei, Dazhi - Taipei City, TWN, 
+  ✓ Taipei, Minsheng - Taipei, TWN, 
+  ✓ Osaka - Kita-Ku, JPN, CN
+  ✓ Tokyo - Kasumigaseki, Chiyoda-Ku, JPN, 
+
+Searching asia...
+
+✓ ruthschris: 161 total locations
+  By country:
+    AW: 1
+    CA: 6
+    CN: 4
+    HK: 2
+    ID: 1
+    MX: 1
+    PH: 1
+    TW: 2
+    US: 136
+    Unknown: 7
+
+================================================================================
+Scraping THECAPITALGRILLE - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ Costa Mesa - Costa Mesa, CA, US
+  ✓ Burbank - Burbank, CA, US
+  ✓ Las Vegas - Las Vegas, NV, US
+  ✓ Phoenix - Phoenix, AZ, US
+  ✓ Scottsdale - Scottsdale, AZ, US
+  ✓ Salt Lake City - Salt Lake City, UT, US
+  ✓ Denver - Denver, CO, US
+  ✓ Seattle - Seattle, WA, US
+  ✓ San Antonio - San Antonio, TX, US
+  ✓ Austin - Austin, TX, US
+  ✓ Fort Worth - Fort Worth, TX, US
+  ✓ Oklahoma City - Oklahoma City, OK, US
+  ✓ Southlake - Southlake, TX, US
+  ✓ Dallas - Uptown - Dallas, TX, US
+  ✓ Plano - Plano, TX, US
+  ✓ Mexico City - Cuauhtemoc, MC, MEXICO
+  ✓ Houston - CityCentre - Houston, TX, US
+  ✓ The Woodlands - The Woodlands, TX, US
+  ✓ Houston - The Galleria - Houston, TX, US
+  ✓ Kansas City - Kansas City, MO, US
+  ✓ Minneapolis - Minneapolis, MN, US
+  ✓ Clayton - Clayton, MO, US
+  ✓ Memphis - Memphis, TN, US
+  ✓ Honolulu - Honolulu, HI, US
+  ✓ Lombard - Lombard, IL, US
+  ✓ Schaumburg - Schaumburg, IL, US
+  ✓ Rosemont - O'Hare - Rosemont, IL, US
+  ✓ Skokie - Old Orchard - Skokie, IL, US
+  ✓ Chicago - Downtown - Magnificent Mile - Chicago, IL, US
+  ✓ Milwaukee - Milwaukee, WI, US
+  ✓ Indianapolis - Indianapolis, IN, US
+  ✓ Louisville - Louisville, KY, US
+  ✓ Cincinnati - Cincinnati, OH, US
+  ✓ Atlanta – Buckhead Village - Atlanta, GA, US
+  ✓ Atlanta – Dunwoody Perimeter Mall - Dunwoody, GA, US
+  ✓ Troy - Troy, MI, US
+  ✓ Columbus - Columbus, OH, US
+  ✓ Lyndhurst - Lyndhurst, OH, US
+  ✓ Charlotte - Charlotte, NC, US
+  ✓ Pittsburgh - Pittsburgh, PA, US
+  ✓ Tampa - Tampa, FL, US
+  ✓ Sarasota - Sarasota, FL, US
+  ✓ Jacksonville - Jacksonville, FL, US
+  ✓ Orlando - I-Drive - Orlando, FL, US
+  ✓ Orlando - Millenia - Orlando, FL, US
+  ✓ Fort Myers - Fort Myers, FL, US
+  ✓ Naples - Naples, FL, US
+  ✓ Raleigh - Raleigh, NC, US
+  ✓ Fairfax - Fairfax, VA, US
+  ✓ Tysons Corner - Mclean, VA, US
+  ✓ Chevy Chase - Chevy Chase, MD, US
+  ✓ Washington, D.C. - Washington, DC, US
+  ✓ Baltimore - Baltimore, MD, US
+  ✓ Palm Beach Gardens - Palm Beach Gardens, FL, US
+  ✓ Boca Raton - Boca Raton, FL, US
+  ✓ Ft. Lauderdale - Fort Lauderdale, FL, US
+  ✓ Miami - Miami, FL, US
+  ✓ King of Prussia - King of Prussia, PA, US
+  ✓ Philadelphia - Philadelphia, PA, US
+  ✓ Cherry Hill - Cherry Hill, NJ, US
+  ✓ Newtown - Newtown, PA, US
+  ✓ Parsippany - Parsippany, NJ, US
+  ✓ Paramus - Paramus, NJ, US
+  ✓ NYC - Wall Street - New York, NY, US
+  ✓ NYC - Rockefeller Center - New York, NY, US
+  ✓ NYC - MetLife Building - New York, NY, US
+  ✓ Garden City - Garden City, NY, US
+  ✓ Stamford - Stamford, CT, US
+  ✓ Hartford - Hartford, CT, US
+  ✓ Salem - Tuscan Village - Salem, NH, US
+  ✓ Providence - Providence, RI, US
+  ✓ Burlington - Burlington, MA, US
+  ✓ Chestnut Hill - Chestnut Hill, MA, US
+  ✓ Dedham - Legacy Place - Dedham, MA, US
+  ✓ Boston - Boston, MA, US
+  ✓  San Jose- Costa Rica - San José, Costa Rica, 
+
+Searching alaska...
+
+Searching hawaii...
+
+Searching canada...
+
+Searching mexico...
+
+Searching caribbean...
+
+Searching central_america...
+
+Searching south_america...
+
+Searching middle_east...
+
+Searching asia...
+
+✓ thecapitalgrille: 76 total locations
+  By country:
+    MEXICO: 1
+    US: 74
+    Unknown: 1
+
+================================================================================
+Scraping SEASONS52 - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ San Diego - UTC - San Diego, CA, US
+  ✓ Costa Mesa - Costa Mesa, CA, US
+  ✓ Rancho Cucamonga - Rancho Cucamonga, CA, US
+  ✓ Phoenix - Phoenix, AZ, US
+  ✓ Albuquerque - Albuquerque, NM, US
+  ✓ Lone Tree - Lone Tree, CO, US
+  ✓ San Antonio - San Antonio, TX, US
+  ✓ Plano - Plano, TX, US
+  ✓ Houston - CityCentre - Houston, TX, US
+  ✓ Memphis - Memphis, TN, US
+  ✓ Schaumburg - Schaumburg, IL, US
+  ✓ Oak Brook - Oak Brook, IL, US
+  ✓ Orland Park - Orland Park, IL, US
+  ✓ Birmingham - Birmingham, AL, US
+  ✓ Indianapolis - Keystone - Indianapolis, IN, US
+  ✓ Cincinnati - Cincinnati, OH, US
+  ✓ Atlanta - Perimeter - Dunwoody, GA, US
+  ✓ Buford - Buford, GA, US
+  ✓ Troy - Troy, MI, US
+  ✓ Tampa - Tampa, FL, US
+  ✓ Bradenton - Bradenton, FL, US
+  ✓ Sarasota - Sarasota, FL, US
+  ✓ Jacksonville - Jacksonville, FL, US
+  ✓ Orlando - Sand Lake Road - Orlando, FL, US
+  ✓ Altamonte Springs - Altamonte Springs, FL, US
+  ✓ Naples - Naples, FL, US
+  ✓ Raleigh - Raleigh, NC, US
+  ✓ McLean - Tysons Corner - McLean, VA, US
+  ✓ North Bethesda - North Bethesda, MD, US
+  ✓ Columbia - Columbia, MD, US
+  ✓ Sunrise - Sawgrass - Sunrise, FL, US
+  ✓ Palm Beach Gardens - Palm Beach Gardens, FL, US
+  ✓ Boca Raton - Boca Raton, FL, US
+  ✓ Coral Gables - Coral Gables, FL, US
+  ✓ Fort Lauderdale - Galleria Mall - Fort Lauderdale, FL, US
+  ✓ King of Prussia - King of Prussia, PA, US
+  ✓ Cherry Hill - Cherry Hill, NJ, US
+  ✓ Bridgewater - Bridgewater, NJ, US
+  ✓ Princeton - Princeton, NJ, US
+  ✓ Parsippany - Hanover - Hanover, NJ, US
+  ✓ Edison - Menlo Park - Edison, NJ, US
+  ✓ Paramus - Paramus, NJ, US
+  ✓ Garden City - Garden City, NY, US
+  ✓ Burlington - Burlington, MA, US
+  ✓ Chestnut Hill - Chestnut Hill, MA, US
+
+Searching alaska...
+
+Searching hawaii...
+
+Searching canada...
+
+Searching mexico...
+
+Searching caribbean...
+
+Searching central_america...
+
+Searching south_america...
+
+Searching middle_east...
+
+Searching asia...
+
+✓ seasons52: 45 total locations
+  By country:
+    US: 45
+
+================================================================================
+Scraping EDDIEV - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ San Diego - San Diego, CA, US
+  ✓ La Jolla - La Jolla, CA, US
+  ✓ El Segundo, CA - El Segundo, CA, US
+  ✓ Palm Desert, CA - Palm Desert, CA, US
+  ✓ Scottsdale - Scottsdale, AZ, US
+  ✓ Greenwood Village - Greenwood Village, CO, US
+  ✓ San Antonio,TX - San Antonio, TX, US
+  ✓ Austin - Arboretum - Austin, TX, US
+  ✓ Austin - 5th Street - Austin, TX, US
+  ✓ Fort Worth - Fort Worth, TX, US
+  ✓ Plano, TX - Plano, TX, US
+  ✓ Houston - CityCentre - Houston, TX, US
+  ✓ Houston - West Ave - Houston, TX, US
+  ✓ Kansas City - Kansas City, MO, US
+  ✓ Oak Brook - Oak Brook, IL, US
+  ✓ Nashville - Nashville, TN, US
+  ✓ Alpharetta - Alpharetta, GA, US
+  ✓ Troy, MI - Troy, MI, US
+  ✓ Charlotte, NC - Charlotte, NC, US
+  ✓ Pittsburgh - Pittsburgh, PA, US
+  ✓ Tampa - Tampa, FL, US
+  ✓ Orlando - Orlando, FL, US
+  ✓ McLean - Tysons Corner - McLean, VA, US
+  ✓ Boca Raton - Boca Raton, FL, US
+  ✓ Fort Lauderdale, FL - Fort Lauderdale, FL, US
+  ✓ King of Prussia, PA - King of Prussia, PA, US
+  ✓ Cherry Hill - Cherry Hill, NJ, US
+  ✓ Princeton - Princeton, NJ, US
+  ✓ Paramus, NJ - Paramus, NJ, US
+  ✓ Burlington, MA - Burlington, MA, US
+
+Searching alaska...
+
+Searching hawaii...
+
+Searching canada...
+
+Searching mexico...
+
+Searching caribbean...
+
+Searching central_america...
+
+Searching south_america...
+
+Searching middle_east...
+
+Searching asia...
+
+✓ eddiev: 30 total locations
+  By country:
+    US: 30
+
+================================================================================
+Scraping BAHAMABREEZE - WORLDWIDE
+================================================================================
+
+Searching continental_us...
+  ✓ Seattle - Tukwila - Tukwila, WA, US
+  ✓ Atlanta - Kennesaw - Kennesaw, GA, US
+  ✓ Atlanta - Gwinnett - Duluth, GA, US
+  ✓ Detroit - Livonia - Livonia, MI, US
+  ✓ Pittsburgh-Robinson Township - Pittsburgh, PA, US
+  ✓ Tampa - Tampa, FL, US
+  ✓ Lutz - Wesley Chapel - Lutz, FL, US
+  ✓ Brandon - Brandon Mall - Brandon, FL, US
+  ✓ Jacksonville - St. Johns Town Center - Jacksonville, FL, US
+  ✓ Kissimmee - US 192 West - Kissimmee, FL, US
+  ✓ Orlando - Lake Buena Vista - Orlando, FL, US
+  ✓ Orlando - International Drive - Orlando, FL, US
+  ✓ Orlando - Grand National - Orlando, FL, US
+  ✓ Altamonte Springs - Altamonte Springs, FL, US
+  ✓ Sanford - Sanford, FL, US
+  ✓ Kissimmee - Osceola Pkwy The Loop - Kissimmee, FL, US
+  ✓ North Charleston - Charleston, SC, US
+  ✓ Fort Myers - Fort Myers, FL, US
+  ✓ Orlando - Waterford Lakes - Orlando, FL, US
+  ✓ Fayetteville - Cross Creek Mall - Fayetteville, NC, US
+  ✓ Raleigh - Raleigh, NC, US
+  ✓ Woodbridge - Potomac Mills - Woodbridge, VA, US
+  ✓ Fort Lauderdale - Pembroke Pines - Pembroke Pines, FL, US
+  ✓ Miami - Kendall - Miami, FL, US
+  ✓ Newark - Christiana Mall - Newark, DE, US
+  ✓ Philadelphia - King of Prussia - King of Prussia, PA, US
+  ✓ Virginia Beach - Pembroke Mall - Virginia Beach, VA, US
+  ✓ Cherry Hill - Cherry Hill Mall - Cherry Hill, NJ, US
+  ✓ Orlando - International Airport MCO - Orlando, FL, US
+
+Searching alaska...
+
+Searching hawaii...
+
+Searching canada...
+
+Searching mexico...
+
+Searching caribbean...
+
+Searching central_america...
+
+Searching south_america...
+
+Searching middle_east...
+
+Searching asia...
+
+✓ bahamabreeze: 29 total locations
+  By country:
+    US: 29
+
+================================================================================
+FINAL SUMMARY - ALL DARDEN BRANDS WORLDWIDE
+================================================================================
+olivegarden         :  985 locations
+longhornsteakhouse  :  622 locations
+cheddars            :  187 locations
+chuys               :  109 locations
+yardhouse           :   91 locations
+ruthschris          :  161 locations
+thecapitalgrille    :   76 locations
+seasons52           :   45 locations
+eddiev              :   30 locations
+bahamabreeze        :   29 locations
+================================================================================
+TOTAL               : 2335 locations
+
+✓ All data saved to all_darden_locations_complete.json

@@ -1,0 +1,29 @@
+{
+  "TTM_Revenue": 12187.7,
+  "TTM_Operating_Income": 1382.3,
+  "TTM_Net_Earnings": 1064.6,
+  "TTM_Operating_Margin": 11.341762596716361,
+  "TTM_Net_Margin": 8.735036142996625,
+  "Segments": {
+    "Olive Garden": {
+      "fy2025": 5236,
+      "growth": 0.017,
+      "margin": 21.9
+    },
+    "LongHorn": {
+      "fy2025": 3073,
+      "growth": 0.051,
+      "margin": 18.2
+    },
+    "Fine Dining": {
+      "fy2025": 2609,
+      "growth": -0.03,
+      "margin": 18.7
+    },
+    "Other": {
+      "fy2025": 1159,
+      "growth": 0.002,
+      "margin": 15.1
+    }
+  }
+}

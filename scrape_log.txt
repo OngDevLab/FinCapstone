@@ -1,0 +1,1189 @@
+Scraping Olive Garden locations...
+This will take ~10-15 minutes to cover the entire US
+
+Searching 180 grid points...
+Progress: 1/180 - Checking (25, -125)
+Progress: 2/180 - Checking (25, -122)
+Progress: 3/180 - Checking (25, -119)
+Progress: 4/180 - Checking (25, -116)
+Progress: 5/180 - Checking (25, -113)
+Progress: 6/180 - Checking (25, -110)
+Progress: 7/180 - Checking (25, -107)
+Progress: 8/180 - Checking (25, -104)
+Progress: 9/180 - Checking (25, -101)
+  Found: Aurora (Monterrey) - San Pedro Garza García, NL
+  Found: Anahuac - Nuevo León, NL
+Progress: 10/180 - Checking (25, -98)
+  Found: Brownsville - Brownsville, TX
+  Found: Weslaco - Valley Crossing - Weslaco, TX
+  Found: San Juan - San Juan, TX
+  Found: South McAllen - Expressway 83 - McAllen, TX
+  Found: Harlingen - Valle Vista Mall - Harlingen, TX
+  Found: Mission TX - Bryan Road & I-2 - Mission, TX
+  Found: North McAllen - North 10th and Trenton - McAllen, TX
+Progress: 11/180 - Checking (25, -95)
+Progress: 12/180 - Checking (25, -92)
+Progress: 13/180 - Checking (25, -89)
+Progress: 14/180 - Checking (25, -86)
+Progress: 15/180 - Checking (25, -83)
+  Found: Naples - Naples, FL
+  Found: Coconut Point Mall - Estero, FL
+  Found: Gulf Coast Town Center - Fort Myers, FL
+  Found: Fort Myers - Fort Myers, FL
+  Found: Cape Coral - Coral Walk Shopping Center - Cape Coral, FL
+  Found: Port Charlotte - Town Center Mall - Port Charlotte, FL
+  Found: Sarasota Landings Shopping Plaza - Sarasota, FL
+Progress: 16/180 - Checking (25, -80)
+  Found: Homestead Pavillion - Homestead, FL
+  Found: Cutler Bay - Cutler Bay, FL
+  Found: Miami - Kendall - Miami, FL
+  Found: Miami - Flagler - Miami, FL
+  Found: Hialeah - Hialeah, FL
+  Found: Aventura - Aventura, FL
+  Found: Pembroke Lakes Mall - Pembroke Pines, FL
+  Found: Plantation - The Fountains - Plantation, FL
+  Found: Sunrise FL - Sawgrass Mills Mall - Sunrise, FL
+  Found: Fort Lauderdale - Fort Lauderdale, FL
+  Found: Coral Springs - Coral Springs, FL
+  Found: Boca Raton - Palms Plaza - Boca Raton, FL
+  Found: Boynton Beach - Promenade Shops - Boynton Beach, FL
+  Found: Greenacres - Lake Worth, FL
+  Found: Wellington Mall - Wellington, FL
+  Found: Palm Beach Gardens - West Palm Beach, FL
+  Found: Jensen Beach - Jensen Beach, FL
+  Found: Port Saint Lucie - Tradition - Port Saint Lucie, FL
+Progress: 17/180 - Checking (25, -77)
+Progress: 18/180 - Checking (25, -74)
+Progress: 19/180 - Checking (25, -71)
+Progress: 20/180 - Checking (25, -68)
+Progress: 21/180 - Checking (28, -125)
+Progress: 22/180 - Checking (28, -122)
+Progress: 23/180 - Checking (28, -119)
+Progress: 24/180 - Checking (28, -116)
+Progress: 25/180 - Checking (28, -113)
+Progress: 26/180 - Checking (28, -110)
+Progress: 27/180 - Checking (28, -107)
+Progress: 28/180 - Checking (28, -104)
+Progress: 29/180 - Checking (28, -101)
+  Found: Laredo - Mall Del Norte - Laredo, TX
+  Found: Laredo TX - Near TAMIU - Laredo, TX
+Progress: 30/180 - Checking (28, -98)
+  Found: Portland TX - US 181 - Portland, TX
+  Found: Corpus Christi - La Palmera Mall - Corpus Christi, TX
+  Found: Victoria - Victoria, TX
+  Found: San Antonio - Military Drive - San Antonio, TX
+  Found: San Antonio - Zarzamora and IH35 - San Antonio, TX
+  Found: San Antonio - Windcrest - San Antonio, TX
+  Found: San Antonio - Dove Creek - San Antonio, TX
+  Found: San Antonio - Ingram Park Mall - San Antonio, TX
+  Found: San Antonio TX - San Pedro Crossing - San Antonio, TX
+  Found: Live Oak Town Center - Live Oak, TX
+  Found: San Antonio - Culebra and W. Loop 1604 - San Antonio, TX
+  Found: San Antonio - Bitters Rd-Hwy 281N - San Antonio, TX
+  Found: San Antonio TX - Silverado Station - San Antonio, TX
+  Found: San Antonio - IH10 and W. Loop 1604 - San Antonio, TX
+  Found: San Antonio - Stone Oak and Hwy 281 - San Antonio, TX
+  Found: New Braunfels - New Braunfels, TX
+  Found: San Marcos - San Marcos, TX
+  Found: Austin - South Lamar Blvd - Austin, TX
+Progress: 31/180 - Checking (28, -95)
+  Found: Lake Jackson - Brazos Mall - Lake Jackson, TX
+  Found: Texas City - Mall of the Mainland - Texas City, TX
+  Found: Alvin Hwy 6 Bypass - Alvin, TX
+  Found: Friendswood - Baybrook Mall - Friendswood, TX
+  Found: Pearland - Pearland, TX
+  Found: Missouri City TX - Fort Bend Town Center - Missouri City, TX
+  Found: Houston - Almeda Mall - Houston, TX
+  Found: Pasadena - Pasadena, TX
+  Found: Rosenberg - Rosenberg, TX
+  Found: Sugar Land - Sugar Land, TX
+  Found: Houston - Gulfgate Center - Houston, TX
+  Found: Houston - NRG Stadium off Old Spanish Trl & Kirby - Houston, TX
+  Found: Houston - SW Freeway near Gessner Blvd - Houston, TX
+  Found: Richmond TX - The Grand at Aliana - Richmond, TX
+  Found: Houston - 59 between Kirby and Buffalo Speedway - Houston, TX
+  Found: Baytown - Baytown, TX
+  Found: Wallisville Road - Houston, TX
+  Found: Houston - West Oaks Mall - Houston, TX
+  Found: Houston - Bunkerhill - Houston, TX
+  Found: Houston - Freeway 290 - Houston, TX
+  Found: Katy - Katy, TX
+  Found: Houston - Generation Park - Houston, TX
+  Found: Humble - Deer Brook Mall - Humble, TX
+  Found: Houston - Willowbrook Mall - Houston, TX
+  Found: Houston - Richey Rd. - Houston, TX
+  Found: Cypress TX - Fairfield Marketplace - Cypress, TX
+  Found: Spring, Texas - Grand Parkway Marketplace - Spring, TX
+  Found: New Caney - New Caney, TX
+  Found: Spring Texas - Woodlands Mall - Spring, TX
+  Found: Beaumont - Beaumont, TX
+Progress: 32/180 - Checking (28, -92)
+  Found: Houma - Houma, LA
+  Found: Lafayette LA - Acadiana Mall - Lafayette, LA
+Progress: 33/180 - Checking (28, -89)
+  Found: Kenner - Kenner, LA
+Progress: 34/180 - Checking (28, -86)
+  Found: Panama City - SR 77 - Panama City, FL
+  Found: Panama City Beach - Panama City Beach, FL
+Progress: 35/180 - Checking (28, -83)
+  Found: Largo Mall - Largo, FL
+  Found: Clearwater - Country Side - Clearwater, FL
+  Found: Pinellas Park - Pinellas Park, FL
+  Found: Tampa - Citrus Park Mall - Tampa, FL
+  Found: Port Richey - Port Richey, FL
+  Found: Tampa - Airport - Westshore - Tampa, FL
+  Found: Tampa - Busch Gardens - Tampa, FL
+  Found: Tampa Palms - Tampa, FL
+  Found: Brandon Mall - Brandon, FL
+  Found: Bradenton - Bradenton, FL
+  Found: Brooksville FL - Cortez Blvd - Brooksville, FL
+  Found: Lakeside Village - Harden Blvd - Lakeland, FL
+  Found: Lakeland Mall - US Highway 98 - Lakeland, FL
+  Found: Inverness - Inverness, FL
+  Found: Winter Haven - Winter Haven, FL
+  Found: Clermont - Clermont, FL
+  Found: Davenport - ChampionsGate - Davenport, FL
+  Found: The Villages - The Villages, FL
+  Found: West Kissimmee - near Margaritaville Resort - Kissimmee, FL
+  Found: Leesburg - Leesburg, FL
+  Found: Ocala - Paddock mall - Ocala, FL
+  Found: Orlando - Lake Buena Vista - Orlando, FL
+  Found: East Kissimmee - near Old Town - Kissimmee, FL
+  Found: Orlando - International Drive - Orlando, FL
+  Found: Kissimmee - The Loop at Hunters Creek - Kissimmee, FL
+  Found: Sebring - Sebring, FL
+  Found: Orlando - West Colonial Near Ocoee - Orlando, FL
+  Found: Orlando - Millenia Mall - Orlando, FL
+  Found: Orlando - Florida Mall - Orlando, FL
+  Found: Altamonte Springs - Altamonte Springs, FL
+  Found: Winter Park Village - Winter Park, FL
+  Found: Orlando - Fashion Square - Orlando, FL
+  Found: Orlando - Lake Nona - Orlando, FL
+  Found: Sanford Town Center - Sanford, FL
+  Found: Orlando - Waterford Lakes Near UCF - Orlando, FL
+  Found: Gainesville - Florida - Gainesville, FL
+  Found: Orange City - Orange City, FL
+  Found: Port Orange - The Pavillion - Port Orange, FL
+  Found: Merritt Island - Merritt Island, FL
+  Found: West Melbourne - West Melbourne, FL
+  Found: Daytona Beach - Daytona Beach, FL
+  Found: Palm Coast - Palm Coast, FL
+  Found: Lake City - Lake City, FL
+  Found: Vero Beach - Vero Beach, FL
+Progress: 36/180 - Checking (28, -80)
+Progress: 37/180 - Checking (28, -77)
+Progress: 38/180 - Checking (28, -74)
+Progress: 39/180 - Checking (28, -71)
+Progress: 40/180 - Checking (28, -68)
+Progress: 41/180 - Checking (31, -125)
+Progress: 42/180 - Checking (31, -122)
+Progress: 43/180 - Checking (31, -119)
+  Found: Chula Vista Center - Chula Vista, CA
+  Found: San Diego - Sports Arena - San Diego, CA
+Progress: 44/180 - Checking (31, -116)
+  Found: El Centro - El Centro, CA
+  Found: La Mesa - La Mesa, CA
+  Found: Santee Trolley Square - Santee, CA
+  Found: Yuma - Yuma, AZ
+  Found: San Diego - Carmel Mountain - San Diego, CA
+  Found: Escondido - Escondido, CA
+Progress: 45/180 - Checking (31, -113)
+  Found: Tucson - Irvington - Tucson, AZ
+  Found: Tucson Mall - Tucson, AZ
+  Found: Tucson - Broadway - Tucson, AZ
+  Found: Casa Grande - Casa Grande, AZ
+  Found: Oro Valley Marketplace - Oro Valley, AZ
+Progress: 46/180 - Checking (31, -110)
+  Found: Sierra Vista - Sierra Vista, AZ
+Progress: 47/180 - Checking (31, -107)
+  Found: El Paso - Sunland Mall - El Paso, TX
+  Found: El Paso - Gateway Blvd - El Paso, TX
+  Found: El Paso - Joe Battle Blvd - El Paso, TX
+  Found: El Paso North - El Paso, TX
+  Found: Las Cruces - Las Cruces, NM
+Progress: 48/180 - Checking (31, -104)
+  Found: Odessa - Odessa, TX
+  Found: Midland Park Mall - Midland, TX
+Progress: 49/180 - Checking (31, -101)
+  Found: San Angelo - San Angelo, TX
+  Found: Abilene - Abilene, TX
+Progress: 50/180 - Checking (31, -98)
+  Found: Killeen - Killeen, TX
+  Found: Georgetown - Wolf Crossing - Georgetown, TX
+  Found: Temple - Temple, TX
+  Found: Austin - Lakeline Mall - Austin, TX
+  Found: Round Rock - La Frontera Shopping Center - Round Rock, TX
+  Found: Austin - Burnet Rd - Austin, TX
+  Found: Waco - Richland Mall - Waco, TX
+  Found: Cleburne TX - US 67 - Cleburne, TX
+  Found: College Station - College Station, TX
+  Found: Burleson Town Center - Burleson, TX
+  Found: Waxahachie - Waxahachie, TX
+  Found: Weatherford - Weatherford, TX
+  Found: Mansfield Town Center - Mansfield, TX
+  Found: Fort Worth - Hulen - Fort Worth, TX
+  Found: Fort Worth - Ridgmar Mall - Fort Worth, TX
+  Found: South Arlington - Cooper & I-20 - Arlington, TX
+  Found: Red Oak TX - Near I-35E - Red Oak, TX
+  Found: Grand Prairie - Grand Prairie, TX
+  Found: Duncanville - Duncanville, TX
+  Found: North Arlington by Six Flags - Arlington, TX
+  Found: North Richland Hills - Northeast Mall - North Richland Hills, TX
+  Found: Fort Worth - Alliance Town Center - Fort Worth, TX
+  Found: Dallas - I-30 and Westmoreland Rd - Dallas, TX
+  Found: Irving Mall - Irving, TX
+  Found: Grapevine - Grapevine, TX
+  Found: Dallas - Northwest Highway - Dallas, TX
+  Found: Fort Worth - Tanger Outlets - Fort Worth, TX
+  Found: Huntsville - Texas - Huntsville, TX
+  Found: Mesquite - Mesquite, TX
+  Found: Garland - LBJ Fwy - Garland, TX
+  Found: Addison - Addison, TX
+  Found: Lewisville - Vista Ridge Mall - Lewisville, TX
+  Found: Dallas - Greenville Ave - Dallas, TX
+  Found: Terrell - Terrell, TX
+  Found: Conroe - Conroe, TX
+  Found: Garland - Firewheel - Garland, TX
+  Found: Plano - Collin Creek Mall - Plano, TX
+  Found: Plaza at Rockwall - Rockwall, TX
+  Found: Denton - Golden Triangle Mall - Denton, TX
+Progress: 51/180 - Checking (31, -95)
+  Found: Lufkin - Garden District - Lufkin, TX
+  Found: Tyler - Broadway Crossing - Tyler, TX
+  Found: Longview - Longview, TX
+  Found: Lake Charles - Lake Charles, LA
+  Found: Shreveport - Youree Drive - Shreveport, LA
+  Found: Bossier City - Bossier City, LA
+  Found: Alexandria LA - MacArthur Drive - Alexandria, LA
+  Found: Greenville TX - Frontage Road - Greenville, TX
+Progress: 52/180 - Checking (31, -92)
+  Found: Baton Rouge - Baton Rouge, LA
+  Found: Gonzales - I-10 & Hwy 30 - Gonzales, LA
+  Found: Hammond - Hammond, LA
+  Found: Monroe, LA - Monroe, LA
+  Found: Covington - Covington, LA
+  Found: Slidell - Slidell, LA
+  Found: Jackson near I-55 N - Jackson, MS
+  Found: Hattiesburg - Hattiesburg, MS
+Progress: 53/180 - Checking (31, -89)
+  Found: D'Iberville - D'Iberville, MS
+  Found: Mobile - Mobile, AL
+  Found: Spanish Fort - Spanish Fort, AL
+  Found: Meridian MS - S Frontage Rd - Meridian, MS
+  Found: Pensacola - Pensacola, FL
+  Found: Ft Walton Beach - Fort Walton Beach, FL
+  Found: Destin - Destin, FL
+Progress: 54/180 - Checking (31, -86)
+  Found: Dothan - Dothan, AL
+  Found: Montgomery - Montgomery, AL
+  Found: Prattville - Prattville, AL
+  Found: Tallahassee - Tallahassee, FL
+  Found: Albany - Albany, GA
+  Found: Opelika - Tiger Town Shopping Center - Opelika, AL
+  Found: Columbus - Georgia - Columbus, GA
+  Found: Tifton - Tifton, GA
+  Found: Valdosta - Valdosta, GA
+Progress: 55/180 - Checking (31, -83)
+  Found: Waycross - Memorial Drive - Waycross, GA
+  Found: Jacksonville - River City Market Place - Jacksonville, FL
+  Found: Brunswick - Brunswick, GA
+  Found: Jacksonville - Orange Park - Jacksonville, FL
+  Found: Jacksonville at Regency - Jacksonville, FL
+  Found: Jacksonville - Avenues Mall - Jacksonville, FL
+  Found: Jacksonville FL - Windsor Commons - Jacksonville, FL
+  Found: Warner Robins - Warner Robins, GA
+  Found: Statesboro - Statesboro, GA
+  Found: Savannah - Abercorn Street - Savannah, GA
+  Found: Pooler Parkway - Pooler, GA
+  Found: Macon - Macon, GA
+  Found: Bluffton - Bluffton, SC
+Progress: 56/180 - Checking (31, -80)
+  Found: North Charleston - Northwoods Mall - North Charleston, SC
+Progress: 57/180 - Checking (31, -77)
+Progress: 58/180 - Checking (31, -74)
+Progress: 59/180 - Checking (31, -71)
+Progress: 60/180 - Checking (31, -68)
+Progress: 61/180 - Checking (34, -125)
+Progress: 62/180 - Checking (34, -122)
+  Found: Santa Maria - Santa Maria, CA
+  Found: San Luis Obispo - San Luis Obispo, CA
+Progress: 63/180 - Checking (34, -119)
+  Found: Thousand Oaks - Thousand Oaks, CA
+  Found: Oxnard - Oxnard, CA
+  Found: Fallbrook Center - West Hills, CA
+  Found: Chatsworth - Northridge Galleria - Chatsworth, CA
+  Found: Culver City, Westfield Mall - Culver City, CA
+  Found: Manhattan Beach - Manhattan Beach, CA
+  Found: Los Angeles - Midtown - Los Angeles, CA
+  Found: Santa Clarita - Santa Clarita, CA
+  Found: Torrance - Torrance, CA
+  Found: Burbank Empire Shopping Center - Burbank, CA
+  Found: Carson CA - SouthBay Pavilion - Carson, CA
+  Found: Glendale - Galleria - Glendale, CA
+  Found: Downey - Stonewood Mall - Downey, CA
+  Found: Montebello - Montebello, CA
+  Found: Cerritos CA - Los Cerritos Center - Cerritos, CA
+  Found: Whittier - The Quad - Whittier, CA
+  Found: Arcadia - Arcadia, CA
+  Found: Cypress CA - Katella Ave - Cypress, CA
+  Found: Buena Park Downtown Shopping Mall - Buena Park, CA
+  Found: Huntington Beach - Huntington Beach, CA
+  Found: City of Industry - Puente Hills Mall - City Of Industry, CA
+  Found: Palmdale - Antelope Valley Mall - Palmdale, CA
+  Found: Brea Mall - Brea, CA
+  Found: Santa Ana - Santa Ana, CA
+  Found: San Dimas - San Dimas, CA
+  Found: Orange - Village at Orange - Orange, CA
+  Found: Irvine - Irvine, CA
+  Found: Chino Spectrum Towne Center - Chino, CA
+  Found: Monclair Plaza - Montclair, CA
+  Found: Laguna Woods - Laguna Woods, CA
+  Found: Ontario Mills Mall - Ontario, CA
+  Found: Eastvale - The Station - Eastvale, CA
+  Found: Riverside - Tyler Mall - Riverside, CA
+  Found: Rialto - Rialto, CA
+  Found: Bakersfield - Bakersfield, CA
+  Found: San Bernardino - Hospitality Lane - San Bernardino, CA
+  Found: Moreno Valley Mall - Moreno Valley, CA
+  Found: Victor Valley Mall - Victorville, CA
+  Found: Menifee Town Center - Menifee, CA
+  Found: Temecula Promenade Town Center - Temecula, CA
+  Found: Carlsbad - Camino Real Mall - Carlsbad, CA
+  Found: Palm Desert - Las Sombras Center - Palm Desert, CA
+  Found: Visalia - Packwood Creek - Visalia, CA
+  Found: Visalia - Packwood Creek - Hanford, CA
+Progress: 64/180 - Checking (34, -116)
+  Found: Henderson NV - Lake Mead - Henderson, NV
+  Found: Henderson - Henderson, NV
+  Found: Las Vegas - Showcase Mall - Las Vegas, NV
+  Found: Summerlin - W Charleston Blvd & I-215 - Las Vegas, NV
+  Found: Las Vegas - Flamingo Road - Las Vegas, NV
+  Found: Las Vegas - Decatur - Las Vegas, NV
+  Found: Las Vegas - Nellis Blvd - Las Vegas, NV
+  Found: Las Vegas - Cheyenne Ave - Las Vegas, NV
+Progress: 65/180 - Checking (34, -113)
+  Found: Surprise - Surprise, AZ
+  Found: Prescott - Prescott, AZ
+  Found: Peoria - Arrowhead Towne Center - Peoria, AZ
+  Found: Goodyear - Centerpointe Mall - Goodyear, AZ
+  Found: Glendale - Westgate Entertainment District - Glendale, AZ
+  Found: Phoenix - Happy Valley Town Center - Phoenix, AZ
+  Found: Phoenix - Desert Sky - Phoenix, AZ
+  Found: Phoenix - Metro Center - Phoenix, AZ
+  Found: Phoenix - Christown Spectrum - Phoenix, AZ
+  Found: Scottsdale - E Cactus Rd - Scottsdale, AZ
+  Found: Tempe - W. Elliot Rd - Tempe, AZ
+  Found: Southern Fiesta Mall - West Mesa Alma School Rd - Mesa, AZ
+  Found: Chandler Fashion Mall - Chandler, AZ
+  Found: Chandler - Gilbert - Crossroad Towne Center - Chandler, AZ
+  Found: Superstition Springs Mall - East Mesa Southern - Mesa, AZ
+  Found: Queen Creek Market Place - Queen Creek, AZ
+  Found: Flagstaff - Flagstaff, AZ
+Progress: 66/180 - Checking (34, -110)
+Progress: 67/180 - Checking (34, -107)
+  Found: Albuquerque - Juan Tabo Blvd - Albuquerque, NM
+  Found: Albuquerque NM - Coors Blvd Bypass - Albuquerque, NM
+  Found: Albuquerque - San Mateo Blvd - Albuquerque, NM
+  Found: Albuquerque - Coors Blvd Bypass - Albuquerque, NM
+  Found: Santa Fe - Santa Fe, NM
+Progress: 68/180 - Checking (34, -104)
+  Found: Lubbock - South Plains Mall - Lubbock, TX
+  Found: Amarillo - Amarillo, TX
+Progress: 69/180 - Checking (34, -101)
+  Found: Wichita Square - Wichita Falls, TX
+  Found: Lawton - Lawton, OK
+Progress: 70/180 - Checking (34, -98)
+  Found: Sherman Town Center - Sherman, TX
+  Found: Prosper - Prosper, TX
+  Found: Norman - Norman, OK
+  Found: Frisco - Stonebriar Mall - Frisco, TX
+  Found: McKinney - McKinney, TX
+  Found: Allen - The Village - Allen, TX
+  Found: OKC South - Oklahoma City, OK
+  Found: Westgate Marketplace - Oklahoma City, OK
+  Found: Midwest City - Warren Theater - Oklahoma City, OK
+  Found: OKC - Penn Square - Oklahoma City, OK
+  Found: OKC - Quail Springs - Oklahoma City, OK
+  Found: Stillwater - Stillwater, OK
+Progress: 71/180 - Checking (34, -95)
+  Found: Texarkana - Central Mall - Texarkana, TX
+  Found: Fort Smith - Fort Smith, AR
+  Found: Hot Springs - Hot Springs, AR
+  Found: Muskogee OK - N 32nd Street - Muskogee, OK
+  Found: Russellville AR - Main St - Russellville, AR
+  Found: Benton - Benton, AR
+  Found: Broken Arrow - Broken Arrow, OK
+  Found: Tulsa - Memorial - Tulsa, OK
+  Found: Siloam Springs AR - Hwy 412 - Siloam Springs, AR
+  Found: Fayetteville AR - Mall Ave - Fayetteville, AR
+  Found: Catoosa Hills - Catoosa, OK
+  Found: Tulsa - Utica Square - Tulsa, OK
+  Found: Little Rock - Rodney Parham Rd. - Little Rock, AR
+  Found: Sand Springs OK - Wilson Ave - Sand Springs, OK
+Progress: 72/180 - Checking (34, -92)
+  Found: North Little Rock - North Little Rock, AR
+  Found: Cabot AR - US 67 and W Main St - Cabot, AR
+  Found: Conway - Museum Rd - Conway, AR
+  Found: Southaven - Airways - Southaven, MS
+  Found: Memphis - Poplar Ave - Memphis, TN
+  Found: Memphis - Winchester Rd - Memphis, TN
+  Found: Jonesboro - Jonesboro, AR
+  Found: Memphis - Wolfchase Mall - Memphis, TN
+Progress: 73/180 - Checking (34, -89)
+  Found: Tupelo - Tupelo, MS
+  Found: Florence - Alabama - Florence, AL
+  Found: Tuscaloosa - Tuscaloosa, AL
+  Found: Jackson - Columns - Jackson, TN
+  Found: Decatur - Decatur, AL
+  Found: Gardendale - Fieldstown Rd - Gardendale, AL
+  Found: Hoover - Riverchase - Hoover, AL
+  Found: Alabaster - Alabaster, AL
+  Found: Birmingham - Trussville - Birmingham, AL
+  Found: Huntsville - Alabama - Huntsville, AL
+Progress: 74/180 - Checking (34, -86)
+  Found: Gadsden AL - Rainbow Dr - Gadsden, AL
+  Found: Oxford - Oxford, AL
+  Found: Rome - Rome, GA
+  Found: Carrollton Crossroads - Carrollton, GA
+  Found: Cartersville GA - Main Street Shopping Center - Cartersville, GA
+  Found: Douglasville - Arbor Place Mall - Douglasville, GA
+  Found: Dalton - W Walnut Ave - Dalton, GA
+  Found: Austell GA - Heritage Hills - Austell, GA
+  Found: Kennesaw - Kennesaw, GA
+  Found: Newnan - Ashley Park Shopping Centre - Newnan, GA
+  Found: Chattanooga - Hamilton Place Mall - Chattanooga, TN
+  Found: Smyrna - Cobb Parkway - Smyrna, GA
+  Found: East Point - Camp Creek - East Point, GA
+  Found: Hixson - Hixson, TN
+  Found: Canton - Georgia - Canton, GA
+  Found: Roswell - Roswell, GA
+  Found: Dunwoody - Perimeter Village Shopping Center - Dunwoody, GA
+  Found: Fayetteville GA - Hwy 85 - Fayetteville, GA
+  Found: Morrow - Southlake Mall - Morrow, GA
+  Found: Cleveland, TN - Cleveland, TN
+  Found: Duluth - Gwinnett Place Mall - Duluth, GA
+  Found: McDonough - McDonough, GA
+  Found: Lithonia - Stonecrest Mall - Lithonia, GA
+  Found: Dawsonville - Dawsonville, GA
+  Found: Snellville - Scenic Hwy - Snellville, GA
+  Found: Buford - The Mall of Georgia - Buford, GA
+  Found: Gainesville - Dawsonville Hwy - Gainesville, GA
+  Found: Covington GA - Near Covington Crossings - Covington, GA
+  Found: Murfreesboro - Murfreesboro, TN
+  Found: Spring Hill - Spring Hill, TN
+  Found: Franklin - Franklin, TN
+  Found: Athens - Georgia Square Mall - Athens, GA
+  Found: Antioch - Bell Road - Antioch, TN
+  Found: Cookeville - Cookeville, TN
+  Found: Mount Juliet - Providence - Mount Juliet, TN
+  Found: Nashville - Opry Mills - Nashville, TN
+Progress: 75/180 - Checking (34, -83)
+  Found: Anderson - Clemson Boulevard - Anderson, SC
+  Found: Augusta GA - River Watch Parkway - Augusta, GA
+  Found: Greenville - Laurens Road - Greenville, SC
+  Found: Greenville - Cherrydale - Greenville, SC
+  Found: Aiken - Whiskey Rd - Aiken, SC
+  Found: Spartanburg - Spartanburg, SC
+  Found: Arden - Arden, NC
+  Found: Columbia SC - Harbison - Columbia, SC
+  Found: Asheville - Asheville, NC
+  Found: Columbia SC - Sandhills - Columbia, SC
+  Found: Sevierville - Sevierville, TN
+  Found: Rock Hill - Dave Lyle Boulevard - Rock Hill, SC
+  Found: Alcoa - Alcoa, TN
+  Found: Gastonia - The Shops at Gastonia - Gastonia, NC
+  Found: Charlotte - Premium Outlets - Charlotte, NC
+  Found: Morganton NC - Sterling Street - Morganton, NC
+  Found: Pineville - Carolina Place Mall - Pineville, NC
+  Found: Knoxville - West Town Mall - Knoxville, TN
+  Found: Knoxville - Turkey Creek - Knoxville, TN
+  Found: Hickory - Valley Crossing Shopping Center - Hickory, NC
+  Found: Northlake Commons - Charlotte, NC
+  Found: Monroe - The Park at Monroe - Monroe, NC
+  Found: Morristown - Morristown, TN
+  Found: Concord Mills Outlet - Concord, NC
+Progress: 76/180 - Checking (34, -80)
+  Found: Florence - Magnolia Mall - Florence, SC
+  Found: Myrtle Beach near Carolina Forest and Conway - Myrtle Beach, SC
+  Found: Myrtle Beach - Downtown - Myrtle Beach, SC
+  Found: North Myrtle Beach - Barefoot Landing - North Myrtle Beach, SC
+  Found: Southern Pines - Southern Pines, NC
+  Found: Fayetteville NC - Near Fort Bragg - Fayetteville, NC
+  Found: Salisbury - Wallace Commons - Salisbury, NC
+  Found: Mooresville - Mooresville, NC
+  Found: Wilmington - Wilmington, NC
+  Found: Holly Springs Towne Center - Holly Springs, NC
+  Found: Statesville NC - Crossroads Shopping Center - Statesville, NC
+  Found: High Point - High Point, NC
+  Found: Cary - Cary, NC
+  Found: Greensboro - Greensboro, NC
+  Found: Winston Salem - Hanes Mall - Winston-Salem, NC
+  Found: Burlington - North Carolina - Burlington, NC
+  Found: Raleigh - Brier Creek - Raleigh, NC
+  Found: Berkeley Mall - Goldsboro, NC
+  Found: Raleigh - Raleigh, NC
+  Found: Jacksonville - North Carolina - Jacksonville, NC
+  Found: Wake Forest - Wake Forest, NC
+Progress: 77/180 - Checking (34, -77)
+  Found: Morehead City - Morehead City, NC
+  Found: Greenville - North Carolina - Greenville, NC
+  Found: Wilson - Wilson, NC
+  Found: Rocky Mount - Rocky Mount, NC
+Progress: 78/180 - Checking (34, -74)
+Progress: 79/180 - Checking (34, -71)
+Progress: 80/180 - Checking (34, -68)
+Progress: 81/180 - Checking (37, -125)
+  Found: Rohnert Park - Rohnert Park, CA
+Progress: 82/180 - Checking (37, -122)
+  Found: Capitola Mall - Capitola, CA
+  Found: San Jose - San Jose, CA
+  Found: Eastridge Mall - San Jose, CA
+  Found: Salinas - Salinas, CA
+  Found: Milpitas - Great Mall - Milpitas, CA
+  Found: Fremont - Fremont, CA
+  Found: Hayward - Hayward, CA
+  Found: Tracy - West Valley Mall - Tracy, CA
+  Found: Pittsburg - Pittsburg, CA
+  Found: Modesto - Modesto, CA
+  Found: Turlock - Countryside Plaza - Turlock, CA
+  Found: Stockton - Stockton, CA
+  Found: Vallejo - Vallejo, CA
+  Found: Merced - Merced, CA
+  Found: Vacaville - Vacaville, CA
+  Found: Elk Grove - Elk Grove, CA
+  Found: Sacramento - Arden Mall - Sacramento, CA
+  Found: Fresno - The Marketplace at El Paseo - Fresno, CA
+  Found: Natomas Sacramento - The Promenade Shopping Mall - Sacramento, CA
+  Found: Citrus Heights - Citrus Heights, CA
+  Found: Folsom - Folsom, CA
+  Found: Clovis - Sierra Vista Mall - Clovis, CA
+  Found: Roseville - Across from Galleria Mall - Roseville, CA
+  Found: Yuba City - Yuba City, CA
+Progress: 83/180 - Checking (37, -119)
+  Found: Carson City NV - S Carson St - Carson City, NV
+Progress: 84/180 - Checking (37, -116)
+  Found: Centennial Hills - Las Vegas, NV
+  Found: North Las Vegas - Craig Rd. - North Las Vegas, NV
+  Found: St. George - Saint George, UT
+Progress: 85/180 - Checking (37, -113)
+Progress: 86/180 - Checking (37, -110)
+  Found: Farmington - Farmington, NM
+Progress: 87/180 - Checking (37, -107)
+  Found: Pueblo - Pueblo, CO
+Progress: 88/180 - Checking (37, -104)
+  Found: South Colorado Springs - Citadel Crossing Mall - Colorado Springs, CO
+  Found: North Colorado Springs - Chapel Hills Mall - Colorado Springs, CO
+Progress: 89/180 - Checking (37, -101)
+Progress: 90/180 - Checking (37, -98)
+  Found: Derby - Derby, KS
+  Found: W. Wichita - New Market Square - Wichita, KS
+  Found: Wichita - Town East Mall - Wichita, KS
+  Found: Hutchinson - Hutchinson, KS
+  Found: Salina - Salina, KS
+  Found: Owasso - Owasso, OK
+Progress: 91/180 - Checking (37, -95)
+  Found: Joplin - Joplin, MO
+  Found: Rogers - Rogers, AR
+  Found: Springfield MO - Sunshine Street - Springfield, MO
+  Found: Springfield MO - S Glenstone Ave - Springfield, MO
+  Found: Branson - Branson, MO
+  Found: Olathe Point - Olathe, KS
+  Found: Overland Park - Metcalf South Mall - Overland Park, KS
+  Found: Lee's Summit - Lees Summit, MO
+  Found: Independence - Independence, MO
+  Found: Blue Springs - Blue Springs, MO
+  Found: Topeka - West Ridge Mall - Topeka, KS
+  Found: KC - Speedway Plaza - Kansas City, KS
+  Found: Kansas City - North Barry Road - Kansas City, MO
+  Found: Liberty - Liberty, MO
+Progress: 92/180 - Checking (37, -92)
+  Found: Fenton - Gravois Bluff - Fenton, MO
+  Found: Cape Girardeau - Cape Girardeau, MO
+  Found: Columbia MO - Columbia, MO
+  Found: Affton - South County - Affton, MO
+  Found: Chesterfield - St Louis MO - Chesterfield, MO
+  Found: Wentzville Crossing South - Wentzville, MO
+  Found: St Peters - Mid Rivers - Saint Peters, MO
+  Found: Bridgeton - Rock Rd - Bridgeton, MO
+  Found: Fairview Heights - St Clair Mall - Fairview Heights, IL
+Progress: 93/180 - Checking (37, -89)
+  Found: Paducah - Kentucky Oaks Mall - Paducah, KY
+  Found: Marion - W Deyoung St - Marion, IL
+  Found: Clarksville - Wilma Rudolph Blvd - Clarksville, TN
+  Found: Evansville IN - W Lloyd Expy - Evansville, IN
+  Found: Evansville - Eastland Mall - Evansville, IN
+  Found: Owensboro - Owensboro, KY
+  Found: Edwardsville - Orchard Town Center - Edwardsville, IL
+  Found: Madison - Rivergate - Madison, TN
+  Found: Bowling Green - Bowling Green, KY
+Progress: 94/180 - Checking (37, -86)
+  Found: Elizabethtown - Elizabethtown, KY
+  Found: Louisville - Jefferson Mall - Louisville, KY
+  Found: Louisville - Hurstbourne Parkway - Louisville, KY
+  Found: Clarksville - Veterans Pkwy - Clarksville, IN
+  Found: Louisville - Old Brownsboro Crossing - Louisville, KY
+  Found: Richmond Centre - Richmond, KY
+  Found: Lexington Fayette Mall - Lexington, KY
+  Found: Lexington - Man O War - Lexington, KY
+  Found: Bloomington - Whitehall Crossing - Bloomington, IN
+  Found: Florence Mall - Florence, KY
+Progress: 95/180 - Checking (37, -83)
+  Found: Kingsport - Kingsport, TN
+  Found: Bristol - Bristol, VA
+  Found: Johnson City Mall - Johnson City, TN
+  Found: Ashland - Ashland, KY
+  Found: Barboursville - Huntington Mall - Barboursville, WV
+  Found: Beckley - Beckley, WV
+  Found: Charleston - South Ridge - Charleston, WV
+  Found: Wilkesboro - US Highway 421N - Wilkesboro, NC
+  Found: Christiansburg - New River Mall - Christiansburg, VA
+  Found: Cincinnati - Beechmont Avenue - Cincinnati, OH
+Progress: 96/180 - Checking (37, -80)
+  Found: Roanoke - Valley View Mall - Roanoke, VA
+  Found: Danville - Piedmont Mall - Danville, VA
+  Found: Lynchburg - Wards Rd - Lynchburg, VA
+  Found: Harrisonburg - Harrisonburg, VA
+  Found: Richmond - Midlothian Tpk - Richmond, VA
+  Found: Short Pump - Richmond, VA
+  Found: Richmond - Glenside Drive - Richmond, VA
+  Found: Colonial Heights Mall - Colonial Heights, VA
+  Found: Richmond - White Oak Village - Henrico, VA
+  Found: Clarksburg - New Point Plaza - Clarksburg, WV
+Progress: 97/180 - Checking (37, -77)
+  Found: Williamsburg - Williamsburg, VA
+  Found: Newport News - Newport News, VA
+  Found: Hampton - Hampton, VA
+  Found: Chesapeake Square Mall - Chesapeake, VA
+  Found: Norfolk - JANAF Shopping Center - Norfolk, VA
+  Found: Chesapeake - Greenbrier Mall - Chesapeake, VA
+  Found: Virginia Beach - Lynnhaven Mall - Virginia Beach, VA
+  Found: California MD - Lexington Park - California, MD
+  Found: Fredericksburg - Fredericksburg, VA
+  Found: Waldorf - St. Charles Mall - Waldorf, MD
+  Found: Woodbridge - Virginia - Woodbridge, VA
+  Found: Salisbury - Maryland - Salisbury, MD
+  Found: Manassas - Manassas, VA
+  Found: Falls Church - Falls Church, VA
+  Found: Capitol Heights - Capitol Heights, MD
+  Found: Fairfax - Fairfax, VA
+  Found: Vienna - Vienna, VA
+  Found: Easton - Maryland - Easton, MD
+  Found: Bowie Town Center - Bowie, MD
+  Found: Hyattsville - Prince George Plaza - Hyattsville, MD
+  Found: Sterling - Sterling, VA
+  Found: Laurel Mall - Laurel, MD
+  Found: Hanover MD - Arundel Mills - Hanover, MD
+  Found: Columbia MD - Columbia, MD
+Progress: 98/180 - Checking (37, -74)
+Progress: 99/180 - Checking (37, -71)
+Progress: 100/180 - Checking (37, -68)
+Progress: 101/180 - Checking (40, -125)
+  Found: Redding - Redding, CA
+Progress: 102/180 - Checking (40, -122)
+  Found: Across from Chico Mall - Chico, CA
+  Found: Reno - Reno, NV
+  Found: Sparks - Legends Mall - Sparks, NV
+Progress: 103/180 - Checking (40, -119)
+Progress: 104/180 - Checking (40, -116)
+Progress: 105/180 - Checking (40, -113)
+  Found: Saratoga Springs - Saratoga Springs, UT
+  Found: South Jordan - South Jordan, UT
+  Found: American Fork - American Fork, UT
+  Found: Sandy - South Towne Mall - Sandy, UT
+  Found: Spanish Fork - Spanish Fork, UT
+  Found: Provo - Provo, UT
+  Found: West Valley - Valley Fair Mall - West Valley, UT
+  Found: Murray - Fashion Place Mall - Murray, UT
+  Found: Salt Lake City - Sugarhouse - Salt Lake City, UT
+  Found: West Bountiful - West Bountiful, UT
+  Found: Layton Hills Mall - Layton, UT
+  Found: Riverdale Road - Riverdale, UT
+  Found: Logan - Cache Valley Mall - Logan, UT
+Progress: 106/180 - Checking (40, -110)
+  Found: Grand Junction - Mesa Mall - Grand Junction, CO
+Progress: 107/180 - Checking (40, -107)
+  Found: Denver West - Lakewood, CO
+  Found: Westminster CO - Downtown - Westminster, CO
+  Found: Belmar - Lakewood, CO
+  Found: Littleton - Southwest Plaza Mall - Littleton, CO
+  Found: Fort Collins - Fort Collins, CO
+  Found: Thornton - Thornton, CO
+  Found: Highlands Ranch - Highlands Ranch, CO
+  Found: DENVER - THE SHOPS AT NORTHFIELD - Denver, CO
+  Found: Aurora - S Havana St - Aurora, CO
+  Found: Brighton CO - Prarie Center - Brighton, CO
+  Found: Greeley Mall - Greeley, CO
+  Found: Aurora - Southlands Pkwy - Aurora, CO
+  Found: Cheyenne - Frontier Mall - Cheyenne, WY
+Progress: 108/180 - Checking (40, -104)
+Progress: 109/180 - Checking (40, -101)
+  Found: Grand Island - Grand Island, NE
+Progress: 110/180 - Checking (40, -98)
+  Found: Lincoln - Gateway Mall - Lincoln, NE
+  Found: Manhattan Town Center - Manhattan, KS
+  Found: Omaha Lakeside - Omaha, NE
+  Found: Papillion - Shadow Lake Towne Center - Papillion, NE
+  Found: Omaha - Dodge St - Omaha, NE
+  Found: Council Bluffs - Metro Crossing - Council Bluffs, IA
+Progress: 111/180 - Checking (40, -95)
+  Found: Saint Joseph - The Shoppes at North Village - Saint Joseph, MO
+  Found: West Des Moines - Westown Parkway - West Des Moines, IA
+  Found: Des Moines IA - SE 14th Street - Des Moines, IA
+  Found: Ankeny - Oralabor Road - Ankeny, IA
+Progress: 112/180 - Checking (40, -92)
+  Found: Coralville Ridge Mall - Coralville, IA
+  Found: Springfield IL - White Oaks Plaza - Springfield, IL
+  Found: Moline - Moline, IL
+  Found: Davenport - North Park Mall - Davenport, IA
+  Found: Peoria - Willow Knolls Court - Peoria, IL
+  Found: Cedar Rapids - Collins Road - Cedar Rapids, IA
+Progress: 113/180 - Checking (40, -89)
+  Found: Decatur - Mound Center - Decatur, IL
+  Found: Bloomington - Eastland Mall - Bloomington, IL
+  Found: Champaign - Champaign, IL
+  Found: Terre Haute - Town South Plaza - Terre Haute, IN
+  Found: Peru Market Place - Peru, IL
+  Found: Bradley-Bourbonnais - Bourbonnais, IL
+  Found: Joliet - Plainfield IL - Lincoln Hwy - Plainfield, IL
+  Found: Lafayette IN - South St - Lafayette, IN
+  Found: Matteson Center - Matteson, IL
+  Found: Oswego - Prairie Market Mall - Oswego, IL
+  Found: Bolingbrook - Country Aire Plaza - Bolingbrook, IL
+  Found: Orland Square Mall - Orland Park, IL
+  Found: Naperville - Fox Valley Mall - Naperville, IL
+  Found: Highland - Grove Shopping Center - Highland, IN
+  Found: Lansing - Lansing, IL
+  Found: Merrillville - Westfield South Lake Mall - Merrillville, IN
+  Found: Lombard - Yorktown Center - Lombard, IL
+  Found: Burbank - Ford City Mall - Burbank, IL
+  Found: St. Charles - Charlestown Mall - Saint Charles, IL
+  Found: Bloomingdale - Stratford Square Mall - Bloomingdale, IL
+  Found: North Riverside - Riverside Mall - North Riverside, IL
+  Found: Avon Commons - Avon, IN
+  Found: Melrose Park - Melrose Park, IL
+  Found: Carmel - North Michigan Road - Carmel, IN
+  Found: Addison - Chicago, IL - Chicago, IL
+  Found: West Dundee - Spring Hill Mall - West Dundee, IL
+  Found: Schaumburg - Woodfield Mall - Schaumburg, IL
+  Found: Lincolnwood Town Center Mall - Lincolnwood, IL
+  Found: Kokomo - Lafountain - Kokomo, IN
+  Found: Arlington Heights - Arlington Heights, IL
+  Found: Greenwood Park Mall - Greenwood, IN
+  Found: Indianapolis - Castleton Square Mall - Indianapolis, IN
+  Found: Rockford - State Street - Rockford, IL
+  Found: Michigan City - Franklin Street - Michigan City, IN
+  Found: Indianapolis - East Washington Street - Indianapolis, IN
+Progress: 114/180 - Checking (40, -86)
+  Found: Noblesville - Hamilton Town Center - Noblesville, IN
+  Found: Greenfield IN -  N State Street - Greenfield, IN
+  Found: Anderson - Scatterfield Road - Anderson, IN
+  Found: Muncie - McGalliard Road - Muncie, IN
+  Found: Richmond - Indiana - Richmond, IN
+  Found: Fort Wayne - Glenbrook Mall - Fort Wayne, IN
+  Found: Cincinnati - Stone Creek Center - Cincinnati, OH
+  Found: Fairfield - Fairfield, OH
+  Found: Piqua OH - Ash Street - Piqua, OH
+  Found: Middletown - Ohio - Middletown, OH
+  Found: Dayton North - Miller Lane - Dayton, OH
+  Found: Dayton Mall - Dayton, OH
+  Found: Cincinnati-Oakley - Cincinnati, OH
+  Found: Cincinnati - Mason - Cincinnati, OH
+  Found: Fairborn - Beavercreek, OH
+  Found: Lima - Lima, OH
+  Found: Springfield OH - N Bechtle Ave - Springfield, OH
+  Found: Mishawaka - University Park Mall - Mishawaka, IN
+  Found: Elkhart - Elkhart, IN
+  Found: Findlay - Findlay, OH
+  Found: Hilliard - Columbus, OH
+  Found: Columbus - Sawmill Rd - Columbus, OH
+  Found: Portage - Crossroads Mall - Portage, MI
+  Found: Grove City - Grove City, OH
+  Found: Columbus - Polaris Mall - Columbus, OH
+Progress: 115/180 - Checking (40, -83)
+  Found: Columbus - N Hamilton Rd - Columbus, OH
+  Found: Reynoldsburg - Reynoldsburg, OH
+  Found: Lancaster - River Valley Mall - Lancaster, OH
+  Found: Heath - Heath, OH
+  Found: Chillicothe - Chillicothe, OH
+  Found: Zanesville - Zanesville, OH
+  Found: Mansfield - Ontario - Mansfield, OH
+  Found: Parkersburg Mall - Vienna, WV
+  Found: Sandusky - Sandusky, OH
+  Found: Canton - Ohio - Canton, OH
+  Found: Akron - Montrose Hwy 18 - Akron, OH
+  Found: Elyria - Midway Mall - Elyria, OH
+  Found: Cuyahoga Falls - Cuyahoga Falls, OH
+  Found: Middleburg Heights - Middleburg Heights, OH
+  Found: North Olmsted - Great Northern Mall - North Olmsted, OH
+  Found: Parma Town Mall - Parma, OH
+  Found: Toledo - S Reynolds Rd - Toledo, OH
+  Found: Toledo - Monroe St - Toledo, OH
+  Found: Warrensville Heights - Beachwood - Beachwood, OH
+  Found: Triadelphia - Triadelphia, WV
+  Found: Boardman - Poland Rd - Boardman Township, OH
+  Found: Mentor - Great Lakes Mall - Mentor, OH
+  Found: Niles - Eastwood Mall - Niles, OH
+  Found: Washington - Washington, PA
+  Found: Southgate - Southgate, MI
+  Found: Pittsburgh - Robinson Town Center - Pittsburgh, PA
+  Found: Bethel Park - Village Square Shopping Center - Bethel Park, PA
+  Found: Pittsburgh - Greentree - Pittsburgh, PA
+  Found: Ann Arbor - Briarwood Mall - Ann Arbor, MI
+  Found: Cranberry Township - Cranberry Township, PA
+Progress: 116/180 - Checking (40, -80)
+  Found: Uniontown - Uniontown, PA
+  Found: Pleasant Hills - Southland Center - Pleasant Hills, PA
+  Found: Morgantown - Morgantown, WV
+  Found: Monroeville Mall - Monroeville, PA
+  Found: Greensburg - Westmoreland Mall - Greensburg, PA
+  Found: McIntyre Square Shopping Center - Pittsburgh, PA
+  Found: Tarentum - Pittsburgh Mills Mall - Tarentum, PA
+  Found: Altoona - Altoona, PA
+  Found: Martinsburg - Martinsburg, WV
+  Found: Winchester - Winchester, VA
+  Found: Hagerstown - Hagerstown, MD
+  Found: State College - State College, PA
+  Found: Chambersburg - Walker Road - Chambersburg, PA
+  Found: Erie - Mill Creek Mall - Erie, PA
+  Found: Frederick - Frederick, MD
+  Found: Lakewood - New York - Lakewood, NY
+  Found: Mechanicsburg - Silver Spring Commons - Mechanicsburg, PA
+  Found: Hanover PA - Hanover, PA
+Progress: 117/180 - Checking (40, -77)
+  Found: York - York, PA
+  Found: Harrisburg - Colonial Commons - Harrisburg, PA
+  Found: Westminster MD - Gorsuch Rd - Rt 140 - Westminster, MD
+  Found: Lancaster - Park City Mall - Lancaster, PA
+  Found: Lancaster - Rockvale Outlets - Lancaster, PA
+  Found: Baltimore MD - White Marsh - Nottingham, MD
+  Found: Bel Air MD - James Run - Bel Air, MD
+  Found: Wyomissing - Wyomissing, PA
+  Found: Elkton - Elkton, MD
+  Found: Downingtown - Quarry Crossings - Downingtown, PA
+  Found: Christiana - Newark, DE
+  Found: Bloomsburg - Bloomsburg, PA
+  Found: Talleyville - Talleyville, DE
+  Found: Collegeville - Providence Town Center - Collegeville, PA
+  Found: Williamsport - Williamsport, PA
+  Found: Springfield PA - Baltimore Pike - Springfield, PA
+  Found: Whitehall - Whitehall, PA
+  Found: Bala Cynwyd - Bala Cynwyd, PA
+  Found: North Wales - Gwynedd Crossing - North Wales, PA
+  Found: Dover - Dover, DE
+  Found: Willow Grove - Easton Rd - Willow Grove, PA
+  Found: Court of Deptford Plaza - Deptford, NJ
+  Found: Easton - Pennsylvania - Easton, PA
+  Found: Philadelphia - E Roosevelt Blvd - Philadelphia, PA
+  Found: Wilkes Barre - Wilkes Barre, PA
+  Found: Cherry Hill - Cherry Hill, NJ
+  Found: Voorhees - Voorhees, NJ
+  Found: Vineland - Vineland, NJ
+  Found: Langhorne - Oxford Valley Mall - Langhorne, PA
+  Found: Stroudsburg - Stroudsburg, PA
+  Found: Scranton - Scranton, PA
+  Found: Lawrenceville - Mercer Mall - Trenton, NJ
+  Found: Bridgewater Town Centre - Bridgewater, NJ
+  Found: Mays Landing - Hamilton Mall - Mays Landing, NJ
+  Found: Piscataway - Centenial Square - Piscataway, NJ
+  Found: Brunswick Square Mall - East Brunswick, NJ
+  Found: Rockaway Mall - Rockaway, NJ
+  Found: Freehold Marketplace Plaza - Freehold, NJ
+  Found: Manahawkin - Stafford Plaza - Manahawkin, NJ
+  Found: Woodbridge Center - Woodbridge, NJ
+  Found: Springfield NJ - Route 22 - Springfield, NJ
+  Found: Horseheads - Horseheads, NY
+  Found: Tom's River - Toms River, NJ
+  Found: Vestal - Vestal, NY
+  Found: Wayne Town Center - Wayne, NJ
+  Found: Eatontown - Eatontown, NJ
+Progress: 118/180 - Checking (40, -74)
+  Found: Brooklyn - Caesar's Bay - Brooklyn, NY
+  Found: Brooklyn - Gateway Shopping Plaza - Brooklyn, NY
+  Found: Valley Stream - Valley Stream, NY
+  Found: Elmhurst - Elmhurst, NY
+  Found: NYC - Times Square - New York, NY
+  Found: Secaucus - Millcreek Mall - Secaucus, NJ
+  Found: Westbury Plaza - Westbury, NY
+  Found: Bronx - Bronx, NY
+  Found: Bergen Town Center - Paramus, NJ
+  Found: Bay Shore - Bay Shore, NY
+  Found: Yonkers, NY - Yonkers, NY
+  Found: Centereach Mall - Centereach, NY
+  Found: Danbury - Danbury, CT
+  Found: Orange - Connecticut - Orange, CT
+  Found: Middletown - New York - Middletown, NY
+  Found: North Haven - North Haven, CT
+  Found: Poughkeepsie - Poughkeepsie, NY
+  Found: Waterford - Crystal Mall - Waterford, CT
+  Found: West Hartford - West Hartford, CT
+  Found: Manchester CT - Buckland Hills - Manchester, CT
+  Found: Enfield - Enfield, CT
+Progress: 119/180 - Checking (40, -71)
+  Found: Dartmouth Mall - North Dartmouth, MA
+  Found: Warwick - Warwick, RI
+  Found: Hyannis - Hyannis, MA
+  Found: South Attleboro - South Attleboro, MA
+  Found: Plymouth - Colony Place - Plymouth, MA
+  Found: Foxboro - Gillette Stadium - Foxboro, MA
+  Found: Stoughton - Stoughton, MA
+  Found: Worcester - Worcester, MA
+  Found: Framingham - Shoppers World Plaza - Framingham, MA
+  Found: Dorchester - South Bay Plaza - Dorchester, MA
+Progress: 120/180 - Checking (40, -68)
+Progress: 121/180 - Checking (43, -125)
+  Found: Medford - Medford, OR
+  Found: Eugene - Valley River Center Mall - Eugene, OR
+Progress: 122/180 - Checking (43, -122)
+  Found: Bend - Cascade Village - Bend, OR
+  Found: Salem - Lancaster Mall - Salem, OR
+Progress: 123/180 - Checking (43, -119)
+  Found: Nampa - Market Place Drive - Nampa, ID
+  Found: Meridian ID - Orchard Park - Meridian, ID
+  Found: Boise Town Square Mall - Boise, ID
+Progress: 124/180 - Checking (43, -116)
+  Found: Twin Falls - Magic Valley Mall - Twin Falls, ID
+Progress: 125/180 - Checking (43, -113)
+  Found: Chubbuck - Pine Ridge Mall - Chubbuck, ID
+  Found: Idaho Falls - Idaho Falls, ID
+Progress: 126/180 - Checking (43, -110)
+Progress: 127/180 - Checking (43, -107)
+  Found: Casper - Casper, WY
+Progress: 128/180 - Checking (43, -104)
+  Found: Rapid City - Rushmore Mall - Rapid City, SD
+Progress: 129/180 - Checking (43, -101)
+Progress: 130/180 - Checking (43, -98)
+  Found: Sioux Falls - Sioux Falls, SD
+  Found: Sioux City - Lakeport Commons - Sioux City, IA
+Progress: 131/180 - Checking (43, -95)
+  Found: Mankato - River Hills Mall - Mankato, MN
+  Found: Waterloo - Cross Roads Mall - Waterloo, IA
+  Found: Rochester MN - Hwy 52 N - Rochester, MN
+  Found: Burnsville - Burnsville, MN
+  Found: Bloomington - Bloomington, MN
+  Found: Central Park Commons - Eagan, MN
+  Found: Minnetonka - Minnetonka, MN
+Progress: 132/180 - Checking (43, -92)
+  Found: Onalaska - Valley View Mall - Onalaska, WI
+  Found: Dubuque - Dodge Street - Dubuque, IA
+  Found: Eau Claire - Eau Claire, WI
+  Found: Madison - West Towne Mall - Madison, WI
+  Found: Madison - East Towne Mall - Madison, WI
+  Found: Oakdale - Oakdale, MN
+  Found: Maplewood - Maplewood, MN
+  Found: Roseville - Snelling and County Road C - Roseville, MN
+  Found: Janesville - Janesville, WI
+  Found: Coon Rapids - Coon Rapids, MN
+Progress: 133/180 - Checking (43, -89)
+  Found: Delafield - Delafield, WI
+  Found: Brookfield Square - Brookfield, WI
+  Found: Menomonee Falls - Menomonee Falls, WI
+  Found: Greenfield - Southridge Mall - Greenfield, WI
+  Found: McHenry - McHenry, IL
+  Found: Racine - Regency Mall - Racine, WI
+  Found: Pleasant Prairie - St Catherines - Pleasant Prairie, WI
+  Found: Gurnee - Great America - Gurnee, IL
+  Found: Oshkosh - Oshkosh, WI
+  Found: Vernon Hills - Hawthorn Mall - Vernon Hills, IL
+  Found: Sheboygan - US-42 - Sheboygan, WI
+  Found: Appleton - Fox River Mall - Appleton, WI
+  Found: Appleton - East - Appleton, WI
+  Found: Green Bay - Green Bay, WI
+  Found: Wausau - Wausau, WI
+  Found: Muskegon - Lakes Mall - Muskegon, MI
+  Found: Holland - Shops at Westshore - Holland, MI
+Progress: 134/180 - Checking (43, -86)
+  Found: Grandville - River Town Crossings Mall - Grandville, MI
+  Found: Grand Rapids - Walker - Grand Rapids, MI
+  Found: Grand Rapids - 28th Street - Grand Rapids, MI
+  Found: Battle Creek - Lakeview Square Mall - Battle Creek, MI
+  Found: Lansing MI - W Saginaw Hwy M-43 - Lansing, MI
+  Found: Mt. Pleasant - Mount Pleasant, MI
+  Found: Okemos MI - Meridian Mall - Okemos, MI
+  Found: Jackson - Near Jackson Airport - Jackson, MI
+  Found: Eastman - Midland, MI
+  Found: Saginaw MI - Bay Road M-84 - Saginaw, MI
+  Found: Flint - Miller Road - Flint, MI
+  Found: Brighton - Green Oak Village Place - Brighton, MI
+  Found: Traverse City - Traverse City, MI
+  Found: Novi Town Center - Novi, MI
+  Found: Auburn Hills - Auburn Hills, MI
+  Found: Livonia - Livonia, MI
+  Found: Rochester Hills MI - Emagine Movie Theater - Rochester Hills, MI
+  Found: Dearborn - Dearborn, MI
+  Found: Warren - Warren, MI
+  Found: Sterling Heights - Lakeside Circle - Sterling Heights, MI
+  Found: Eastpointe - Eastpointe, MI
+Progress: 135/180 - Checking (43, -83)
+  Found: Chesterfield - Detroit MI - Chesterfield, MI
+  Found: Fort Gratiot - Port Huron - Fort Gratiot, MI
+Progress: 136/180 - Checking (43, -80)
+  Found: Niagara Falls - Niagara Falls, NY
+  Found: Amherst - Amherst, NY
+  Found: Blasdell - Buffalo - Blasdell, NY
+  Found: Cheektowaga - Cheektowaga, NY
+  Found: Williamsville - Williamsville, NY
+  Found: Rochester - Greece NY - Paddy Creek Circle - Rochester, NY
+  Found: Rochester - Henrietta NY - Jefferson Rd - Rochester, NY
+  Found: Victor - Victor, NY
+Progress: 137/180 - Checking (43, -77)
+  Found: Clay - Clay, NY
+  Found: Dewitt - Syracuse, NY
+  Found: Watertown - Watertown, NY
+  Found: New Hartford - New Hartford, NY
+Progress: 138/180 - Checking (43, -74)
+  Found: Clifton Park - Clifton Park, NY
+  Found: Colonie - Colonie, NY
+  Found: Queensbury - Queensbury, NY
+  Found: West Springfield MA - Riverdale Shops - West Springfield, MA
+  Found: Burlington - Vermont - South Burlington, VT
+  Found: Leominster - Leominster, MA
+  Found: Concord - New Hampshire - Concord, NH
+  Found: Marlborough - Solomon Pond Mall - Marlborough, MA
+  Found: Manchester NH - S Willow St - Manchester, NH
+  Found: Tyngsboro - Pheasant Lane Mall - Tyngsboro, MA
+  Found: Methuen - Methuen, MA
+  Found: Danvers - Danvers, MA
+Progress: 139/180 - Checking (43, -71)
+  Found: Newington - Newington, NH
+  Found: South Portland - South Portland, ME
+  Found: Auburn ME - Turner St - Auburn, ME
+  Found: Augusta ME - Augusta, ME
+Progress: 140/180 - Checking (43, -68)
+  Found: Bangor - Bangor, ME
+Progress: 141/180 - Checking (46, -125)
+  Found: Beaverton Town Center - Beaverton, OR
+  Found: Lake Oswego - Lake Oswego, OR
+  Found: Vancouver Mall - Vancouver, WA
+  Found: Olympia - Olympia, WA
+  Found: Portland - Mall 205 - Portland, OR
+  Found: Vancouver - Columbia Tech Center - Vancouver, WA
+  Found: Clackamas Promenade - Clackamas, OR
+  Found: Gresham Village - Gresham, OR
+  Found: Tacoma - Tacoma, WA
+  Found: Puyallup - South Hill Mall - Puyallup, WA
+  Found: Federal Way - Federal Way, WA
+  Found: Silverdale - Silverdale, WA
+Progress: 142/180 - Checking (46, -122)
+  Found: Yakima - Yakima, WA
+  Found: Tukwila - Southcenter Mall - Tukwila, WA
+  Found: Kirkland - Totem Lake - Kirkland, WA
+  Found: East Wenatchee - East Wenatchee, WA
+  Found: Lynnwood - Lynnwood, WA
+  Found: Everett Mall - Everett, WA
+  Found: Kennewick - Kennewick, WA
+  Found: Tulalip - Tulalip, WA
+Progress: 143/180 - Checking (46, -119)
+  Found: Spokane - North Point Plaza - Spokane, WA
+  Found: Spokane Valley - Spokane Valley, WA
+  Found: Coeur D'Alene - Coeur D'Alene, ID
+Progress: 144/180 - Checking (46, -116)
+Progress: 145/180 - Checking (46, -113)
+  Found: Bozeman - Bozeman, MT
+Progress: 146/180 - Checking (46, -110)
+  Found: Billings - Billings, MT
+Progress: 147/180 - Checking (46, -107)
+Progress: 148/180 - Checking (46, -104)
+Progress: 149/180 - Checking (46, -101)
+  Found: Bismarck - Bismarck, ND
+  Found: Dakota Square Mall - Minot, ND
+Progress: 150/180 - Checking (46, -98)
+  Found: Fargo - West Acres Mall - Fargo, ND
+  Found: Grand Forks ND - Columbia Mall - Grand Forks, ND
+Progress: 151/180 - Checking (46, -95)
+  Found: Waite Park - Waite Park, MN
+  Found: Maple Grove - Maple Grove, MN
+  Found: Duluth - Miller Hill Mall - Duluth, MN
+Progress: 152/180 - Checking (46, -92)
+Progress: 153/180 - Checking (46, -89)
+Progress: 154/180 - Checking (46, -86)
+Progress: 155/180 - Checking (46, -83)
+Progress: 156/180 - Checking (46, -80)
+Progress: 157/180 - Checking (46, -77)
+Progress: 158/180 - Checking (46, -74)
+Progress: 159/180 - Checking (46, -71)
+Progress: 160/180 - Checking (46, -68)
+Progress: 161/180 - Checking (49, -125)
+  Found: Langley - Rio Can Centre - Langley, BC
+  Found: Bellingham - Bellingham, WA
+  Found: Burlington, Washington - Burlington, WA
+Progress: 162/180 - Checking (49, -122)
+Progress: 163/180 - Checking (49, -119)
+Progress: 164/180 - Checking (49, -116)
+Progress: 165/180 - Checking (49, -113)
+  Found: Calgary - Northgate Plaza - Calgary, AB
+Progress: 166/180 - Checking (49, -110)
+Progress: 167/180 - Checking (49, -107)
+  Found: Regina - Regina, SK
+Progress: 168/180 - Checking (49, -104)
+Progress: 169/180 - Checking (49, -101)
+Progress: 170/180 - Checking (49, -98)
+  Found: Winnipeg - Polo Park - Winnipeg, MB
+  Found: Winnipeg - Lagimodiere - Winnipeg, MB
+Progress: 171/180 - Checking (49, -95)
+Progress: 172/180 - Checking (49, -92)
+Progress: 173/180 - Checking (49, -89)
+Progress: 174/180 - Checking (49, -86)
+Progress: 175/180 - Checking (49, -83)
+Progress: 176/180 - Checking (49, -80)
+Progress: 177/180 - Checking (49, -77)
+Progress: 178/180 - Checking (49, -74)
+Progress: 179/180 - Checking (49, -71)
+Progress: 180/180 - Checking (49, -68)
+
+✓ Total unique locations found: 947
+✓ Saved to olive_garden_locations.json
+
+Locations by state:
+  TX: 117
+  FL: 80
+  CA: 80
+  OH: 38
+  PA: 37
+  GA: 36
+  IL: 33
+  NC: 32
+  NY: 30
+  MI: 28
+  VA: 26
+  AZ: 24
+  TN: 23
+  IN: 23
+  NJ: 19
+  WA: 19
+  MO: 18
+  WI: 17
+  AL: 16
+  CO: 16
+  MD: 16
+  OK: 15
+  MA: 15
+  SC: 14
+  UT: 14
+  LA: 13
+  NV: 13
+  MN: 13
+  AR: 12
+  KY: 12
+  KS: 10
+  IA: 10
+  OR: 9
+  WV: 8
+  NM: 7
+  CT: 7
+  ID: 7
+  MS: 6
+  NE: 5
+  ME: 4
+  ND: 4
+  DE: 3
+  NH: 3
+  NL: 2
+  WY: 2
+  SD: 2
+  MT: 2
+  MB: 2
+  RI: 1
+  VT: 1
+  BC: 1
+  AB: 1
+  SK: 1
