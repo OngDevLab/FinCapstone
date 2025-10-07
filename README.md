@@ -4,7 +4,7 @@ Interactive 3D globe visualization showing all 2,353 Darden restaurant locations
 
 ## 🌐 Live Demo
 
-[View Interactive Globe](https://YOUR_USERNAME.github.io/darden-map/)
+[View Interactive Globe](https://ongdevlab.github.io/FinCapstone/)
 
 ## 📊 Features
 
